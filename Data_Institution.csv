@@ -1,0 +1,979 @@
+﻿Institution,Publications,Citations,h-index,Average Citations per Publication,the percentage of articles of institutions in total publications,Country
+Univ Illinois,77,2956,33,38.39,7.92,United States
+Shanghai Jiao Tong Univ,41,887,17,21.63,4.22,China
+Univ Arizona,38,777,16,20.45,3.91,United States
+Univ Chicago,34,1308,23,38.47,3.5,United States
+Fudan Univ,25,803,14,32.12,2.57,China
+Brown Univ,22,590,16,26.82,2.26,United States
+Nanjing Med Univ,22,306,10,13.91,2.26,China
+Univ Maryland,21,368,12,17.52,2.16,United States
+Univ Penn,20,662,16,33.1,2.06,United States
+Wuhan Univ,20,230,10,11.5,2.06,China
+China Med Univ,19,369,9,19.42,1.95,China
+Wenzhou Med Univ,19,276,10,14.53,1.95,China
+Univ Toronto,18,704,14,39.11,1.85,Canada
+Anhui Med Univ,16,89,5,5.56,1.65,China
+Chongqing Med Univ,15,270,8,18.0,1.54,China
+Univ Pittsburgh,14,743,11,53.07,1.44,United States
+Southeast Univ,14,743,9,53.07,1.44,China
+Univ Sao Paulo,14,311,7,22.21,1.44,Brazil
+Univ Rochester,14,266,10,19.0,1.44,United States
+Fourth Mil Med Univ,14,177,9,12.64,1.44,China
+Univ Calif San Francisco,13,718,12,55.23,1.34,United States
+Augusta Univ,13,310,9,23.85,1.34,United States
+Sun Yat Sen Univ,13,186,7,14.31,1.34,China
+Northwestern Univ,12,1405,9,117.08,1.23,United States
+Univ Alabama Birmingham,12,295,8,24.58,1.23,United States
+Zhejiang Univ,12,265,10,22.08,1.23,China
+Univ Fed Rio de Janeiro,12,242,7,20.17,1.23,Brazil
+Univ Giessen,11,1381,10,125.55,1.13,Germany
+Harvard Univ,11,618,9,56.18,1.13,United States
+Univ S Alabama,11,330,8,30.0,1.13,United States
+Third Mil Med Univ,11,295,10,26.82,1.13,China
+Binzhou Med Univ,11,232,8,21.09,1.13,China
+Natl & Kapodistrian Univ Athens,10,394,7,39.4,1.03,Greece
+Tongji Univ,10,348,9,34.8,1.03,China
+Univ Arizona Hlth Sci,10,193,6,19.3,1.03,United States
+Providence Vet Affairs Med Ctr,10,191,8,19.1,1.03,United States
+Univ Genoa,10,187,5,18.7,1.03,Italy
+Huazhong Univ Sci & Technol,10,118,5,11.8,1.03,China
+Southern Med Univ,10,112,7,11.2,1.03,China
+Vanderbilt Univ,9,500,8,55.56,0.93,United States
+St Michaels Hosp,9,322,8,35.78,0.93,Canada
+Univ Calif Los Angeles,9,271,6,30.11,0.93,United States
+Ohio State Univ,9,195,6,21.67,0.93,United States
+Dalian Med Univ,9,118,6,13.11,0.93,China
+Old Dominion Univ,8,243,7,30.38,0.82,United States
+Univ Colorado,8,213,8,26.62,0.82,United States
+Capital Med Univ,8,192,7,24.0,0.82,China
+China Pharmaceut Univ,8,181,6,22.62,0.82,China
+Nanjing Univ,8,144,7,18.0,0.82,China
+Sichuan Univ,8,40,4,5.0,0.82,China
+Indiana Univ Sch Med,7,255,4,36.43,0.72,United States
+Georgia Regents Univ,7,246,7,35.14,0.72,United States
+Univ Michigan,7,235,6,33.57,0.72,United States
+Yale Univ,7,172,6,24.57,0.72,United States
+Univ Minnesota,7,96,5,13.71,0.72,United States
+Univ Louisiana Monroe,7,80,5,11.43,0.72,United States
+Nanchang Univ,7,58,5,8.29,0.72,China
+Imperial Coll London,6,276,5,46.0,0.62,United Kingdom
+Univ Colorado Denver,6,222,6,37.0,0.62,United States
+Second Mil Med Univ,6,166,6,27.67,0.62,China
+Massachusetts Gen Hosp,6,160,4,26.67,0.62,United States
+Tech Univ Dresden,6,141,5,23.5,0.62,Germany
+Zhengzhou Univ,6,114,6,19.0,0.62,China
+Chinese Acad Med Sci,6,104,4,17.33,0.62,China
+Baylor Coll Med,6,82,4,13.67,0.62,United States
+Yangzhou Univ,6,79,4,13.17,0.62,China
+Stanford Univ,6,75,4,12.5,0.62,United States
+Soochow Univ,6,35,4,5.83,0.62,China
+Guangzhou Med Univ,6,30,3,5.0,0.62,China
+Temple Univ,5,242,5,48.4,0.51,United States
+Charite,5,241,5,48.2,0.51,Germany
+Chiba Univ,5,227,5,45.4,0.51,Japan
+Hannover Med Sch,5,213,4,42.6,0.51,Germany
+Univ Tokyo,5,200,5,40.0,0.51,Japan
+Xi An Jiao Tong Univ,5,156,3,31.2,0.51,China
+Univ Vermont,5,147,4,29.4,0.51,United States
+Feinstein Inst Med Res,5,146,4,29.2,0.51,United States
+Shandong Univ,5,135,4,27.0,0.51,China
+Univ Cincinnati,5,133,4,26.6,0.51,United States
+Johns Hopkins Univ,5,129,5,25.8,0.51,United States
+Univ Illinois Hosp & Hlth Sci Syst,5,126,5,25.2,0.51,United States
+Ann & Robert H Lurie Childrens Hosp Chicago,5,105,4,21.0,0.51,United States
+Chinese Acad Sci,5,95,4,19.0,0.51,China
+Univ Calif San Diego,5,87,5,17.4,0.51,United States
+Justus Liebig Univ,5,83,5,16.6,0.51,Germany
+Natl Jewish Hlth,5,82,5,16.4,0.51,United States
+Bonfils Blood Ctr,5,77,5,15.4,0.51,United States
+Cent South Univ,5,60,4,12.0,0.51,China
+Univ Cambridge,4,577,4,144.25,0.41,United Kingdom
+Queens Univ Belfast,4,315,4,78.75,0.41,United Kingdom
+Vrije Univ Amsterdam,4,209,4,52.25,0.41,Netherlands
+Univ Western Ontario,4,207,4,51.75,0.41,Canada
+Beth Israel Deaconess Med Ctr,4,204,4,51.0,0.41,United States
+Univ London Imperial Coll Sci Technol & Med,4,186,4,46.5,0.41,United Kingdom
+Emory Univ,4,164,4,41.0,0.41,United States
+Columbia Univ,4,156,4,39.0,0.41,United States
+CUNY Queens Coll,4,148,4,37.0,0.41,United States
+Univ Geneva,4,143,4,35.75,0.41,Switzerland
+Guangdong Acad Med Sci,4,125,4,31.25,0.41,China
+Univ Virginia,4,125,3,31.25,0.41,United States
+Univ S Florida,4,120,4,30.0,0.41,United States
+Med Coll Wisconsin,4,106,4,26.5,0.41,United States
+Thomas Jefferson Univ,4,105,4,26.25,0.41,United States
+Cent S Univ,4,89,4,22.25,0.41,China
+Lund Univ,4,84,4,21.0,0.41,Sweden
+Inst Salud Carlos III,4,80,4,20.0,0.41,Spain
+Rush Univ,4,73,3,18.25,0.41,United States
+Harbin Med Univ,4,68,4,17.0,0.41,China
+Univ Washington,4,67,4,16.75,0.41,United States
+Univ Missouri,4,58,4,14.5,0.41,United States
+Nanjing Univ Chinese Med,4,57,3,14.25,0.41,China
+Zhejiang Chinese Med Univ,4,54,3,13.5,0.41,China
+Nagoya Univ,4,50,4,12.5,0.41,Japan
+Justus Liebig Univ Giessen,4,49,3,12.25,0.41,Germany
+Shanghai Resp Res Inst,4,45,4,11.25,0.41,China
+Hubei Key Lab Cardiol,4,36,3,9.0,0.41,China
+Northwest A&F Univ,4,36,2,9.0,0.41,China
+Anglia Ruskin Univ,4,32,3,8.0,0.41,United Kingdom
+Jinan Univ,4,31,1,7.75,0.41,China
+Guangzhou Univ Chinese Med,4,30,3,7.5,0.41,China
+Ningxia Med Univ,4,12,2,3.0,0.41,China
+Max Planck Inst Heart & Lung Res,3,864,3,288.0,0.31,Germany
+Harvard Med Sch,3,265,2,88.33,0.31,United States
+Comenius Univ,3,261,3,87.0,0.31,Slovakia
+Univ Bonn,3,257,3,85.67,0.31,Germany
+Vet Affairs Pittsburgh Healthcare Syst,3,219,3,73.0,0.31,United States
+Osaka Univ,3,207,3,69.0,0.31,Japan
+Univ Oxford,3,188,3,62.67,0.31,United Kingdom
+Univ Queensland,3,164,2,54.67,0.31,Australia
+Univ Texas Hlth Sci Ctr Houston,3,150,3,50.0,0.31,United States
+Boston Univ,3,146,3,48.67,0.31,United States
+Johannes Gutenberg Univ Mainz,3,142,3,47.33,0.31,Germany
+CHRU Lille,3,140,3,46.67,0.31,France
+Hosp Sick Children,3,134,3,44.67,0.31,Canada
+Weill Cornell Med Coll,3,125,3,41.67,0.31,United States
+Indiana Univ,3,123,3,41.0,0.31,United States
+Univ Tennessee,3,123,3,41.0,0.31,United States
+Ctr Dis Control & Prevent,3,120,3,40.0,0.31,United States
+Gifu Univ,3,110,3,36.67,0.31,Japan
+Peking Univ,3,105,3,35.0,0.31,China
+CNRS,3,100,3,33.33,0.31,France
+Inst Pasteur,3,100,3,33.33,0.31,France
+Lunginnov,3,100,3,33.33,0.31,France
+Peking Union Med Coll,3,99,3,33.0,0.31,China
+Keio Univ,3,98,3,32.67,0.31,Japan
+Childrens Hosp Philadelphia,3,96,3,32.0,0.31,United States
+Univ Louisville,3,96,3,32.0,0.31,United States
+Guizhou Prov Peoples Hosp,3,89,1,29.67,0.31,China
+Univ Athens,3,80,3,26.67,0.31,Greece
+Chinese Acad Med Sci & Peking Union Med Coll,3,76,2,25.33,0.31,China
+INSERM,3,75,3,25.0,0.31,France
+Univ Birmingham,3,70,3,23.33,0.31,United Kingdom
+Tzu Chi Univ,3,68,2,22.67,0.31,Taiwan
+Charite Univ Med Berlin,3,67,3,22.33,0.31,Germany
+Univ Texas Med Branch,3,63,3,21.0,0.31,United States
+Karl Franzens Univ Graz,3,63,3,21.0,0.31,Austria
+Free Univ Berlin,3,63,3,21.0,0.31,Germany
+Humboldt Univ,3,63,3,21.0,0.31,Germany
+Berlin Inst Hlth,3,63,3,21.0,0.31,Germany
+Univ North Carolina Chapel Hill,3,62,3,20.67,0.31,United States
+Chicago State Univ,3,59,2,19.67,0.31,United States
+Imperial Coll,3,58,2,19.33,0.31,United Kingdom
+San Martino Policlin Hosp,3,57,2,19.0,0.31,Italy
+Hosp Univ Getafe,3,53,3,17.67,0.31,Spain
+Tianjin Med Univ,3,53,3,17.67,0.31,China
+Guangzhou Mil Command,3,53,3,17.67,0.31,China
+Drexel Univ,3,52,3,17.33,0.31,United States
+Med Univ Graz,3,46,3,15.33,0.31,Austria
+Qingdao Univ,3,46,2,15.33,0.31,China
+Marquette Univ,3,45,3,15.0,0.31,United States
+Evangelismos Med Ctr,3,42,3,14.0,0.31,Greece
+Univ Hlth Network,3,37,3,12.33,0.31,Canada
+Ningbo Univ,3,26,2,8.67,0.31,China
+Yale Sch Med,3,18,2,6.0,0.31,United States
+Broward Hlth Med Ctr,3,18,2,6.0,0.31,United States
+Natl Def Med Ctr,3,18,2,6.0,0.31,Taiwan
+Taipei Vet Gen Hosp,3,17,3,5.67,0.31,Taiwan
+Univ Amsterdam,3,15,1,5.0,0.31,Netherlands
+Univ New Mexico,3,13,2,4.33,0.31,United States
+Southwest Med Univ,3,12,2,4.0,0.31,China
+Northwest Univ,3,8,2,2.67,0.31,China
+Naval Med Univ,3,7,1,2.33,0.31,China
+Army Med Univ,3,5,1,1.67,0.31,China
+Hebei North Univ,3,1,1,0.33,0.31,China
+Erasmus MC,2,495,2,247.5,0.21,Netherlands
+Queen Mary Univ London,2,400,2,200.0,0.21,United Kingdom
+Univ Liverpool,2,378,1,189.0,0.21,United Kingdom
+Monash Univ,2,243,2,121.5,0.21,Australia
+Univ Munich,2,238,2,119.0,0.21,Germany
+Natl Inst Environm Hlth Sci,2,197,2,98.5,0.21,United States
+Brigham & Womens Hosp,2,192,2,96.0,0.21,United States
+Hosp Civils Lyon,2,162,2,81.0,0.21,France
+London Hlth Sci Ctr,2,158,2,79.0,0.21,Canada
+Childrens Hosp Oakland,2,153,2,76.5,0.21,United States
+So Med Univ,2,137,2,68.5,0.21,China
+Rhode Isl Hosp,2,131,2,65.5,0.21,United States
+Univ Ulm,2,124,1,62.0,0.21,Germany
+Rhein Westfal TH Aachen,2,121,2,60.5,0.21,Germany
+Johns Hopkins Sch Med,2,111,2,55.5,0.21,United States
+Cincinnati Childrens Res Fdn,2,107,2,53.5,0.21,United States
+Univ Utah,2,103,2,51.5,0.21,United States
+New York Blood Ctr,2,103,2,51.5,0.21,United States
+Heidelberg Univ,2,99,2,49.5,0.21,Germany
+Univ Saarland,2,97,2,48.5,0.21,Germany
+Shanghai JianGong Hosp,2,92,2,46.0,0.21,China
+Eastern Virginia Med Sch,2,89,2,44.5,0.21,United States
+Natl Cerebral & Cardiovasc Ctr Res Inst,2,88,2,44.0,0.21,Japan
+Univ Melbourne,2,87,2,43.5,0.21,Australia
+Tohoku Univ,2,75,2,37.5,0.21,Japan
+Univ Zurich Hosp,2,71,2,35.5,0.21,Switzerland
+CHU Lille,2,68,2,34.0,0.21,France
+Univ Lille,2,68,2,34.0,0.21,France
+Cleveland Clin,2,67,2,33.5,0.21,United States
+Rio de Janeiro Fed Inst Educ Sci & Technol,2,66,2,33.0,0.21,Brazil
+Univ Adelaide,2,65,2,32.5,0.21,Australia
+Univ Tubingen Hosp,2,63,2,31.5,0.21,Germany
+SUNY Stony Brook,2,60,1,30.0,0.21,United States
+Huazhong Agr Univ,2,56,2,28.0,0.21,China
+Kyushu Univ,2,54,2,27.0,0.21,Japan
+Asahi Univ,2,54,2,27.0,0.21,Japan
+Gifu Univ Hosp,2,54,2,27.0,0.21,Japan
+UCSF,2,52,2,26.0,0.21,United States
+Jiangsu Univ,2,50,2,25.0,0.21,China
+Zhejiang Pharmaceut Coll,2,49,2,24.5,0.21,China
+Chinese Peoples Liberat Army,2,46,2,23.0,0.21,China
+Jilin Univ,2,46,2,23.0,0.21,China
+Washington Univ,2,45,2,22.5,0.21,United States
+St Louis Univ,2,44,2,22.0,0.21,United States
+Univ N Carolina,2,43,2,21.5,0.21,United States
+Ludwig Boltzmann Inst Lung Vasc Res,2,43,2,21.5,0.21,Austria
+Case Western Reserve Univ,2,42,1,21.0,0.21,United States
+Lawson Hlth Res Inst,2,41,2,20.5,0.21,Canada
+Shanghai Univ Med & Hlth Sci,2,40,2,20.0,0.21,China
+Nationwide Childrens Hosp,2,40,2,20.0,0.21,United States
+Dalian Municipal Cent Hosp,2,38,2,19.0,0.21,China
+Univ Bristol,2,35,2,17.5,0.21,United Kingdom
+Univ Manitoba,2,34,2,17.0,0.21,Canada
+Charlie Norwood VA Med Ctr,2,33,2,16.5,0.21,United States
+Univ Georgia,2,33,2,16.5,0.21,United States
+Denver Hlth Med Ctr,2,32,2,16.0,0.21,United States
+Hosp Univ Dr Negrin,2,31,2,15.5,0.21,Spain
+Univ La Laguna,2,31,2,15.5,0.21,Spain
+Ciber Enfermedades Resp CIBERES,2,30,2,15.0,0.21,Spain
+Univ Complutense Madrid,2,30,2,15.0,0.21,Spain
+Duke Univ,2,30,2,15.0,0.21,United States
+Juntendo Univ,2,30,2,15.0,0.21,Japan
+Flinders Univ S Australia,2,30,2,15.0,0.21,Australia
+Johns Hopkins Med Inst,2,29,2,14.5,0.21,United States
+Beijing Univ Chinese Med,2,29,1,14.5,0.21,China
+Weifang Med Univ,2,28,2,14.0,0.21,China
+Med Univ South Carolina,2,28,2,14.0,0.21,United States
+Univ Texas Southwestern Med Ctr Dallas,2,27,1,13.5,0.21,United States
+Sanquin Res,2,26,2,13.0,0.21,Netherlands
+Univ Calif Davis,2,26,1,13.0,0.21,United States
+Nantong Univ,2,25,2,12.5,0.21,China
+Tufts Univ,2,25,2,12.5,0.21,United States
+Second Hosp Jilin Univ,2,24,2,12.0,0.21,China
+Henan Univ,2,24,2,12.0,0.21,China
+Baltimore VA Med Ctr,2,22,2,11.0,0.21,United States
+NIEHS,2,22,1,11.0,0.21,United States
+Boston Childrens Hosp,2,21,2,10.5,0.21,United States
+Tongde Hosp Zhejiang Prov,2,21,2,10.5,0.21,China
+Liaoning Med Univ,2,21,2,10.5,0.21,China
+South China Univ Technol,2,20,2,10.0,0.21,China
+Shandong First Med Univ,2,19,2,9.5,0.21,China
+Shanghai Jiao Tong Univ Affiliated Peoples Hosp 6,2,19,2,9.5,0.21,China
+Univ Tokyo Hosp,2,18,2,9.0,0.21,Japan
+Univ Toyama,2,18,2,9.0,0.21,Japan
+Cincinnati Childrens Hosp Med Ctr,2,17,2,8.5,0.21,United States
+Tianjin Univ,2,17,1,8.5,0.21,China
+Henan Prov Peoples Hosp,2,16,2,8.0,0.21,China
+PLA,2,15,2,7.5,0.21,China
+Acad Med Ctr,2,14,1,7.0,0.21,Netherlands
+Australian Red Cross Lifeblood,2,13,2,6.5,0.21,Australia
+Prince Charles Hosp,2,13,2,6.5,0.21,Australia
+Queensland Univ Technol,2,13,2,6.5,0.21,Australia
+Univ Sunshine Coast,2,13,2,6.5,0.21,Australia
+State Key Lab Resp Dis,2,13,1,6.5,0.21,China
+Seoul Natl Univ,2,12,1,6.0,0.21,South Korea
+Elmezzi Grad Sch Mol Med,2,11,2,5.5,0.21,United States
+Hofstra North Shore LIJ Med Sch,2,11,2,5.5,0.21,United States
+Chang Gung Univ,2,11,1,5.5,0.21,Taiwan
+Med Univ Lodz,2,10,1,5.0,0.21,Poland
+Univ Estadual Campinas,2,8,1,4.0,0.21,Brazil
+First Peoples Hosp Changzhou,2,7,1,3.5,0.21,China
+Chinese Peoples Liberat Army Gen Hosp,2,6,1,3.0,0.21,China
+China Japan Friendship Hosp,2,6,1,3.0,0.21,China
+Shanghai Univ,2,6,1,3.0,0.21,China
+Hebei Med Univ,2,5,2,2.5,0.21,China
+Okayama Univ,2,5,2,2.5,0.21,Japan
+Univ South China,2,5,1,2.5,0.21,China
+European Univ Madrid,2,5,1,2.5,0.21,Spain
+Reg Hosp,2,4,2,2.0,0.21,United States
+Florida Int Univ,2,4,2,2.0,0.21,United States
+Wenzhou Univ,2,4,1,2.0,0.21,China
+Hainan Med Univ,2,4,1,2.0,0.21,China
+IRCCS Oncol & Neurosci,2,3,1,1.5,0.21,Italy
+Fluminense Fed Univ,2,3,1,1.5,0.21,Brazil
+Univ Calif Davis Hlth Syst,2,3,1,1.5,0.21,United States
+Lanzhou Univ,2,2,1,1.0,0.21,China
+Binzhou Med Univ Hosp,2,2,1,1.0,0.21,China
+Guangdong Med Univ,2,0,0,0.0,0.21,China
+Bengbu Med Coll,2,0,0,0.0,0.21,China
+Royal Liverpool Univ Hosp,1,378,1,378.0,0.1,United Kingdom
+Hokkaido Univ,1,356,1,356.0,0.1,Japan
+Natl Inst Quantum & Radiol Sci & Technol,1,356,1,356.0,0.1,Japan
+Harvard Pilgrim Healthcare Inst,1,190,1,190.0,0.1,United States
+Radboudumc Ctr Infect Dis RCI,1,189,1,189.0,0.1,Netherlands
+Belfast Hlth & Social Care Trust,1,180,1,180.0,0.1,United Kingdom
+Univ Reading,1,175,1,175.0,0.1,United Kingdom
+Royal Free Hosp,1,175,1,175.0,0.1,United Kingdom
+Aberdeen Cardiovasc & Diabet Ctr,1,175,1,175.0,0.1,United Kingdom
+UCSD,1,163,1,163.0,0.1,United States
+Osaka Habikino Med Ctr,1,156,1,156.0,0.1,Japan
+Beijing Army Gen Hosp,1,152,1,152.0,0.1,China
+Royal Childrens Hosp,1,151,1,151.0,0.1,Australia
+Queensland Inst Med Res,1,151,1,151.0,0.1,Australia
+NHS Fdn Trust,1,127,1,127.0,0.1,United Kingdom
+Papworth Hosp NHS Fdn Trust,1,127,1,127.0,0.1,United Kingdom
+Spectrum Hlth,1,127,1,127.0,0.1,United States
+Victoria Hosp,1,126,1,126.0,0.1,Canada
+UPMC,1,121,1,121.0,0.1,France
+John Hunter Hosp,1,97,1,97.0,0.1,Australia
+Hunter Med Res Inst,1,97,1,97.0,0.1,Australia
+Donald & Barbara Zucker Sch Med Hofstra Northwell,1,92,1,92.0,0.1,United States
+Univ Libre Bruxelles,1,92,1,92.0,0.1,Belgium
+Univ Paris Sud,1,92,1,92.0,0.1,France
+Ist Super Sanita,1,92,1,92.0,0.1,Italy
+Paris Descartes Univ,1,92,1,92.0,0.1,France
+Univ Palermo,1,92,1,92.0,0.1,Italy
+CIBERES,1,92,1,92.0,0.1,Spain
+Univ Clin Heidelberg,1,92,1,92.0,0.1,Germany
+Univ Barcelona,1,92,1,92.0,0.1,Spain
+Univ Gen Hosp Patras,1,91,1,91.0,0.1,Greece
+Cedars Sinai Med Ctr,1,88,1,88.0,0.1,United States
+Univ Texas Tyler,1,88,1,88.0,0.1,United States
+Natl Inst Pharmaceut Educ & Res,1,87,1,87.0,0.1,India
+CSIR Inst Genom & Integrat Biol,1,87,1,87.0,0.1,India
+Sanford Burnham Med Res Inst,1,81,1,81.0,0.1,United States
+Pitie Salpetriere Univ Hosp,1,75,1,75.0,0.1,France
+Univ Witten Herdecke,1,75,1,75.0,0.1,Germany
+Univ Hosp Munster,1,75,1,75.0,0.1,Germany
+Hop Europeen Georges Pompidou,1,75,1,75.0,0.1,France
+Univ Strasbourg UNISTRA,1,75,1,75.0,0.1,France
+Univ Paris,1,75,1,75.0,0.1,France
+Inst Curie,1,75,1,75.0,0.1,France
+F CRIN INNOVTE Network,1,75,1,75.0,0.1,France
+Assistance Publ Hop Paris,1,75,1,75.0,0.1,France
+Hop Univ Strasbourg,1,75,1,75.0,0.1,France
+Biomed Res Endstage & Obstruct Lung Dis Hannover,1,75,1,75.0,0.1,Germany
+BML Inc,1,75,1,75.0,0.1,Japan
+Osaka Biosci Inst,1,75,1,75.0,0.1,Japan
+Tokyo Med & Dent Univ,1,75,1,75.0,0.1,Japan
+Kyoto Univ,1,75,1,75.0,0.1,Japan
+Univ Hosp Dresden,1,72,1,72.0,0.1,Germany
+Natl Univ Ireland Univ Coll Cork,1,72,1,72.0,0.1,Ireland
+Excellencecluster Cardiopulm Syst,1,72,1,72.0,0.1,Germany
+Univ Leipzig,1,72,1,72.0,0.1,Germany
+Univ Calif Irvine,1,69,1,69.0,0.1,United States
+Silence Therapeut GmbH,1,68,1,68.0,0.1,Germany
+Roger Williams Med Ctr,1,68,1,68.0,0.1,United States
+Musashi Kosugi Hosp,1,67,1,67.0,0.1,Japan
+Univ Texas Houston,1,67,1,67.0,0.1,United States
+Michigan State Univ,1,66,1,66.0,0.1,United States
+Univ Texas Hlth Sci Ctr San Antonio,1,66,1,66.0,0.1,United States
+Mashhad Univ Med Sci,1,66,1,66.0,0.1,Iran
+German Red Cross Blood Serv W,1,65,1,65.0,0.1,Germany
+Res Ctr Oakland,1,63,1,63.0,0.1,United States
+Second Peoples Hosp Longgang Dist,1,61,1,61.0,0.1,China
+Third Peoples Hosp Shenzhen,1,61,1,61.0,0.1,China
+Show Chwan Mem Hosp,1,61,1,61.0,0.1,Taiwan
+Chung Shan Med Univ,1,61,1,61.0,0.1,Taiwan
+Taipei Tzu Chi Hosp,1,61,1,61.0,0.1,Taiwan
+Meiho Univ,1,61,1,61.0,0.1,Taiwan
+Kaohsiung Vet Gen Hosp,1,61,1,61.0,0.1,Taiwan
+Univ Texas SW Med Ctr Dallas,1,61,1,61.0,0.1,United States
+Univ Virginia Hlth Syst,1,59,1,59.0,0.1,United States
+Washington State Univ,1,58,1,58.0,0.1,United States
+Walter & Eliza Hall Inst Med Res,1,54,1,54.0,0.1,Australia
+Liaoning Canc Hosp & Inst,1,53,1,53.0,0.1,China
+Guiyang Coll Tradit Chinese Med,1,51,1,51.0,0.1,China
+Natl Inst Sci & Technol Regenerat Med,1,50,1,50.0,0.1,Brazil
+Royal Brompton & Harefield NHS Fdn Trust,1,50,1,50.0,0.1,United Kingdom
+GlaxoSmithKline Res & Dev Ltd,1,50,1,50.0,0.1,United Kingdom
+GlaxoSmithKline R&D,1,50,1,50.0,0.1,United States
+Soon Chun Hyang Univ,1,49,1,49.0,0.1,South Korea
+Kitasato Univ,1,48,1,48.0,0.1,Japan
+Blood Ctr Wisconsin,1,48,1,48.0,0.1,United States
+Ctr Med Univ Geneva,1,48,1,48.0,0.1,Switzerland
+Loyola Univ Med Ctr,1,47,1,47.0,0.1,United States
+Univ Hosp Ulm,1,46,1,46.0,0.1,Germany
+8th Theater Sustainment Command,1,45,1,45.0,0.1,United States
+Uniformed Serv Univ Hlth Sci,1,45,1,45.0,0.1,United States
+German Acad Transplantat Med,1,45,1,45.0,0.1,Germany
+New York Med Coll,1,44,1,44.0,0.1,United States
+Hulunbeier Peoples Hosp,1,43,1,43.0,0.1,China
+Roswell Pk Canc Inst,1,43,1,43.0,0.1,United States
+Vet Adm Western New York Healthcare Syst,1,43,1,43.0,0.1,United States
+SUNY Buffalo,1,43,1,43.0,0.1,United States
+Dartmouth Med Sch,1,43,1,43.0,0.1,United States
+Univ Michigan Hlth Syst,1,43,1,43.0,0.1,United States
+Hofstra Northwell Sch Med,1,42,1,42.0,0.1,United States
+Virginia Commonwealth Univ,1,42,1,42.0,0.1,United States
+205 Hosp Chinese Peoples Liberat Army,1,42,1,42.0,0.1,China
+Shantou Univ,1,41,1,41.0,0.1,China
+Taizhou Hosp Tradit Chinese Med,1,41,1,41.0,0.1,China
+Marburg Lung Ctr UGMLC,1,41,1,41.0,0.1,Germany
+PLA455 Hosp,1,41,1,41.0,0.1,China
+Houston Methodist Hosp,1,40,1,40.0,0.1,United States
+Oklahoma Med Res Fdn,1,40,1,40.0,0.1,United States
+Univ Hosp Essen,1,40,1,40.0,0.1,Germany
+Univ Kansas,1,39,1,39.0,0.1,United States
+Methodist Hosp & Res Inst,1,39,1,39.0,0.1,United States
+Methodist DeBakey Heart & Vasc Ctr,1,39,1,39.0,0.1,United States
+Shanghai Blood Ctr,1,38,1,38.0,0.1,China
+E China Normal Univ,1,38,1,38.0,0.1,China
+Huashan Hosp,1,38,1,38.0,0.1,China
+Aristotle Univ Thessaloniki,1,37,1,37.0,0.1,Greece
+Univ Hosp Heraklion,1,37,1,37.0,0.1,Greece
+Democritus Univ Thrace,1,37,1,37.0,0.1,Greece
+Tainan Municipal Hosp,1,37,1,37.0,0.1,Taiwan
+Natl Cheng Kung Univ,1,37,1,37.0,0.1,Taiwan
+King Khalid Univ,1,36,1,36.0,0.1,Saudi Arabia
+Gifu Pharmaceut Univ,1,36,1,36.0,0.1,Japan
+Catholic Univ Louvain,1,35,1,35.0,0.1,Belgium
+Univ Miami,1,35,1,35.0,0.1,United States
+First Peoples Hosp Nantong,1,34,1,34.0,0.1,China
+Michael E DeBakey VA Med Ctr,1,34,1,34.0,0.1,United States
+Xian XD Grp Hosp,1,34,1,34.0,0.1,China
+Anqing Municipal Hosp,1,34,1,34.0,0.1,China
+Navy Gen Hosp PLA,1,34,1,34.0,0.1,China
+Univ Utrecht,1,34,1,34.0,0.1,Netherlands
+Birmingham VA Med Ctr,1,34,1,34.0,0.1,United States
+Ctr Targeted Therapeut & Translat Nanomed,1,34,1,34.0,0.1,United States
+CAR,1,33,1,33.0,0.1,United Kingdom
+Melbourne Sch Populat & Global Hlth,1,33,1,33.0,0.1,Australia
+Med Univ Plovdiv,1,33,1,33.0,0.1,Bulgaria
+Ctr Addict & Mental Hlth CAMH,1,33,1,33.0,0.1,Canada
+King Chulalongkorn Univ Hosp,1,33,1,33.0,0.1,Thailand
+Deakin Univ,1,33,1,33.0,0.1,Australia
+Barwon Hlth,1,33,1,33.0,0.1,Australia
+Kyushu Univ Hosp,1,33,1,33.0,0.1,Japan
+Heart England Natl Hlth Serv Fdn Trust,1,33,1,33.0,0.1,United Kingdom
+Hubei Prov Govt,1,33,1,33.0,0.1,China
+Wuhan Forth Hosp,1,33,1,33.0,0.1,China
+Cent Hosp Wuhan,1,33,1,33.0,0.1,China
+Binzhou Med Univ Binzhou,1,33,1,33.0,0.1,China
+Univ Oklahoma,1,33,1,33.0,0.1,United States
+Kanazawa Univ Hosp,1,33,1,33.0,0.1,Japan
+Robley Rex VA Med Ctr,1,33,1,33.0,0.1,United States
+Natl Univ Ireland Galway,1,33,1,33.0,0.1,Ireland
+Galway Univ Hosp,1,33,1,33.0,0.1,Ireland
+Natl Univ Ireland,1,33,1,33.0,0.1,Ireland
+Hubei Univ Med,1,32,1,32.0,0.1,China
+NCI,1,32,1,32.0,0.1,United States
+Univ Texas Hlth Sci Ctr,1,32,1,32.0,0.1,United States
+Univ Kentucky,1,32,1,32.0,0.1,United States
+Inst Natl Sante & Rech Med,1,32,1,32.0,0.1,France
+Univ Lille Nord France,1,32,1,32.0,0.1,France
+Natl TB & Lung Dis Res Inst,1,31,1,31.0,0.1,Poland
+Med Univ Warsaw,1,31,1,31.0,0.1,Poland
+Natl Univ Singapore,1,31,1,31.0,0.1,Singapore
+ASTAR,1,31,1,31.0,0.1,Singapore
+Stanley Manne Childrens Res Inst,1,31,1,31.0,0.1,United States
+Nanhai Hosp,1,31,1,31.0,0.1,China
+Karolinska Univ Hosp,1,31,1,31.0,0.1,Sweden
+Logist Univ Chinese Peoples Armed Police Forces,1,31,1,31.0,0.1,China
+Atlanta VAMC,1,31,1,31.0,0.1,United States
+Univ Hosp Geneva,1,31,1,31.0,0.1,Switzerland
+Univ Florida,1,30,1,30.0,0.1,United States
+Natl Cerebral & Cardiovasc Ctr,1,30,1,30.0,0.1,Japan
+Univ Med Ctr,1,30,1,30.0,0.1,Germany
+Larkin Univ,1,29,1,29.0,0.1,United States
+Takeda Cambridge Ltd,1,29,1,29.0,0.1,United Kingdom
+Istanbul Med Sch,1,29,1,29.0,0.1,Turkey
+City Hope Natl Med Ctr,1,28,1,28.0,0.1,United States
+Fraunhofer Inst Mol Biol & Appl Ecol IME,1,27,1,27.0,0.1,Germany
+Goethe Univ Frankfurt,1,27,1,27.0,0.1,Germany
+Southern Arizona VA Hlth Care Syst SAVAHCS,1,27,1,27.0,0.1,United States
+KU Leuven Kulak,1,27,1,27.0,0.1,Belgium
+Univ Med Ctr Freiburg,1,27,1,27.0,0.1,Germany
+Univ Childrens Hosp Heidelberg,1,27,1,27.0,0.1,Germany
+Dr Horst Schmidt Kliniken,1,27,1,27.0,0.1,Germany
+Shanghai Univ Tradit Chinese Med,1,27,1,27.0,0.1,China
+Ryerson Univ,1,26,1,26.0,0.1,Canada
+Maharshi Dayanand Univ,1,26,1,26.0,0.1,India
+Panjab Univ,1,26,1,26.0,0.1,India
+Univ Calif Berkeley,1,26,1,26.0,0.1,United States
+Rush Med Coll,1,26,1,26.0,0.1,United States
+Zhejiang Canc Hosp,1,26,1,26.0,0.1,China
+Assistance Publ Hop Marseille,1,26,1,26.0,0.1,France
+Aix Marseille Univ,1,26,1,26.0,0.1,France
+Univ Aix Marseille,1,26,1,26.0,0.1,France
+Hop Nord Marseille,1,26,1,26.0,0.1,France
+Univ Fed Minas Gerais,1,26,1,26.0,0.1,Brazil
+St Lukes Med Ctr,1,26,1,26.0,0.1,Philippines
+Kansas Univ,1,25,1,25.0,0.1,United States
+Childrens Mercy Hosp,1,25,1,25.0,0.1,United States
+New York Presbyterian Hosp,1,25,1,25.0,0.1,United States
+Zablocki VA Med Ctr,1,25,1,25.0,0.1,United States
+Balgrist Univ Hosp,1,25,1,25.0,0.1,Switzerland
+Univ Illinois Hosp Hlth Sci Syst,1,25,1,25.0,0.1,United States
+Jesse Brown VA Med Ctr,1,25,1,25.0,0.1,United States
+Baltimore Vet Adm Med Ctr,1,25,1,25.0,0.1,United States
+Zhejiang Acad Med Sci,1,24,1,24.0,0.1,China
+State Adm Tradit Chinese Med Peoples Republ China,1,24,1,24.0,0.1,China
+Beijing Microvasc Inst Integrat Chinese & Western,1,24,1,24.0,0.1,China
+NHLBI,1,24,1,24.0,0.1,United States
+NIH,1,24,1,24.0,0.1,United States
+NIDDK,1,24,1,24.0,0.1,United States
+Guangzhou Mil Command PLA,1,24,1,24.0,0.1,China
+Univ Lund Hosp,1,24,1,24.0,0.1,Sweden
+Wenzhou Med Coll,1,24,1,24.0,0.1,China
+Tennessee Donor Serv,1,23,1,23.0,0.1,United States
+Vasomune Therapeut,1,23,1,23.0,0.1,Canada
+Sunnybrook Hlth Sci Ctr,1,23,1,23.0,0.1,Canada
+Hosp San Espases,1,23,1,23.0,0.1,Spain
+Hosp Univ NS Candelaria,1,23,1,23.0,0.1,Spain
+Univ Brasilia,1,23,1,23.0,0.1,Brazil
+Univ Calif San Diego Hlth Sci,1,23,1,23.0,0.1,United States
+Univ Sheffield,1,22,1,22.0,0.1,United Kingdom
+Vet Affairs Healthcare Syst,1,22,1,22.0,0.1,United States
+Jichi Med Univ,1,22,1,22.0,0.1,Japan
+Univ Hosp Miguel Servet,1,22,1,22.0,0.1,Spain
+Aragonese Agcy Invest & Dev ARAID,1,22,1,22.0,0.1,Spain
+Aarhus Univ,1,22,1,22.0,0.1,Denmark
+Howard Hughes Med Inst,1,22,1,22.0,0.1,United States
+Indiana Ctr Vasc Biol & Med,1,22,1,22.0,0.1,United States
+VC CAST Signature Ctr,1,22,1,22.0,0.1,United States
+Ehime Univ,1,22,1,22.0,0.1,Japan
+Xuzhou Cent Hosp,1,22,1,22.0,0.1,China
+Natl Res Council ITB CNR,1,21,1,21.0,0.1,Italy
+Univ Brescia,1,21,1,21.0,0.1,Italy
+Univ Piraeus,1,21,1,21.0,0.1,Greece
+Boston Univ Med Campus,1,21,1,21.0,0.1,United States
+Oregon Hlth & Sci Univ,1,21,1,21.0,0.1,United States
+Natl Ctr Global Hlth & Med,1,21,1,21.0,0.1,Japan
+Tokyo Metropolitan Inst Med Sci,1,21,1,21.0,0.1,Japan
+Georgia State Univ,1,21,1,21.0,0.1,United States
+Hosp Procardiaco,1,21,1,21.0,0.1,Brazil
+Hosp Copa DOr,1,21,1,21.0,0.1,Brazil
+Jintan Hosp,1,21,1,21.0,0.1,China
+Def Sci & Technol Lab,1,21,1,21.0,0.1,United Kingdom
+Univ Hosp Getafe,1,20,1,20.0,0.1,Spain
+Ottawa Hosp Res Inst,1,20,1,20.0,0.1,Canada
+Univ Europea Madrid,1,20,1,20.0,0.1,Spain
+Fundacao Oswaldo Cruz,1,20,1,20.0,0.1,Brazil
+Ctr Invest Biomed Red CIBER Enfermedades Resp,1,20,1,20.0,0.1,Spain
+Univ Chinese Acad Sci,1,20,1,20.0,0.1,China
+Jiaxing Univ,1,20,1,20.0,0.1,China
+Wannan Med Coll,1,20,1,20.0,0.1,China
+Southeast Univ Nanjing Med Univ,1,20,1,20.0,0.1,China
+Warman Med Coll,1,20,1,20.0,0.1,China
+Natl Grad Inst Policy Studies GRIPS,1,20,1,20.0,0.1,Japan
+Teikyo Univ,1,20,1,20.0,0.1,Japan
+St Marianna Univ,1,20,1,20.0,0.1,Japan
+Japan Coll Fibromyalgia Invest,1,20,1,20.0,0.1,Japan
+Fuji Toranomon Childrens Ctr,1,20,1,20.0,0.1,Japan
+Amer Coll Rheumatol,1,20,1,20.0,0.1,United States
+Tokyo Womens Med Univ,1,20,1,20.0,0.1,Japan
+Japan Med Res Fdn,1,20,1,20.0,0.1,Japan
+Yokohama City Univ,1,20,1,20.0,0.1,Japan
+Japan Soc Neurovegetat Res,1,20,1,20.0,0.1,Japan
+Univ Maryland Hosp,1,20,1,20.0,0.1,United States
+Xian Satellite Control Ctr Clin,1,20,1,20.0,0.1,China
+Univ Southern Calif,1,19,1,19.0,0.1,United States
+Univ Estadual Maringa,1,19,1,19.0,0.1,Brazil
+Johns Hopkins Bloomberg Sch Publ Hlth,1,19,1,19.0,0.1,United States
+Albany Med Coll,1,19,1,19.0,0.1,United States
+Univ Fed Sao Paulo,1,19,1,19.0,0.1,Brazil
+Jikei Univ,1,18,1,18.0,0.1,Japan
+Univ Lyon,1,18,1,18.0,0.1,France
+Inst Natl Transfus Sanguine,1,18,1,18.0,0.1,France
+Etab Francais Sang Auvergne Rhone Alpes,1,18,1,18.0,0.1,France
+Zhejiang Prov Top Key Discipline Surg,1,18,1,18.0,0.1,China
+Changzhi Med Coll,1,18,1,18.0,0.1,China
+Changhua Show Chwan Mem Hosp,1,18,1,18.0,0.1,Taiwan
+Wu Xing Clin,1,18,1,18.0,0.1,Taiwan
+Wei Chun Tai Dermatol Clin,1,18,1,18.0,0.1,Taiwan
+Kaohsiung Armed Forces Gen Hosp,1,18,1,18.0,0.1,Taiwan
+Univ Louvain,1,18,1,18.0,0.1,Belgium
+Univ S Carolina,1,18,1,18.0,0.1,United States
+Univ Edinburgh,1,17,1,17.0,0.1,United Kingdom
+Univ Airlangga,1,17,1,17.0,0.1,Indonesia
+Kyoto Pharmaceut Univ,1,17,1,17.0,0.1,Japan
+Niigata Univ,1,17,1,17.0,0.1,Japan
+Air Force Med Ctr,1,17,1,17.0,0.1,China
+Karolinska Inst,1,17,1,17.0,0.1,Sweden
+Modus Therapeut AB,1,17,1,17.0,0.1,Sweden
+German Ctr Cardiovasc Res DZHK,1,17,1,17.0,0.1,Germany
+Ludwig Maximilian Univ Munich,1,17,1,17.0,0.1,Germany
+Otto von Guericke Univ,1,17,1,17.0,0.1,Germany
+Harbor UCLA Med Ctr,1,17,1,17.0,0.1,United States
+Brazilian Inst Teaching & Res Pulm & Exercise Imm,1,17,1,17.0,0.1,Brazil
+Fed Univ Sao Paulo UNIFESP,1,17,1,17.0,0.1,Brazil
+Univ Brasil,1,17,1,17.0,0.1,Brazil
+Univ Tubingen,1,17,1,17.0,0.1,Germany
+Nove Julho Univ,1,17,1,17.0,0.1,Brazil
+Univ Fed Lavras UFLA,1,17,1,17.0,0.1,Brazil
+Mt Sinai Hosp,1,17,1,17.0,0.1,Canada
+Bloomberg Sch Publ Hlth,1,17,1,17.0,0.1,United States
+Suny Downstate Med Ctr,1,17,1,17.0,0.1,United States
+Vet Adm Med Ctr,1,17,1,17.0,0.1,United States
+Dept Vet Affairs,1,16,1,16.0,0.1,United States
+Univ Sonora,1,16,1,16.0,0.1,Mexico
+James A Haley Vet Hosp,1,16,1,16.0,0.1,United States
+Jinan Preschool Educ Coll,1,16,1,16.0,0.1,China
+Binzhou Med Coll,1,16,1,16.0,0.1,China
+Beijing Inst Microbiol & Epidemiol,1,16,1,16.0,0.1,China
+North China Univ Sci & Technol,1,16,1,16.0,0.1,China
+SA Pathol,1,16,1,16.0,0.1,Australia
+Flinders Med Ctr,1,16,1,16.0,0.1,Australia
+Univ South Australia,1,16,1,16.0,0.1,Australia
+Minist Hlth,1,16,1,16.0,0.1,China
+Guilin Med Univ,1,16,1,16.0,0.1,China
+Gongli Hosp,1,16,1,16.0,0.1,China
+Columbia Univ Coll Phys & Surg,1,16,1,16.0,0.1,United States
+S Texas Blood & Tissue Ctr,1,16,1,16.0,0.1,United States
+Hebrew Univ Jerusalem,1,16,1,16.0,0.1,Israel
+Tianjin Huanhu Hosp,1,16,1,16.0,0.1,China
+CSIR Ctr Cellular & Mol Biol CCMB,1,15,1,15.0,0.1,India
+CSIR Indian Inst Chem Technol IICT,1,15,1,15.0,0.1,India
+CSIR Indian Inst Chem Technol CSIR IICT,1,15,1,15.0,0.1,India
+Harbin Med Univ Daqing,1,15,1,15.0,0.1,China
+Childrens Hosp Res Fdn,1,15,1,15.0,0.1,United States
+Mercy Hosp & Med Ctr,1,15,1,15.0,0.1,United States
+Clement J Zablocki Vet Affairs Med Ctr,1,15,1,15.0,0.1,United States
+Univ Insubria,1,14,1,14.0,0.1,Italy
+IRCCS MultiMed,1,14,1,14.0,0.1,Italy
+Ist Ricovero & Cura Carallere Sci IRCCS MulliMed,1,14,1,14.0,0.1,Italy
+Hangzhou Third Hosp,1,14,1,14.0,0.1,China
+Sanquin Diagnost Serv,1,14,1,14.0,0.1,Netherlands
+Agcy Sci Technol & Res,1,14,1,14.0,0.1,Singapore
+Nanyang Technol Univ Singapore,1,14,1,14.0,0.1,Singapore
+Univ Ottawa,1,14,1,14.0,0.1,Canada
+Hosp Univ Getafe CIBER Enfermedades Resp CIBERES,1,14,1,14.0,0.1,Spain
+Cold Spring Harbor Lab,1,14,1,14.0,0.1,United States
+Hangzhou Normal Univ,1,14,1,14.0,0.1,China
+CAPNETZ STIFTUNG,1,14,1,14.0,0.1,Germany
+Univ Duisburg Essen,1,14,1,14.0,0.1,Germany
+Univ Marburg,1,14,1,14.0,0.1,Germany
+HELIOS Klinikum Emil von Behring,1,14,1,14.0,0.1,Germany
+Univ Potsdam,1,14,1,14.0,0.1,Germany
+Chengdu Univ Tradit Chinese Med,1,14,1,14.0,0.1,China
+EFS Rhone Alpes,1,14,1,14.0,0.1,France
+Univ Caen Normandie,1,14,1,14.0,0.1,France
+Univ Grenoble Alpes,1,14,1,14.0,0.1,France
+CHU Grenoble Alpes,1,14,1,14.0,0.1,France
+Himeji Dokkyo Univ,1,14,1,14.0,0.1,Japan
+Sysmex Corp,1,14,1,14.0,0.1,Japan
+Shinko Hosp,1,14,1,14.0,0.1,Japan
+Kobe Tokiwa Univ,1,14,1,14.0,0.1,Japan
+Kobe Univ Hosp,1,14,1,14.0,0.1,Japan
+Vet Natl Super Sch Algiers,1,14,1,14.0,0.1,Algeria
+CNRS ERL 8252,1,14,1,14.0,0.1,France
+Univ Paris Diderot,1,14,1,14.0,0.1,France
+Charlie Norwood Vet Affairs Med Ctr,1,13,1,13.0,0.1,United States
+Henan Univ Tradit Chinese Med,1,13,1,13.0,0.1,China
+Kings Coll London,1,13,1,13.0,0.1,United Kingdom
+Sanquin,1,13,1,13.0,0.1,Netherlands
+VA Connecticut Healthcare Syst,1,13,1,13.0,0.1,United States
+Univ Appl Sci Bingen,1,13,1,13.0,0.1,Germany
+Natl Inst Diabet & Digest & Kidney Dis,1,12,1,12.0,0.1,United States
+Amsterdam Univ Med Ctr,1,12,1,12.0,0.1,Netherlands
+Guangxi Med Univ Canc Hosp,1,12,1,12.0,0.1,China
+First Hosp Jilin Univ,1,12,1,12.0,0.1,China
+Guizhou Univ Tradit Chinese Med,1,12,1,12.0,0.1,China
+Nanjing Normal Univ,1,12,1,12.0,0.1,China
+Jiangsu Prov Acad Tradit Chinese Med,1,12,1,12.0,0.1,China
+Paul Ehrlich Inst,1,12,1,12.0,0.1,Germany
+Univ Hosp Wurzburg,1,12,1,12.0,0.1,Germany
+Yogi Vemana Univ,1,12,1,12.0,0.1,India
+Univ Nevada,1,12,1,12.0,0.1,United States
+Graz Univ,1,12,1,12.0,0.1,Austria
+Cochin Hosp,1,12,1,12.0,0.1,France
+Perelman Sch Med,1,12,1,12.0,0.1,United States
+Hosp Univ Nuestra Senora Candelaria,1,12,1,12.0,0.1,Spain
+Pavol Jozef Safarik Univ,1,12,1,12.0,0.1,Slovakia
+Masaryk Univ,1,12,1,12.0,0.1,Czech Republic
+St Annes Univ Hosp,1,12,1,12.0,0.1,Czech Republic
+Louis Pasteur Univ Hosp,1,12,1,12.0,0.1,Slovakia
+Georgia Hlth Sci Univ,1,12,1,12.0,0.1,United States
+Tokyo Univ Agr,1,12,1,12.0,0.1,Japan
+Hokkaido Red Cross Blood Ctr,1,12,1,12.0,0.1,Japan
+Kunming Med Univ,1,11,1,11.0,0.1,China
+Australian Def Force,1,11,1,11.0,0.1,Australia
+Univ West Attica,1,11,1,11.0,0.1,Greece
+Cephalogenet Ctr,1,11,1,11.0,0.1,Greece
+Natl Kapodistrian Univ Athens,1,11,1,11.0,0.1,Greece
+Beijing Inst Resp Med,1,11,1,11.0,0.1,China
+Chongqing Emergency Med Ctr,1,11,1,11.0,0.1,China
+Taipei Med Univ,1,11,1,11.0,0.1,Taiwan
+Taipei Med Univ Hosp,1,11,1,11.0,0.1,Taiwan
+Chia Yi Christian Hosp,1,11,1,11.0,0.1,Taiwan
+Natl Chung Hsing Univ,1,11,1,11.0,0.1,Taiwan
+Peoples Hosp Henan Prov,1,11,1,11.0,0.1,China
+OUHSC,1,11,1,11.0,0.1,United States
+Chungnam Natl Univ,1,11,1,11.0,0.1,South Korea
+Walailak Univ,1,11,1,11.0,0.1,Thailand
+Mahidol Univ,1,11,1,11.0,0.1,Thailand
+Cent Hosp Xuhui Dist,1,11,1,11.0,0.1,China
+Xianyang Vocat & Tech Coll,1,11,1,11.0,0.1,China
+Jiangsu Prov Key Lab Anesthesia & Analgesia Appli,1,11,1,11.0,0.1,China
+Xuzhou Med Coll,1,11,1,11.0,0.1,China
+Huabo Biopharmaceut Res Inst,1,11,1,11.0,0.1,China
+Soonchunhyang Univ,1,11,1,11.0,0.1,South Korea
+Louisiana State Univ,1,10,1,10.0,0.1,United States
+Vet Affairs San Diego Healthcare Syst,1,10,1,10.0,0.1,United States
+Cent Peoples Hosp Zhanjiang,1,10,1,10.0,0.1,China
+SUNY Downstate Hlth Sci Univ,1,10,1,10.0,0.1,United States
+Coll Pharm,1,10,1,10.0,0.1,United States
+Sichuan Univ Chengdu,1,10,1,10.0,0.1,China
+Hubei Coll Chinese Med,1,10,1,10.0,0.1,China
+Jiangsu Prov Ctr Dis Prevent & Control,1,10,1,10.0,0.1,China
+UConn Hlth,1,10,1,10.0,0.1,United States
+Henry Jackson Fdn Adv Mil Med Inc,1,10,1,10.0,0.1,United States
+Univ Connecticut,1,10,1,10.0,0.1,United States
+Walter Reed Army Inst Res,1,10,1,10.0,0.1,United States
+China Agr Univ,1,9,1,9.0,0.1,China
+Chengdu Med Coll,1,9,1,9.0,0.1,China
+Pacific Northwest Natl Lab,1,9,1,9.0,0.1,United States
+Chinese PLA Peoples Liberat Army Gen Hosp,1,9,1,9.0,0.1,China
+FraunhoferInst Fuer Toxikol & Expt Med ITEM,1,9,1,9.0,0.1,Germany
+Med Hsch Hannover OE6876,1,9,1,9.0,0.1,Germany
+GlaxoSmithKline,1,9,1,9.0,0.1,United Kingdom
+Southern Illinois Univ,1,9,1,9.0,0.1,United States
+J Pharma Co Ltd,1,9,1,9.0,0.1,Japan
+Suez Canal Univ,1,9,1,9.0,0.1,Egypt
+Shimizu Corp,1,9,1,9.0,0.1,Japan
+Hlth Sci Univ Hokkaido,1,9,1,9.0,0.1,Japan
+Natl Yang Ming Univ,1,9,1,9.0,0.1,Taiwan
+MetaTech AP Inc,1,9,1,9.0,0.1,Taiwan
+Taipei City Govt,1,9,1,9.0,0.1,Taiwan
+I Shou Univ,1,9,1,9.0,0.1,Taiwan
+Dayeh Univ,1,9,1,9.0,0.1,Taiwan
+Shanghai Key Lab Organ Transplantat,1,9,1,9.0,0.1,China
+Univ Wisconsin,1,9,1,9.0,0.1,United States
+150th Cent Hosp PLA,1,9,1,9.0,0.1,China
+Univ Stuttgart,1,8,1,8.0,0.1,Germany
+Fraunhofer Inst Interfacial Engn & Biotechnol IGB,1,8,1,8.0,0.1,Germany
+Xenios AG,1,8,1,8.0,0.1,Germany
+Reutlingen Univ,1,8,1,8.0,0.1,Germany
+Univ Florence,1,8,1,8.0,0.1,Italy
+Katholieke Univ Leuven,1,8,1,8.0,0.1,Belgium
+London Sch Hyg & Trop Med,1,8,1,8.0,0.1,United Kingdom
+VIB UGent Ctr Med Biotechnol,1,8,1,8.0,0.1,Belgium
+Victor Chang Cardiac Res Inst,1,8,1,8.0,0.1,Australia
+Hosp Univ NS de Candelaria,1,8,1,8.0,0.1,Spain
+Hosp Univ Rio Hortega,1,8,1,8.0,0.1,Spain
+Fresenius Univ Appl Sci,1,7,1,7.0,0.1,Germany
+Aalborg Univ Hosp,1,7,1,7.0,0.1,Denmark
+Xinxiang Med Univ,1,7,1,7.0,0.1,China
+Strasbourg Drug Discovery & Dev Inst IMS,1,7,1,7.0,0.1,France
+Inst Cancerol Strasbourg Europe,1,7,1,7.0,0.1,France
+Univ Strasbourg,1,7,1,7.0,0.1,France
+LEAF4Life Inc,1,7,1,7.0,0.1,United States
+Univ Hosp Strasbourg,1,7,1,7.0,0.1,France
+Paul Strauss Canc Ctr,1,7,1,7.0,0.1,France
+Zhejiang Prov Peoples Hosp,1,7,1,7.0,0.1,China
+Fdn Pernambuco HEMOPE,1,7,1,7.0,0.1,Brazil
+Univ Autonoma Madrid,1,7,1,7.0,0.1,Spain
+Univ Fed Rio Grande do Norte,1,7,1,7.0,0.1,Brazil
+Univ Fed Pernambuco,1,7,1,7.0,0.1,Brazil
+Univ Fed Piaui,1,7,1,7.0,0.1,Brazil
+Univ Campirms,1,7,1,7.0,0.1,Brazil
+Cangzhou Peoples Hosp,1,7,1,7.0,0.1,China
+Beijing Oriental Yamei Gene Sci & Technol Inst,1,7,1,7.0,0.1,China
+E Tennessee State Univ,1,7,1,7.0,0.1,United States
+Vet Affairs Med Ctr,1,7,1,7.0,0.1,United States
+Univ Aix Marseille 2,1,7,1,7.0,0.1,France
+Univ Mediterranee,1,7,1,7.0,0.1,France
+Univ Paris 05,1,7,1,7.0,0.1,France
+Univ Texas Hlth Sci Ctr Tyler,1,6,1,6.0,0.1,United States
+Peking Univ First Hosp,1,6,1,6.0,0.1,China
+Minist Educ,1,6,1,6.0,0.1,China
+Weifang Hosp Tradit Chinese Med,1,6,1,6.0,0.1,China
+Taizhou Univ Hosp,1,6,1,6.0,0.1,China
+Acad Sinica,1,6,1,6.0,0.1,Taiwan
+Natl Hlth Res Inst,1,6,1,6.0,0.1,Taiwan
+Cardinal Tien Hosp,1,6,1,6.0,0.1,Taiwan
+Tufts Med Ctr,1,6,1,6.0,0.1,United States
+Acad Mil Med Sci,1,6,1,6.0,0.1,China
+VA Puget Sound Hlth Ctr,1,6,1,6.0,0.1,United States
+Univ Saskatchewan,1,6,1,6.0,0.1,Canada
+Univ Aberdeen,1,5,1,5.0,0.1,United Kingdom
+JinZhou Med Univ,1,5,1,5.0,0.1,China
+Regions Hosp,1,5,1,5.0,0.1,United States
+Key Lab Heart Failure Prevent & Treatment Hengyan,1,5,1,5.0,0.1,China
+Clin Med Res Ctr Arteriosclerot Dis Hunan Prov,1,5,1,5.0,0.1,China
+Kazusa DNA Res Inst,1,5,1,5.0,0.1,Japan
+Shanghai Jiaotong Univ Sch Med,1,5,1,5.0,0.1,China
+Zablocki Vet Affairs Med Ctr,1,5,1,5.0,0.1,United States
+Biomed Inst,1,5,1,5.0,0.1,Brazil
+Ruian Peoples Hosp,1,5,1,5.0,0.1,China
+160 Pujian Rd,1,5,1,5.0,0.1,China
+1055 Sanxiang Rd,1,5,1,5.0,0.1,China
+Gen Hosp Southern Theatre Command PLA,1,5,1,5.0,0.1,China
+Texas Tech Univ,1,5,1,5.0,0.1,United States
+Birmingham Vet Affairs Med Ctr,1,5,1,5.0,0.1,United States
+Shihezi Univ,1,5,1,5.0,0.1,China
+Int Peace Matern & Child Hlth Hosp,1,5,1,5.0,0.1,China
+Yuncheng Cent Hosp,1,5,1,5.0,0.1,China
+Miyagi Canc Ctr,1,5,1,5.0,0.1,Japan
+Tao Yuan Gen Hosp,1,5,1,5.0,0.1,Taiwan
+Natl Dong Hwa Univ,1,5,1,5.0,0.1,Taiwan
+Nanjing Drum Tower Hosp Grp,1,4,1,4.0,0.1,China
+Heidelberg Univ Hosp,1,4,1,4.0,0.1,Germany
+UCL,1,4,1,4.0,0.1,United Kingdom
+Univ Hosp Witten Herdecke,1,4,1,4.0,0.1,Germany
+Univ Med Ctr Mainz,1,4,1,4.0,0.1,Germany
+German Ctr Lung Res DZL,1,4,1,4.0,0.1,Germany
+Handan First Hosp,1,4,1,4.0,0.1,China
+Room 920N MC719,1,4,1,4.0,0.1,United States
+China Tianjin Med Univ Gen Hosp,1,4,1,4.0,0.1,China
+Childrens Mercy Res Inst,1,4,1,4.0,0.1,United States
+Childrens Mercy Kansas City,1,4,1,4.0,0.1,United States
+State Univ Southwest Bahia,1,4,1,4.0,0.1,Brazil
+Univ Rennes,1,4,1,4.0,0.1,France
+Univ Fed Alagoas,1,4,1,4.0,0.1,Brazil
+RDS2 Solut,1,4,1,4.0,0.1,United States
+Engn & Res Ctr Sepsis,1,4,1,4.0,0.1,China
+Int Lab Sepsis Res,1,4,1,4.0,0.1,China
+Third Peoples Hosp Chengdu,1,4,1,4.0,0.1,China
+Univ Copenhagen Hosp,1,4,1,4.0,0.1,Denmark
+Ruprecht Karls Univ Hosp Heidelberg,1,4,1,4.0,0.1,Germany
+St Louis Childrens Hosp,1,3,1,3.0,0.1,United States
+Boston Med Ctr,1,3,1,3.0,0.1,United States
+Northeastern Univ,1,3,1,3.0,0.1,China
+Southern Methodist Univ,1,3,1,3.0,0.1,United States
+Marburg Lung Ctr,1,3,1,3.0,0.1,Germany
+Charit Univ med,1,3,1,3.0,0.1,Germany
+Goethe Univ,1,3,1,3.0,0.1,Germany
+Univ Hosp Zurich,1,3,1,3.0,0.1,Switzerland
+Univ Lorraine,1,3,1,3.0,0.1,Germany
+Peoples Hosp Ningxia Hui Autonomous Reg,1,3,1,3.0,0.1,China
+Northwest Normal Univ,1,3,1,3.0,0.1,China
+Northwestern Polytech Univ,1,3,1,3.0,0.1,China
+Fukushima Med Univ,1,3,1,3.0,0.1,Japan
+Butantan Inst,1,3,1,3.0,0.1,Brazil
+Osaka Med & Pharmaceut Univ,1,3,1,3.0,0.1,Japan
+984 Hosp,1,3,1,3.0,0.1,China
+Taihe Cty Peoples Hosp,1,3,1,3.0,0.1,China
+Aichi Med Univ,1,3,1,3.0,0.1,Japan
+North Sichuan Med Coll,1,3,1,3.0,0.1,China
+Taipei City Hosp,1,3,1,3.0,0.1,Taiwan
+Natl Yang Ming Chiao Tung Univ,1,3,1,3.0,0.1,Taiwan
+Anhui Univ Chinese Med,1,3,1,3.0,0.1,China
+Shandong Prov Qianfoshan Hosp,1,3,1,3.0,0.1,China
+Xian 9 Hosp,1,3,1,3.0,0.1,China
+Northern Jiangsu Peoples Hosp,1,3,1,3.0,0.1,China
+Univ Nebraska Med Ctr,1,3,1,3.0,0.1,United States
+Alector,1,3,1,3.0,0.1,United States
+Nara Med Univ,1,3,1,3.0,0.1,Japan
+Matsubara Tokushukai Hosp,1,3,1,3.0,0.1,Japan
+Univ Ulsan,1,3,1,3.0,0.1,South Korea
+Allegheny Hlth Network,1,2,1,2.0,0.1,United States
+Binzhou Welf Inst,1,2,1,2.0,0.1,China
+Buddhist Tzu Chi Med Fdn,1,2,1,2.0,0.1,Taiwan
+Inst Nacl Ciencia & Tecnol INCT III,1,2,1,2.0,0.1,Brazil
+Univ Fed ABC,1,2,1,2.0,0.1,Brazil
+Seattle Childrens Res Inst,1,2,1,2.0,0.1,United States
+Hunan Univ Chinese Med,1,2,1,2.0,0.1,China
+Liuzhou Municipal Peoples Hosp,1,2,1,2.0,0.1,China
+Liuzhou Tradit Chinese Med Hosp,1,2,1,2.0,0.1,China
+German Lung Res Ctr DZL,1,2,1,2.0,0.1,Germany
+Inst Nationwide Childrens Hosp,1,2,1,2.0,0.1,United States
+Yinchuan First Peoples Hosp,1,2,1,2.0,0.1,China
+Kindai Univ,1,2,1,2.0,0.1,Japan
+Escuela Biotecnol & Alimentos,1,2,1,2.0,0.1,United States
+Houston Methodist Res Inst,1,2,1,2.0,0.1,United States
+Methodist Hosp Houston,1,2,1,2.0,0.1,United States
+Hitachi High Technol Amer Inc,1,2,1,2.0,0.1,United States
+BloodCtr Wisconsin,1,2,1,2.0,0.1,United States
+Texas Southwestern Med Ctr,1,1,1,1.0,0.1,United States
+Harborview Med Ctr,1,1,1,1.0,0.1,United States
+Lunan Pharmaceut Grp Co Ltd,1,1,1,1.0,0.1,China
+Nankai Univ,1,1,1,1.0,0.1,China
+Peking Univ China,1,1,1,1.0,0.1,China
+Beijing Tide Pharmaceut Co Ltd,1,1,1,1.0,0.1,China
+Jinzhou Med Univ,1,1,1,1.0,0.1,China
+74 Linjiang Rd,1,1,1,1.0,0.1,China
+Tsinghua Univ,1,1,1,1.0,0.1,China
+Beijing Tsinghua Changguang Hosp,1,1,1,1.0,0.1,China
+Zucker Sch Med Hofstra Northwell,1,1,1,1.0,0.1,United States
+First Peoples Hosp Lianyungang,1,1,1,1.0,0.1,China
+Shandong Univ Hosp,1,1,1,1.0,0.1,China
+Second Peoples Hosp Hefei,1,1,1,1.0,0.1,China
+Bengbu Med Univ,1,1,1,1.0,0.1,China
+Changzhou Childrens Hosp,1,1,1,1.0,0.1,China
+Amsterdam UMC,1,1,1,1.0,0.1,Netherlands
+First Peoples Hosp,1,1,1,1.0,0.1,China
+Chinese Peoples Liberat Army PLA Gen Hosp,1,1,1,1.0,0.1,China
+Beijing Inst Radiat Med,1,1,1,1.0,0.1,China
+Chang Gung Mem Hosp,1,1,1,1.0,0.1,Taiwan
+Navy Med Univ,1,1,1,1.0,0.1,China
+Shanghai Univ Sport,1,1,1,1.0,0.1,China
+Huaian Maternal & Child Hlth Care Hosp,1,1,1,1.0,0.1,China
+Hosp China Three Gorges Univ,1,1,1,1.0,0.1,China
+First Peoples Hosp Linping Dist,1,1,1,1.0,0.1,China
+Fenghua Dist Peoples Hosp,1,1,1,1.0,0.1,China
+Hubei Univ Arts & Sci,1,1,1,1.0,0.1,China
+Wenzhou Cent Hosp,1,1,1,1.0,0.1,China
+Nexcelom Biosci LLC,1,1,1,1.0,0.1,United States
+Pro Cardiaco Hosp,1,1,1,1.0,0.1,Brazil
+Copa DOr Hosp,1,1,1,1.0,0.1,Brazil
+Outcomes Res Consortium,1,1,1,1.0,0.1,United States
+Beihua Univ,1,1,1,1.0,0.1,China
+Qianguo Cty Hosp,1,1,1,1.0,0.1,China
+Shenzhen Univ,1,1,1,1.0,0.1,China
+903 Hosp PLA,1,1,1,1.0,0.1,China
+Natl Inst Infect Dis,1,1,1,1.0,0.1,Japan
+Asahi Gen Hosp,1,1,1,1.0,0.1,Japan
+Nagasaki Univ,1,1,1,1.0,0.1,Japan
+Univ Med & Pharm Targu Mures,1,1,1,1.0,0.1,Romania
+Korea Univ Coll Med,1,1,1,1.0,0.1,South Korea
+Lishui Peoples Hosp,1,0,0,0.0,0.1,China
+Qinghai Univ,1,0,0,0.0,0.1,China
+Shanxi Med Univ,1,0,0,0.0,0.1,China
+Sidney Kimmel Comprehens Canc Ctr Johns Hopkins,1,0,0,0.0,0.1,United States
+Rosalind Franklin Univ Med & Sci,1,0,0,0.0,0.1,United States
+Trinity Coll Dublin,1,0,0,0.0,0.1,Ireland
+OUH Odense Univ Hosp,1,0,0,0.0,0.1,Denmark
+St James Hosp,1,0,0,0.0,0.1,Ireland
+CHLO,1,0,0,0.0,0.1,Portugal
+Univ Nova Lisboa,1,0,0,0.0,0.1,Portugal
+111 Humen Rd,1,0,0,0.0,0.1,China
+Binhaiwan Cent Hosp Dongguan,1,0,0,0.0,0.1,China
+Guangzhou Inst Resp Hlth,1,0,0,0.0,0.1,China
+Guangdong Prov Key Lab Brain Funct & Dis,1,0,0,0.0,0.1,China
+Key Lab Microcirculat & Shock Zhangjiakou City,1,0,0,0.0,0.1,China
+Hebei Key Lab Crit Dis Mech & Intervent,1,0,0,0.0,0.1,China
+Logist Univ Chinese Peoples Armed Police Force,1,0,0,0.0,0.1,China
+Shaanxi Univ Chinese Med,1,0,0,0.0,0.1,China
+Air Force Med Univ,1,0,0,0.0,0.1,China
+Chongqing Univ Technol,1,0,0,0.0,0.1,China
+Tulane Univ,1,0,0,0.0,0.1,United States
+Macau Univ Sci & Technol,1,0,0,0.0,0.1,China
+Zhengzhou Univ Peoples Hosp,1,0,0,0.0,0.1,China
+Natl Inst Enviromental Hlth Sci,1,0,0,0.0,0.1,United States
+Vanderbilt Univ Sch Med,1,0,0,0.0,0.1,United States
+Beim Tannenhof 71,1,0,0,0.0,0.1,Germany
+Anna Hosp,1,0,0,0.0,0.1,Germany
+Inner Mongolia Med Univ,1,0,0,0.0,0.1,China
+Inner Mongolia Univ,1,0,0,0.0,0.1,China
+Inner Mongolia Agr Univ,1,0,0,0.0,0.1,China
+Hosp Agatharied,1,0,0,0.0,0.1,Germany
+Tech Univ Munich,1,0,0,0.0,0.1,Germany
+Ludwig Maximilians Univ Munchen,1,0,0,0.0,0.1,Germany
+QIAGEN Digital Insights,1,0,0,0.0,0.1,United States
+Changzhou Univ,1,0,0,0.0,0.1,China
+Chenzhou Third Peoples Hosp,1,0,0,0.0,0.1,China
+Univ Elect Sci & Technol China,1,0,0,0.0,0.1,China
+Hainan Prov Drug Adm,1,0,0,0.0,0.1,China
+First Peoples Hosp Fuyang Hangzhou,1,0,0,0.0,0.1,China
+Fujian Med Univ,1,0,0,0.0,0.1,China
+Eotvos Lorand Res Network ELKH,1,0,0,0.0,0.1,Hungary
+Med Univ Vienna,1,0,0,0.0,0.1,Austria
+69 Chuanshan Rd,1,0,0,0.0,0.1,China
+Shanxi Univ,1,0,0,0.0,0.1,China
+Guizhou Prov & Chinese Acad Sci,1,0,0,0.0,0.1,China
+Guizhou Normal Univ,1,0,0,0.0,0.1,China
+Guyuan 8 Middle Sch,1,0,0,0.0,0.1,China
+Guizhou Med Univ,1,0,0,0.0,0.1,China
+Ctr Anim Dis Control & Prevent GuiZhou Prov,1,0,0,0.0,0.1,China
+China Anim Hlth & Epidemiol Ctr,1,0,0,0.0,0.1,China
+Zunyi Med Univ,1,0,0,0.0,0.1,China
+Getafe Univ Hosp,1,0,0,0.0,0.1,Spain
+Carlos III Hlth Inst,1,0,0,0.0,0.1,Spain
+Carlos III Univ,1,0,0,0.0,0.1,Spain
+924th Hosp Joint Logist Support Force Chinese PLA,1,0,0,0.0,0.1,China
+Jiaying Univ,1,0,0,0.0,0.1,China
+Sun Yat sen Univ,1,0,0,0.0,0.1,China
+Hosp Southern Theatre Command PLA,1,0,0,0.0,0.1,China
+Rugao Hosp Tradit Chinese Med,1,0,0,0.0,0.1,China
+Tianjin Med Univ Gen Hosp,1,0,0,0.0,0.1,China
+Univ Zurich,1,0,0,0.0,0.1,Switzerland
+Pelago Biosci AB,1,0,0,0.0,0.1,Sweden
+AstraZeneca,1,0,0,0.0,0.1,United Kingdom

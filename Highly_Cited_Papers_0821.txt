@@ -1,0 +1,2795 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kang, SJ
+   Tanaka, T
+   Inoue, H
+   Ono, C
+   Hashimoto, S
+   Kioi, Y
+   Matsumoto, H
+   Matsuura, H
+   Matsubara, T
+   Shimizu, K
+   Ogura, H
+   Matsuura, Y
+   Kishimoto, T
+AF Kang, Sujin
+   Tanaka, Toshio
+   Inoue, Hitomi
+   Ono, Chikako
+   Hashimoto, Shoji
+   Kioi, Yoshiyuki
+   Matsumoto, Hisatake
+   Matsuura, Hiroshi
+   Matsubara, Tsunehiro
+   Shimizu, Kentaro
+   Ogura, Hiroshi
+   Matsuura, Yoshiharu
+   Kishimoto, Tadamitsu
+TI IL-6 trans-signaling induces plasminogen activator inhibitor-1 from
+   vascular endothelial cells in cytokine release syndrome
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA
+LA English
+DT Article
+DE interleukin-6; tocilizumab; ECs/HPMECs/HUVECs/MPVECs; cytokine release syndrome; COVID-19/SARS-CoV-2/Coronavirus 
+ID INFLAMMATORY RESPONSE; RECEPTOR; INTERLEUKIN-6; SEPSIS; MARKER; SERUM
+AB Cytokine release syndrome (CRS) is a life-threatening complication induced by systemic inflammatory responses to infections, including bacteria and chimeric antigen receptor T cell therapy. There are currently no immunotherapies with proven clinical efficacy and understanding of the molecular mechanisms of CRS pathogenesis is limited. Here, we found that patients diagnosed with CRS from sepsis, acute respiratory distress syndrome (ARDS), or burns showed common manifestations: strikingly elevated levels of the four proinflammatory cytokines interleukin (IL)-6, IL-8, monocyte chemotactic protein-1 (MCP-1), and IL-10 and the coagulation cascade activator plasminogen activator inhibitor-1 (PAI-1). Our in vitro data indicate that endothelial IL-6 trans-signaling formed an inflammation circuit for robust IL-6, IL-8, and MCP-1 production and promoted PAI-1 production; additionally, an IL-6 signaling blockade by the human monoclonal antibody tocilizumab blunted endothelial cell activation. Plasma from severe COVID-19 patients similarly exhibited increased IL-6, IL-10, and MCP-1 levels, but these levels were not as high as those in patients with CRS from other causes. In contrast, the PAI-1 levels in COVID-19 patients were as highly elevated as those in patients with bacterial sepsis or ARDS. Tocilizumab treatment decreased the PAI-1 levels and alleviated critical illness in severe COVID-19 patients. Our findings suggest that distinct levels of cytokine production are associated with CRS induced by bacterial infection and COVID-19, but both CRS types are accompanied by endotheliopathy through IL-6 trans-signaling. Thus, the present study highlights the crucial role of IL-6 signaling in endothelial dysfunction during bacterial infection and COVID-19.
+C1 [Kang, Sujin; Inoue, Hitomi; Kioi, Yoshiyuki; Kishimoto, Tadamitsu] Osaka Univ, Immunol Frontier Res Ctr, Dept Immune Regulat, Suita, Osaka 5650871, Japan.
+   [Tanaka, Toshio] Osaka Habikino Med Ctr, Med Affairs Bur, Osaka 5838588, Japan.
+   [Ono, Chikako; Matsuura, Yoshiharu] Osaka Univ, Microbial Dis Res Inst, Dept Mol Virol, Suita, Osaka 5650871, Japan.
+   [Hashimoto, Shoji] Osaka Habikino Med Ctr, Dept Clin Lab, Osaka 5838588, Japan.
+   [Matsumoto, Hisatake; Matsuura, Hiroshi; Matsubara, Tsunehiro; Shimizu, Kentaro; Ogura, Hiroshi] Osaka Univ, Grad Sch Med, Dept Traumatol & Acute Crit Med, 2-2 Yamadaoka, Suita, Osaka 5650871, Japan.
+C3 Osaka University; Osaka University; Osaka University
+RP Kishimoto, T (corresponding author), Osaka Univ, Immunol Frontier Res Ctr, Dept Immune Regulat, Suita, Osaka 5650871, Japan.
+EM kishimoto@ifrec.osaka-u.ac.jp
+OI Matsubara, Tsunehiro/0000-0002-0910-3124; Matsumoto,
+   Hisatake/0000-0001-5771-570X
+FU Ono Medical Research Foundation; Takeda Science Foundation; Kishimoto
+   Foundation
+FX We thank M. Okawa for secretarial assistance and Mitchell Arico, Melissa
+   Crawford, PhD, and Katie Oakley, PhD, from Edanz Group for editing a
+   draft of this manuscript. We thank A. Osuka (Japan Community Health Care
+   Organization Chukyo Hospital) for providing the sera of patients with
+   burns. This work was supported by research grants from the Ono Medical
+   Research Foundation (to S.K.), Takeda Science Foundation (to S.K.), and
+   Kishimoto Foundation.
+CR Ackermann M, 2020, NEW ENGL J MED, V383, P120, DOI 10.1056/NEJMoa2015432
+   Bonetti PO, 2003, ARTERIOSCL THROM VAS, V23, P168, DOI 10.1161/01.ATV.0000051384.43104.FC
+   Esmon CT, 1999, HAEMATOLOGICA, V84, P254
+   Fink MP, 2014, NAT REV DRUG DISCOV, V13, P741, DOI 10.1038/nrd4368
+   Grupp SA, 2013, NEW ENGL J MED, V368, P1509, DOI 10.1056/NEJMoa1215134
+   Guan W, 2020, NEW ENGL J MED, V382, P1708, DOI [10.1056/NEJMc2005203, 10.1056/NEJMoa2002032]
+   Huang CL, 2020, LANCET, V395, P497, DOI 10.1016/S0140-6736(20)30183-5
+   Kang SJ, 2019, IMMUNITY, V50, P1007, DOI 10.1016/j.immuni.2019.03.026
+   Lord JM, 2014, LANCET, V384, P1455, DOI 10.1016/S0140-6736(14)60687-5
+   Lu ZY, 2012, ARTERIOSCL THROM VAS, V32, P1696, DOI 10.1161/ATVBAHA.112.251181
+   Matsumoto H, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-32275-8
+   Matsuura H, 2019, SHOCK, V51, P185, DOI 10.1097/SHK.0000000000001152
+   Mehta P, 2020, LANCET, V395, P1033, DOI 10.1016/S0140-6736(20)30628-0
+   Moore JB, 2020, SCIENCE, V368, P473, DOI 10.1126/science.abb8925
+   Nishimoto N, 2008, BLOOD, V112, P3959, DOI 10.1182/blood-2008-05-155846
+   Norelli M, 2018, NAT MED, V24, P739, DOI 10.1038/s41591-018-0036-4
+   Pierrakos C, 2010, CRIT CARE, V14, DOI 10.1186/cc8872
+   PRALONG G, 1989, THROMB HAEMOSTASIS, V61, P459
+   Ranieri VM, 2012, NEW ENGL J MED, V366, P2055, DOI 10.1056/NEJMoa1202290
+   Romano M, 1997, IMMUNITY, V6, P315, DOI 10.1016/S1074-7613(00)80334-9
+   Rose-John S, 2017, CLIN PHARMACOL THER, V102, P591, DOI 10.1002/cpt.782
+   Stearns-Kurosawa DJ, 2011, ANNU REV PATHOL-MECH, V6, P19, DOI 10.1146/annurev-pathol-011110-130327
+   Teachey DT, 2013, BLOOD, V121, P5154, DOI 10.1182/blood-2013-02-485623
+   Terpstra ML, 2014, CRIT CARE MED, V42, P691, DOI 10.1097/01.ccm.0000435669.60811.24
+   van der Poll T, 2017, NAT REV IMMUNOL, V17, P407, DOI 10.1038/nri.2017.36
+   Varga Z, 2020, LANCET, V395, P1417, DOI 10.1016/S0140-6736(20)30937-5
+   WAAGE A, 1989, J EXP MED, V169, P333, DOI 10.1084/jem.169.1.333
+   Wang ZG, 2018, BIOMARK RES, V6, DOI 10.1186/s40364-018-0116-0
+   Wu CM, 2020, JAMA INTERN MED, V180, P934, DOI 10.1001/jamainternmed.2020.0994
+   Xu XL, 2020, P NATL ACAD SCI USA, V117, P10970, DOI 10.1073/pnas.2005615117
+   Zegeye MM, 2018, CELL COMMUN SIGNAL, V16, DOI 10.1186/s12964-018-0268-4
+   Zhou F, 2020, LANCET, V395, P1054, DOI 10.1016/S0140-6736(20)30566-3
+NR 32
+TC 156
+Z9 163
+U1 8
+U2 39
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+EI 1091-6490
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD SEP 8
+PY 2020
+VL 117
+IS 36
+BP 22351
+EP 22356
+DI 10.1073/pnas.2010229117
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA NT5GH
+UT WOS:000572968600006
+PM 32826331
+OA hybrid, Green Published
+DA 2023-08-21
+ER
+
+PT J
+AU Acosta, MAT
+   Singer, BD
+AF Acosta, Manuel A. Torres
+   Singer, Benjamin D.
+TI Pathogenesis of COVID-19-induced ARDS: implications for an ageing
+   population
+SO EUROPEAN RESPIRATORY JOURNAL
+LA English
+DT Article
+ID MACROPHAGE ACTIVATION SYNDROME; RESPIRATORY-DISTRESS-SYNDROME;
+   REGULATORY T-CELLS; INFLUENZA-VIRUS; LUNG INJURY; IN-VIVO; INTERFERON;
+   INFECTION; CORONAVIRUS; SARS-COV-2
+AB The coronavirus disease 2019 (COVID-19) pandemic has elicited a swift response by the scientific community to elucidate the pathogenesis of severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2)-induced lung injury and develop effective therapeutics. Clinical data indicate that severe COVID-19 most commonly manifests as viral pneumonia-induced acute respiratory distress syndrome (ARDS), a clinical entity mechanistically understood best in the context of influenza A virus-induced pneumonia. Similar to influenza, advanced age has emerged as the leading host risk factor for developing severe COVID-19. In this review we connect the current understanding of the SARS-CoV-2 replication cycle and host response to the clinical presentation of COVID-19, borrowing concepts from influenza A virus-induced ARDS pathogenesis and discussing how these ideas inform our evolving understanding of COVID-19-induced ARDS. We also consider important differences between COVID-19 and influenza, mainly the protean clinical presentation and associated lymphopenia of COVID-19, the contrasting role of interferon-gamma in mediating the host immune response to these viruses, and the tropism for vascular endothelial cells of SARS-CoV-2, commenting on the potential limitations of influenza as a model for COVID-19. Finally, we explore hallmarks of ageing that could explain the association between advanced age and susceptibility to severe COVID-19.
+C1 [Acosta, Manuel A. Torres; Singer, Benjamin D.] Northwestern Univ, Feinberg Sch Med, Dept Med, Div Pulm & Crit Care Med, Chicago, IL 60611, United States.
+   [Singer, Benjamin D.] Northwestern Univ, Feinberg Sch Med, Dept Biochem & Mol Genet, Chicago, IL 60611, United States.
+   [Singer, Benjamin D.] Northwestern Univ, Feinberg Sch Med, Simpson Querrey Ctr Epigenet, Chicago, IL 60611, United States.
+C3 Northwestern University; Feinberg School of Medicine; Northwestern
+   University; Feinberg School of Medicine; Northwestern University;
+   Feinberg School of Medicine
+RP Singer, BD (corresponding author), Northwestern Univ, Feinberg Sch Med, Dept Med,Simpson Querrey Ctr Epigenet, Div Pulm & Crit Care Med,Dept Biochem & Mol Genet, Simpson Querrey,5th Floor, Chicago, IL 60611 USA.
+EM benjamin-singer@northwestern.edu
+FU NIH [K08HL128867, U19AI135964, R01HL149883, P01AG049665, T32GM008152]
+FX M.A. Torres Acosta was supported by NIH award T32GM008152. B.D. Singer
+   was supported by NIH awards K08HL128867, U19AI135964, R01HL149883, and
+   P01AG049665. Funding information for this article has been deposited
+   with the Crossref Funder Registry.
+CR Abdul-Careem MF, 2012, J INFECT DIS, V206, P167, DOI 10.1093/infdis/jis340
+   Ackermann M, 2020, NEW ENGL J MED, V383, P120, DOI 10.1056/NEJMoa2015432
+   Aggarwal NR, 2014, J IMMUNOL, V192, P4453, DOI 10.4049/jimmunol.1400146
+   Aldridge JR, 2009, P NATL ACAD SCI USA, V106, P5306, DOI 10.1073/pnas.0900655106
+   Angus D C, 2001, Crit Care Med, V29, P1303, DOI 10.1097/00003246-200107000-00002
+   [Anonymous], 2012, JAMA, DOI DOI 10.1001/JAMA.2012.5669
+   [Anonymous], 2020, NAT MED, DOI [10.1038/s41591-020-0869-5, DOI 10.1038/S41591-020-0869-5]
+   [Anonymous], 2020, LANCET, DOI [10.1016/S0140-6736(20)30211-7, DOI 10.1016/S0140-6736(20)30211-7]
+   Arpaia N, 2015, CELL, V162, P1078, DOI 10.1016/j.cell.2015.08.021
+   Blanco-Melo D, 2020, CELL, V181, P1036, DOI 10.1016/j.cell.2020.04.026
+   Broggi A, 2020, SCIENCE, V369, P706, DOI 10.1126/science.abc3545
+   Cai YS, 2020, CELL RES, V30, P574, DOI 10.1038/s41422-020-0314-9
+   Calfee CS, 2014, LANCET RESP MED, V2, P611, DOI 10.1016/S2213-2600(14)70097-9
+   Camp JV, 2017, FRONT IMMUNOL, V8, DOI 10.3389/fimmu.2017.00550
+   Carlin LE, 2018, FRONT IMMUNOL, V9, DOI 10.3389/fimmu.2018.00781
+   Channappanavar R, 2016, CELL HOST MICROBE, V19, P181, DOI 10.1016/j.chom.2016.01.007
+   Chen G, 2020, J CLIN INVEST, V130, P2620, DOI 10.1172/JCI137244
+   Coppe JP, 2010, ANNU REV PATHOL-MECH, V5, P99, DOI 10.1146/annurev-pathol-121808-102144
+   Crayne CB, 2019, FRONT IMMUNOL, V10, DOI 10.3389/fimmu.2019.00119
+   D'Alessio FR, 2016, AM J PHYSIOL-LUNG C, V310, pL733, DOI 10.1152/ajplung.00419.2015
+   D'Alessio FR, 2009, J CLIN INVEST, V119, P2898, DOI 10.1172/JCI36498
+   Davidson S, 2016, EMBO MOL MED, V8, P1099, DOI 10.15252/emmm.201606413
+   De Felice FG, 2020, TRENDS NEUROSCI, V43, P355, DOI 10.1016/j.tins.2020.04.004
+   Dial CF, 2017, AM J RESP CELL MOL, V57, P162, DOI 10.1165/rcmb.2017-0019OC
+   Durbin RK, 2013, IMMUNOL REV, V255, P25, DOI 10.1111/imr.12101
+   Ellinghaus D, 2020, NEW ENGL J MED, V383, P1522, DOI 10.1056/NEJMoa2020283
+   Felgenhauer U, 2020, J BIOL CHEM, V295, P13958, DOI 10.1074/jbc.AC120.013788
+   Galani IE, 2017, IMMUNITY, V46, P875, DOI 10.1016/j.immuni.2017.04.025
+   Gattinoni L, 2020, INTENS CARE MED, V46, P1099, DOI 10.1007/s00134-020-06033-2
+   GeurtsvanKessel CH, 2008, J EXP MED, V205, P1621, DOI 10.1084/jem.20071365
+   Giamarellos-Bourboulis EJ, 2020, CELL HOST MICROBE, V27, P992, DOI 10.1016/j.chom.2020.04.009
+   Gorbalenya AE, 2020, NAT MICROBIOL, V5, P536, DOI 10.1038/s41564-020-0695-z
+   Goshua George, 2020, Lancet Haematol, V7, pe575, DOI 10.1016/S2352-3026(20)30216-7
+   Hamming I, 2004, J PATHOL, V203, P631, DOI 10.1002/path.1570
+   Hearps AC, 2012, AGING CELL, V11, P867, DOI 10.1111/j.1474-9726.2012.00851.x
+   Hemann EA, 2019, NAT IMMUNOL, V20, P1035, DOI 10.1038/s41590-019-0408-z
+   Herold S, 2015, EUR RESPIR J, V45, P1463, DOI 10.1183/09031936.00186214
+   Hoffmann M, 2020, CELL, V181, P271, DOI 10.1016/j.cell.2020.02.052
+   Hu ZL, 2020, SCI CHINA LIFE SCI, V63, P706, DOI 10.1007/s11427-020-1661-4
+   Jain Juhi, 2020, VirusDisease, V31, P75, DOI 10.1007/s13337-020-00591-1
+   Jia DL, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013927
+   Khan SS, 2017, AGING CELL, V16, P624, DOI 10.1111/acel.12601
+   Kim TS, 2011, TRENDS IMMUNOL, V32, P225, DOI 10.1016/j.it.2011.02.006
+   Kostova D, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0066312
+   Lagunas-Rangel FA, 2020, J MED VIROL, V92, P1789, DOI 10.1002/jmv.25900
+   Lerkvaleekul B, 2018, OPEN ACCESS RHEUMATO, V10, P117, DOI 10.2147/OARRR.S151013
+   Li JY, 2020, VIRUS RES, V286, DOI 10.1016/j.virusres.2020.198074
+   Lopez-Otin C, 2013, CELL, V153, P1194, DOI 10.1016/j.cell.2013.05.039
+   McGrath-Morrow SA, 2018, J BIOL CHEM, V293, P11772, DOI 10.1074/jbc.RA118.003589
+   Menter T, 2020, HISTOPATHOLOGY, V77, P198, DOI 10.1111/his.14134
+   Mertz D, 2013, BMJ-BRIT MED J, V347, DOI 10.1136/bmj.f5061
+   Mock JR, 2014, MUCOSAL IMMUNOL, V7, P1440, DOI 10.1038/mi.2014.33
+   Moitra VK, 2016, CRIT CARE MED, V44, P655, DOI 10.1097/CCM.0000000000001480
+   Morales-Nebreda L, 2019, TRANSL RES, V204, P1, DOI 10.1016/j.trsl.2018.08.001
+   Narasaraju T, 2011, AM J PATHOL, V179, P199, DOI 10.1016/j.ajpath.2011.03.013
+   Nicol MQ, 2019, VIROLOGY, V526, P155, DOI 10.1016/j.virol.2018.10.017
+   Onder G, 2020, JAMA-J AM MED ASSOC, V323, P1775, DOI 10.1001/jama.2020.4683
+   Palmer DB, 2013, FRONT IMMUNOL, V4, DOI 10.3389/fimmu.2013.00316
+   Pothlichet J, 2013, PLOS PATHOG, V9, DOI 10.1371/journal.ppat.1003256
+   Prabhu N, 2013, J VIROL, V87, P12510, DOI 10.1128/JVI.01776-13
+   Proto JD, 2018, IMMUNITY, V49, P666, DOI 10.1016/j.immuni.2018.07.015
+   Rodriguez-Morales AJ, 2020, TRAVEL MED INFECT DI, V34, DOI 10.1016/j.tmaid.2020.101623
+   Schulert GS, 2016, J INFECT DIS, V213, P1180, DOI 10.1093/infdis/jiv550
+   Shieh WJ, 2010, AM J PATHOL, V177, P166, DOI 10.2353/ajpath.2010.100115
+   Shiow LR, 2006, NATURE, V440, P540, DOI 10.1038/nature04606
+   Sica A, 2012, J CLIN INVEST, V122, P787, DOI 10.1172/JCI59643
+   Singer BD, 2019, J CLIN INVEST, V129, P2597, DOI 10.1172/JCI124613
+   Singer BD, 2015, AM J RESP CELL MOL, V52, P641, DOI 10.1165/rcmb.2014-0327OC
+   Sinha P, 2020, JAMA INTERN MED, V180, P1152, DOI 10.1001/jamainternmed.2020.3313
+   Tan L, 2020, SIGNAL TRANSDUCT TAR, V5, DOI 10.1038/s41392-020-0148-4
+   Tang X, 2020, CHEST, V158, P195, DOI 10.1016/j.chest.2020.03.032
+   Thompson WW, 2006, J INFECT DIS, V194, pS82, DOI 10.1086/507558
+   To KKW, 2020, LANCET INFECT DIS, V20, P565, DOI 10.1016/S1473-3099(20)30196-1
+   Topham DJ, 1997, J IMMUNOL, V159, P5197
+   Tsioufis C, 2007, EUR HEART J, V28, P1162, DOI 10.1093/eurheartj/ehm089
+   Varga Z, 2020, LANCET, V395, P1417, DOI 10.1016/S0140-6736(20)30937-5
+   Voiriot G, 2020, INTERN EMERG MED, V15, P1333, DOI 10.1007/s11739-020-02356-6
+   Walls AC, 2020, CELL, V181, P281, DOI [10.1016/j.cell.2020.02.058, 10.1016/j.cell.2020.11.032]
+   Walter JM, 2018, JCI INSIGHT, V3, DOI 10.1172/jci.insight.123287
+   Wang JK, 2012, PLOS ONE, V7, DOI [10.1371/journal.pone.0030209, 10.1371/journal.pone.0031048]
+   Weinberg SE, 2019, NATURE, V565, P495, DOI 10.1038/s41586-018-0846-z
+   WORLD HEALTH ORGANIZATION, COR DIS COVID 19 PAN
+   Wu CM, 2020, JAMA INTERN MED, V180, P934, DOI 10.1001/jamainternmed.2020.0994
+   Yan Jun, 2010, Immun Ageing, V7, P4, DOI 10.1186/1742-4933-7-4
+   Yang Xiaobo, 2020, Lancet Respir Med, V8, P475, DOI 10.1016/S2213-2600(20)30079-5
+   Zhou F, 2020, LANCET, V395, P1054, DOI 10.1016/S0140-6736(20)30566-3
+   Zhou Z, 2020, CELL HOST MICROBE, V27, P883, DOI 10.1016/j.chom.2020.04.017
+   Zhu N, 2020, NEW ENGL J MED, V382, P727, DOI 10.1056/NEJMoa2001017
+   Ziehr DR, 2020, AM J RESP CRIT CARE, V201, P1560, DOI 10.1164/rccm.202004-1163LE
+   Zou LR, 2020, NEW ENGL J MED, V382, P1177, DOI [10.1148/radiol.2020200463, 10.1056/NEJMc2001737]
+   Zust R, 2007, PLOS PATHOG, V3, P1062, DOI 10.1371/journal.ppat.0030109
+NR 91
+TC 121
+Z9 123
+U1 1
+U2 20
+PU EUROPEAN RESPIRATORY SOC JOURNALS LTD
+PI SHEFFIELD
+PA 442 GLOSSOP RD, SHEFFIELD S10 2PX, ENGLAND
+SN 0903-1936
+EI 1399-3003
+J9 EUR RESPIR J
+JI Eur. Resp. J.
+PD SEP 1
+PY 2020
+VL 56
+IS 3
+AR 2002049
+DI 10.1183/13993003.02049-2020
+PG 12
+WC Respiratory System
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Respiratory System
+GA OR0NN
+UT WOS:000589173000016
+PM 32747391
+OA Green Published, hybrid
+DA 2023-08-21
+ER
+
+PT J
+AU Short, KR
+   Kroeze, EJBV
+   Fouchier, RAM
+   Kuiken, T
+AF Short, Kirsty R.
+   Kroeze, Edwin J. B. Veldhuis
+   Fouchier, Ron A. M.
+   Kuiken, Thijs
+TI Pathogenesis of influenza-induced acute respiratory distress syndrome
+SO LANCET INFECTIOUS DISEASES
+LA English
+DT Review
+ID ALVEOLAR EPITHELIAL-CELLS; VIRUS-INDUCED PNEUMONIA;
+   TUMOR-NECROSIS-FACTOR; DOUBLE-STRANDED-RNA; A H5N1 VIRUSES; AVIAN
+   INFLUENZA; PANDEMIC INFLUENZA; HUMAN MACROPHAGES; CYTOKINE RESPONSES;
+   ENDOTHELIAL-CELLS
+AB Acute respiratory distress syndrome (ARDS) is a fatal complication of influenza infection. In this Review we provide an integrated model for its pathogenesis. ARDS involves damage to the epithelial endothelial barrier, fluid leakage into the alveolar lumen, and respiratory insufficiency. The most important part of the epithelial endothelial barrier is the alveolar epithelium, strengthened by tight junctions. Influenza virus targets these epithelial cells, reducing sodium pump activity, damaging tight junctions, and killing infected cells. Infected epithelial cells produce cytokines that attract leucocytes-neutrophils and macrophages and activate adjacent endothelial cells. Activated endothelial cells and infiltrated leucocytes stimulate further infiltration, and leucocytes induce production of reactive oxygen species and nitric oxide that damage the barrier. Activated macrophages also cause direct apoptosis of epithelial cells. This model for influenza-induced ARDS differs from the dassic model, which is centred on endothelial damage, and provides a rationale for therapeutic intervention to moderate host response in influenza-induced ARDS.
+C1 [Short, Kirsty R.; Kroeze, Edwin J. B. Veldhuis; Fouchier, Ron A. M.; Kuiken, Thijs] Erasmus MC, Dept Virosci, NL-3015 GE Rotterdam, Zuid Holland, Netherlands.
+C3 Erasmus University Rotterdam; Erasmus MC
+RP Kuiken, T (corresponding author), Erasmus MC, Dept Virosci, Dr Molewaterpl 50, NL-3015 GE Rotterdam, Zuid Holland, Netherlands.
+EM t.kuiken@erasmusmc.nl
+RI Fouchier, Ron A/A-1911-2014
+OI Fouchier, Ron A/0000-0001-8095-2869; Short, Kirsty/0000-0003-4963-6184;
+   Kuiken, Thijs/0000-0001-5501-9049
+FU NHMRC CJ Martin postdoctoral fellowship [1054081]; NIH/NIAID
+   [HHSN266200700010C]; European Union FP7 ANTIGONE [278976]
+FX We thank Lonneke Leijten for doing Pankeratin and von Willebrand factor
+   staining. We thank Judith van den Brand for the provision of histology
+   sections and Debby van Riel for the provision of histology sections and
+   critical reading of the Review. KRS is supported by an NHMRC CJ Martin
+   postdoctoral fellowship (1054081). RAMF is supported by NIH/NIAID
+   contract HHSN266200700010C. TK is supported by European Union FP7
+   ANTIGONE contract 278976.
+CR Adachi M, 1997, INT ARCH ALLERGY IMM, V113, P307, DOI 10.1159/000237584
+   Akaike T, 1996, P NATL ACAD SCI USA, V93, P2448, DOI 10.1073/pnas.93.6.2448
+   Alexander DJ, 2000, VET MICROBIOL, V74, P3, DOI 10.1016/S0378-1135(00)00160-7
+   Amulic B, 2012, ANNU REV IMMUNOL, V30, P459, DOI 10.1146/annurev-immunol-020711-074942
+   Armstrong SM, 2013, VIRULENCE, V4, P537, DOI 10.4161/viru.25779
+   Armstrong SM, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0047323
+   Arndt U, 2002, J VIROL, V76, P9298, DOI 10.1128/JVI.76.18.9298-9306.2002
+   Bandyopadhyay U, 1999, CURR SCI INDIA, V77, P658
+   Bannerman DD, 2003, AM J PHYSIOL-LUNG C, V284, pL899, DOI 10.1152/ajplung.00338.2002
+   Basler CF, 2008, ANTIVIR RES, V79, P166, DOI 10.1016/j.antiviral.2008.04.006
+   Bellingan GJ, 2002, THORAX, V57, P540, DOI 10.1136/thorax.57.6.540
+   Bemasconi D, 2005, J BIOL CHEM, V280, P24127
+   Berthiaume Y, 2007, RESP PHYSIOL NEUROBI, V159, P350, DOI 10.1016/j.resp.2007.05.010
+   Brundage JF, 2008, EMERG INFECT DIS, V14, P1193, DOI 10.3201/eid1408.071313
+   Brunkhorst FM, 1999, CRIT CARE MED, V27, P2172, DOI 10.1097/00003246-199910000-00016
+   Brydon EWA, 2003, J GEN VIROL, V84, P2389, DOI 10.1099/vir.0.18913-0
+   Budinger GRS, 2006, CLIN CHEST MED, V27, P655, DOI 10.1016/j.ccm.2006.06.007
+   Cameron CM, 2008, J VIROL, V82, P11308, DOI 10.1128/JVI.00691-08
+   Chan MCW, 2005, RESP RES, V6, DOI 10.1186/1465-9921-6-135
+   Chan MCW, 2009, RESP RES, V10, DOI 10.1186/1465-9921-10-102
+   Chen XJ, 2004, AM J PHYSIOL-LUNG C, V287, pL366, DOI 10.1152/ajplung.00011.2004
+   Cheung CY, 2002, LANCET, V360, P1831, DOI 10.1016/S0140-6736(02)11772-7
+   Chien YW, 2009, NEW ENGL J MED, V361, P2582, DOI 10.1056/NEJMc0908216
+   Childs RA, 2009, NAT BIOTECHNOL, V27, P797, DOI 10.1038/nbt0909-797
+   CHOI AMK, 1992, FEBS LETT, V309, P327, DOI 10.1016/0014-5793(92)80799-M
+   Chotpitayasunondh T, 2005, EMERG INFECT DIS, V11, P201, DOI 10.3201/eid1102.041061
+   Chutinimitkul S, 2010, J VIROL, V84, P6825, DOI 10.1128/JVI.02737-09
+   Darwish I, 2011, EXPERT REV ANTI-INFE, V9, P807, DOI [10.1586/eri.11.56, 10.1586/ERI.11.56]
+   Dawood FS, 2012, LANCET INFECT DIS, V12, P687, DOI 10.1016/S1473-3099(12)70121-4
+   Dawson TC, 2000, AM J PATHOL, V156, P1951, DOI 10.1016/S0002-9440(10)65068-7
+   Fang FC, 2004, NAT REV MICROBIOL, V2, P820, DOI 10.1038/nrmicro1004
+   Fiers W, 2004, VIRUS RES, V103, P173, DOI 10.1016/j.virusres.2004.02.030
+   Folkesson HG, 2006, AM J RESP CELL MOL, V35, P10, DOI 10.1165/rcmb.2006-0080SF
+   Friesenhagen J, 2012, J LEUKOCYTE BIOL, V92, P11, DOI 10.1189/jlb.0911479
+   Gao RB, 2013, NEW ENGL J MED, V368, P1888, DOI 10.1056/NEJMoa1304459
+   Geiler J, 2011, MED MICROBIOL IMMUN, V200, P53, DOI 10.1007/s00430-010-0173-y
+   Golebiewski L, 2011, J VIROL, V85, P10639, DOI 10.1128/JVI.05070-11
+   GORIN AB, 1979, J APPL PHYSIOL, V47, P1315, DOI 10.1152/jappl.1979.47.6.1315
+   Gu J, 2007, LANCET, V370, P1137, DOI 10.1016/S0140-6736(07)61515-3
+   Guarner J, 2009, ARCH MED RES, V40, P655, DOI 10.1016/j.arcmed.2009.10.001
+   Guillot L, 2005, J BIOL CHEM, V280, P5571, DOI 10.1074/jbc.M410592200
+   Hale BG, 2010, FUTURE MICROBIOL, V5, P23, DOI 10.2217/FMB.09.108
+   Hemmers S, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022043
+   Herold S, 2006, J IMMUNOL, V177, P1817, DOI 10.4049/jimmunol.177.3.1817
+   Herold S, 2008, J EXP MED, V205, P3065, DOI 10.1084/jem.20080201
+   Hogner K, 2013, PLOS PATHOG, V9, DOI 10.1371/journal.ppat.1003188
+   HOLT PG, 1986, CLIN EXP IMMUNOL, V63, P261
+   Horby P, 2013, NATURE, V496, P399, DOI 10.1038/496399a
+   Huber D, 1999, INVAS METAST, V18, P70
+   Hui KPY, 2009, J IMMUNOL, V182, P1088, DOI 10.4049/jimmunol.182.2.1088
+   Husain AN, 2010, ROBBINS COTRAN PATHO, P715
+   Ichikawa A, 2013, AM J RESP CRIT CARE, V187, P65, DOI 10.1164/rccm.201203-0508OC
+   Imai Y, 2008, CELL, V133, P235, DOI 10.1016/j.cell.2008.02.043
+   Ishiguro N, 2004, ARCH VIROL, V149, P17, DOI 10.1007/s00705-003-0208-4
+   Jaeschke H, 1997, J LEUKOCYTE BIOL, V61, P647, DOI 10.1002/jlb.61.6.647
+   Johnson NPAS, 2002, B HIST MED, V76, P105, DOI 10.1353/bhm.2002.0022
+   Karupiah G, 1998, J EXP MED, V188, P1541, DOI 10.1084/jem.188.8.1541
+   Kash JC, 2006, VIRUS RES, V119, P111, DOI 10.1016/j.virusres.2005.10.013
+   Koval M, 2013, ANNU REV PHYSIOL, V75, P551, DOI 10.1146/annurev-physiol-030212-183809
+   Kuiken T, 2010, VET PATHOL, V47, P893, DOI 10.1177/0300985810378651
+   Kuiken T, 2008, VACCINE, V26, pD59, DOI 10.1016/j.vaccine.2008.07.025
+   Kunzelmann K, 2000, P NATL ACAD SCI USA, V97, P10282, DOI 10.1073/pnas.160041997
+   Lam WY, 2008, J VIROL, V82, P2741, DOI 10.1128/JVI.01712-07
+   Lazrak A, 2009, FASEB J, V23, P3829, DOI 10.1096/fj.09-135590
+   LEFKOWITZ DL, 1995, MED HYPOTHESES, V44, P58, DOI 10.1016/0306-9877(95)90303-8
+   Lehmann C, 1996, RES VIROLOGY, V147, P123, DOI 10.1016/0923-2516(96)80226-3
+   MARTIN TR, 1989, J CLIN INVEST, V84, P1609, DOI 10.1172/JCI114338
+   Matikainen S, 2000, VIROLOGY, V276, P138, DOI 10.1006/viro.2000.0542
+   Matsukura S, 1996, J ALLERGY CLIN IMMUN, V98, P1080, DOI 10.1016/S0091-6749(96)80195-3
+   Matthay MA, 2011, ANNU REV PATHOL-MECH, V6, P147, DOI 10.1146/annurev-pathol-011110-130158
+   Mauad T, 2010, AM J RESP CRIT CARE, V181, P72, DOI 10.1164/rccm.200909-1420OC
+   Michaelis M, 2010, MED MICROBIOL IMMUN, V199, P291, DOI 10.1007/s00430-010-0155-0
+   Mok KP, 2009, J INFECT DIS, V200, P1104, DOI 10.1086/605606
+   Morens DM, 2008, J INFECT DIS, V198, P962, DOI 10.1086/591708
+   Morens DM, 2007, J INFECT DIS, V195, P1018, DOI 10.1086/511989
+   MULLIN JM, 1990, CANCER RES, V50, P2172
+   Nakajima N, 2013, MODERN PATHOL, V26, P357, DOI 10.1038/modpathol.2012.193
+   Narasaraju T, 2010, AM J RESP CELL MOL, V42, P732, DOI 10.1165/rcmb.2008-0423OC
+   Narasaraju T, 2011, AM J PATHOL, V179, P199, DOI 10.1016/j.ajpath.2011.03.013
+   Ocana-Macchi M, 2009, J VIROL, V83, P12947, DOI 10.1128/JVI.00468-09
+   ODA T, 1989, SCIENCE, V244, P974, DOI 10.1126/science.2543070
+   Okada T, 2011, J STRENGTH COND RES, V25, P252, DOI 10.1519/JSC.0b013e3181b22b3e
+   Osterlund P, 2010, J VIROL, V84, P1414, DOI 10.1128/JVI.01619-09
+   Padalko E, 2004, P NATL ACAD SCI USA, V101, P11731, DOI 10.1073/pnas.0400518101
+   Palacios G, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0008540
+   Peiris JSM, 2009, TRENDS IMMUNOL, V30, P574, DOI 10.1016/j.it.2009.09.004
+   Peiris JSM, 2004, LANCET, V363, P617, DOI 10.1016/S0140-6736(04)15595-5
+   Perrone LA, 2008, PLOS PATHOG, V4, DOI 10.1371/journal.ppat.1000115
+   Piantadosi CA, 2004, ANN INTERN MED, V141, P460, DOI 10.7326/0003-4819-141-6-200409210-00012
+   PINKERTON KE, 1992, COMP BIOL NORMAL LUN, P121
+   Pirhonen J, 1999, J IMMUNOL, V162, P7322
+   Ramsey C, 2011, CURR OPIN CRIT CARE, V17, P64, DOI 10.1097/MCC.0b013e3283427259
+   Reperant LA, 2012, J VIROL, V86, P1158, DOI 10.1128/JVI.06375-11
+   Roux J, 2005, J BIOL CHEM, V280, P18579, DOI 10.1074/jbc.M410561200
+   Sakai S, 2000, J VIROL, V74, P2472, DOI 10.1128/JVI.74.5.2472-2476.2000
+   Salomon R, 2007, P NATL ACAD SCI USA, V104, P12479, DOI 10.1073/pnas.0705289104
+   SchultzCherry S, 1996, J VIROL, V70, P8624, DOI 10.1128/JVI.70.12.8624-8629.1996
+   Seo SH, 2002, NAT MED, V8, P950, DOI 10.1038/nm757
+   Sevransky JE, 2009, CRIT CARE, V13, DOI 10.1186/cc8048
+   Sheu CC, 2010, CHEST, V138, P559, DOI 10.1378/chest.09-2933
+   Shieh WJ, 2010, AM J PATHOL, V177, P166, DOI 10.2353/ajpath.2010.100115
+   Shinya K, 2006, NATURE, V440, P435, DOI 10.1038/440435a
+   Snelgrove RJ, 2006, EUR J IMMUNOL, V36, P1364, DOI 10.1002/eji.200635977
+   Stevens J, 2006, J MOL BIOL, V355, P1143, DOI 10.1016/j.jmb.2005.11.002
+   Stinchcombe JC, 1999, J CELL BIOL, V147, P1, DOI 10.1083/jcb.147.1.1
+   Sugamata R, 2012, MICROBIOL IMMUNOL, V56, P171, DOI 10.1111/j.1348-0421.2011.00424.x
+   Sumikoshi M, 2008, J MED VIROL, V80, P1072, DOI 10.1002/jmv.21185
+   Szabo C, 2003, TOXICOL LETT, V140, P105, DOI 10.1016/S0378-4274(02)00507-6
+   Szretter KJ, 2007, J VIROL, V81, P2736, DOI 10.1128/JVI.02336-06
+   Takizawa T, 1996, J VIROL, V70, P8128, DOI 10.1128/JVI.70.11.8128-8132.1996
+   Tapper H, 1996, J LEUKOCYTE BIOL, V59, P613, DOI 10.1002/jlb.59.5.613
+   Tate MD, 2010, J VIROL, V84, P7569, DOI 10.1128/JVI.00291-10
+   Tate MD, 2009, J IMMUNOL, V183, P7441, DOI 10.4049/jimmunol.0902497
+   Taubenberger JK, 2008, ANNU REV PATHOL-MECH, V3, P499, DOI 10.1146/annurev.pathmechdis.3.121806.154316
+   Teijaro JR, 2011, CELL, V146, P980, DOI 10.1016/j.cell.2011.08.015
+   To KKW, 2010, CLIN INFECT DIS, V50, P850, DOI 10.1086/650581
+   Uiprasertkui M, 2007, EMERG INFECT DIS, V13, P708, DOI 10.3201/eid1305.060572
+   Uiprasertkul M, 2005, EMERG INFECT DIS, V11, P1036, DOI 10.3201/eid1107.041313
+   Valberg PA, 1992, COMP BIOL NORMAL LUN, P681
+   van Riel D, 2006, SCIENCE, V312, P399, DOI 10.1126/science.1125548
+   van Riel D, 2007, AM J PATHOL, V171, P1215, DOI 10.2353/ajpath.2007.070248
+   van Riel D, 2011, PLOS PATHOG, V7, DOI 10.1371/journal.ppat.1002099
+   Visseren FLJ, 1999, J LAB CLIN MED, V134, P623, DOI 10.1016/S0022-2143(99)90103-8
+   Vissers MCM, 1999, BIOCHEM J, V344, P443, DOI 10.1042/0264-6021:3440443
+   Vlahos R, 2011, PLOS PATHOG, V7, DOI 10.1371/journal.ppat.1001271
+   von Kockritz-Blickwede M, 2009, J MOL MED, V87, P775, DOI 10.1007/s00109-009-0481-0
+   WALKER DC, 1995, MICROVASC RES, V50, P397, DOI 10.1006/mvre.1995.1067
+   Wang JP, 2008, BLOOD, V112, P2028, DOI 10.1182/blood-2008-01-132860
+   Webster RG, 2006, EMERG INFECT DIS, V12, P3, DOI 10.3201/eid1201.051024
+   WEILAND JE, 1986, AM REV RESPIR DIS, V133, P218
+   WIENERKRONISH JP, 1991, J CLIN INVEST, V88, P864, DOI 10.1172/JCI115388
+   Wolk KE, 2008, AM J RESP CRIT CARE, V178, P969, DOI 10.1164/rccm.200803-455OC
+   Woo PCY, 2010, J INFECT DIS, V201, P346, DOI 10.1086/649785
+   Wyble CW, 1997, J SURG RES, V73, P107, DOI 10.1006/jsre.1997.5207
+   YAMAMOTO K, 1991, J INFECT DIS, V164, P8, DOI 10.1093/infdis/164.1.8
+   Yu WCL, 2011, J VIROL, V85, P6844, DOI 10.1128/JVI.02200-10
+   Zeng H, 2013, J VIROL, V87, P2597, DOI 10.1128/JVI.02885-12
+   Zeng H, 2012, J VIROL, V86, P667, DOI 10.1128/JVI.06348-11
+   Zheng BJ, 2008, P NATL ACAD SCI USA, V105, P8091, DOI 10.1073/pnas.0711942105
+NR 139
+TC 334
+Z9 362
+U1 10
+U2 63
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1473-3099
+EI 1474-4457
+J9 LANCET INFECT DIS
+JI Lancet Infect. Dis.
+PD JAN
+PY 2014
+VL 14
+IS 1
+BP 57
+EP 69
+DI 10.1016/S1473-3099(13)70286-X
+PG 13
+WC Infectious Diseases
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Infectious Diseases
+GA 281DC
+UT WOS:000329079100022
+PM 24239327
+DA 2023-08-21
+ER
+
+PT J
+AU Whyte, CS
+   Morrow, GB
+   Mitchell, JL
+   Chowdary, P
+   Mutch, NJ
+AF Whyte, Claire S.
+   Morrow, Gael B.
+   Mitchell, Joanne L.
+   Chowdary, Pratima
+   Mutch, Nicola J.
+TI Fibrinolytic abnormalities in acute respiratory distress syndrome (ARDS)
+   and versatility of thrombolytic drugs to treat COVID-19
+SO JOURNAL OF THROMBOSIS AND HAEMOSTASIS
+LA English
+DT Review
+DE fibrin; fibrinolysis; plasminogen activator inhibitor 1; respiratory distress syndrome, adult; COVID-19/SARS-CoV-2/Coronavirus; tissue plasminogen activator 
+ID ACUTE LUNG INJURY; PLASMINOGEN-ACTIVATOR INHIBITOR-1; TISSUE FACTOR;
+   ELEVATED LEVELS; FACTOR XA; COAGULATION; EXPRESSION; PNEUMONIA;
+   INTERLEUKIN-8; MACROPHAGE
+AB The global pandemic of coronavirus disease 2019 (COVID-19) is associated with the development of acute respiratory distress syndrome (ARDS), which requires ventilation in critically ill patients. The pathophysiology of ARDS results from acute inflammation within the alveolar space and prevention of normal gas exchange. The increase in proinflammatory cytokines within the lung leads to recruitment of leukocytes, further propagating the local inflammatory response. A consistent finding in ARDS is the deposition of fibrin in the air spaces and lung parenchyma. COVID-19 patients show elevated D-dimers and fibrinogen. Fibrin deposits are found in the lungs of patients due to the dysregulation of the coagulation and fibrinolytic systems. Tissue factor (TF) is exposed on damaged alveolar endothelial cells and on the surface of leukocytes promoting fibrin deposition, while significantly elevated levels of plasminogen activator inhibitor 1 (PAI-1) from lung epithelium and endothelial cells create a hypofibrinolytic state. Prophylaxis treatment of COVID-19 patients with low molecular weight heparin (LMWH) is important to limit coagulopathy. However, to degrade pre-existing fibrin in the lung it is essential to promote local fibrinolysis. In this review, we discuss the repurposing of fibrinolytic drugs, namely tissue-type plasminogen activator (tPA), to treat COVID-19 associated ARDS. tPA is an approved intravenous thrombolytic treatment, and the nebulizer form has been shown to be effective in plastic bronchitis and is currently in Phase II clinical trial. Nebulizer plasminogen activators may provide a targeted approach in COVID-19 patients to degrade fibrin and improving oxygenation in critically ill patients.
+C1 [Whyte, Claire S.; Morrow, Gael B.; Mutch, Nicola J.] Aberdeen Cardiovasc & Diabet Ctr, Sch Med Med Sci & Nutr, Aberdeen, Scotland, United Kingdom.
+   [Morrow, Gael B.] Univ Oxford, Radcliffe Dept Med, Oxford, England, United Kingdom.
+   [Mitchell, Joanne L.] Univ Reading, Inst Cardiovasc & Metab Sci, Sch Biol Sci, Reading, Berks, England, United Kingdom.
+   [Chowdary, Pratima] Royal Free Hosp, Katharine Dormandy Haemophilia & Thrombosis Ctr, London, England, United Kingdom.
+C3 University of Oxford; University of Reading; University of London;
+   University College London; Royal Free London NHS Foundation Trust; UCL
+   Medical School
+RP Mutch, NJ (corresponding author), Univ Aberdeen, Inst Med Sci, Sch Med Med Sci & Nutr, Aberdeen Cardiovasc & Diabet Ctr, Foresterhill, Aberdeen AB25 2ZD, Scotland.
+EM n.j.mutch@abdn.ac.uk
+RI Chowdary, Pratima/I-2623-2012
+OI Chowdary, Pratima/0000-0002-6690-8586; Morrow, Gael
+   B/0000-0001-9299-6754; Whyte, Claire/0000-0001-8127-6102; Mutch,
+   Nicola/0000-0002-7452-0813
+FU British Heart Foundation [FS/11/2/28579, PG/15/82/31721]
+FX British Heart Foundation, Grant/Award Number: FS/11/2/28579,
+   PG/15/82/31721
+CR Armstrong L, 1997, THORAX, V52, P442, DOI 10.1136/thx.52.5.442
+   Asokananthan N, 2002, J IMMUNOL, V168, P3577, DOI 10.4049/jimmunol.168.7.3577
+   Bendib I, 2019, ANESTHESIOLOGY, V130, P581, DOI 10.1097/ALN.0000000000002619
+   BERTOZZI P, 1990, NEW ENGL J MED, V322, P890, DOI 10.1056/NEJM199003293221304
+   Blanc-Brude OP, 2005, EXP CELL RES, V304, P16, DOI 10.1016/j.yexcr.2004.10.021
+   Blanc-Brude OP, 2001, AM J PHYSIOL-CELL PH, V281, pC681, DOI 10.1152/ajpcell.2001.281.2.C681
+   Bodier-Montagutelli E, 2018, EXPERT OPIN DRUG DEL, V15, P729, DOI 10.1080/17425247.2018.1503251
+   BONE RC, 1976, AM J MED, V61, P585, DOI 10.1016/0002-9343(76)90135-2
+   BRISSENDEN JE, 1983, CLIN CHIM ACTA, V128, P241, DOI 10.1016/0009-8981(83)90324-8
+   BROWN LF, 1993, AM J PATHOL, V142, P273
+   Camprubi-Rimblas M, 2020, J THROMB HAEMOST, V18, P571, DOI 10.1111/jth.14685
+   Chambers RC, 2000, J BIOL CHEM, V275, P35584, DOI 10.1074/jbc.M003188200
+   CHOLLETMARTIN S, 1993, INFECT IMMUN, V61, P4553, DOI 10.1128/IAI.61.11.4553-4559.1993
+   Colaneri M, 2014, ITAL J PEDIATR, V40, DOI 10.1186/1824-7288-40-18
+   Deng JK, 2010, CHEST, V138, P1486, DOI 10.1378/chest.10-0548
+   Determann RM, 2006, INTENS CARE MED, V32, P946, DOI 10.1007/s00134-006-0167-9
+   DONNELLY SC, 1993, LANCET, V341, P643, DOI 10.1016/0140-6736(93)90416-E
+   DOWTON SB, 1988, SEMIN HEMATOL, V25, P84
+   Duffy AJ, 2000, J SURG RES, V90, P51, DOI 10.1006/jsre.2000.5835
+   El Solh AA, 2006, INTENS CARE MED, V32, P110, DOI 10.1007/s00134-005-2847-2
+   Enkhbaatar P, 2007, CRIT CARE MED, V35, P2805, DOI 10.1097/01.CCM.0000291647.18329.83
+   Fujimoto H, 2003, AM J RESP CRIT CARE, V167, P1687, DOI 10.1164/rccm.200208-905OC
+   Gattinoni L, 2020, AM J RESP CRIT CARE, V201, P1299, DOI 10.1164/rccm.202003-0817LE
+   Gralinski LE, 2013, MBIO, V4, DOI 10.1128/mBio.00271-13
+   Gram J, 1999, FIBRINOLYSIS PROTEOL, V13, P209, DOI 10.1016/S0268-9499(99)90073-5
+   GUNTHER A, 1995, AM J RESP CELL MOL, V13, P712
+   Hardaway RM, 2001, AM SURGEON, V67, P377
+   HARDAWAY RM, 1990, CRIT CARE MED, V18, P1413, DOI 10.1097/00003246-199012000-00021
+   Hardaway RM, 2006, WORLD J SURG, V30, P1829, DOI 10.1007/s00268-006-0030-8
+   Hasegawa M, 2010, EMERG INFECT DIS, V16, P344, DOI 10.3201/eid1602.091607
+   He L, 2006, J PATHOL, V210, P288, DOI 10.1002/path.2067
+   Hjortoe GM, 2004, BLOOD, V103, P3029, DOI 10.1182/blood-2003-10-3417
+   Huang CL, 2020, LANCET, V395, P497, DOI 10.1016/S0140-6736(20)30183-5
+   Huang XF, 2018, MEDIAT INFLAMM, V2018, DOI 10.1155/2018/1264913
+   Hui DS, 2020, INT J INFECT DIS, V91, P264, DOI 10.1016/j.ijid.2020.01.009
+   HUNT B, 2020, BR SOC HAEMATOL, DOI DOI 10.1111/JTH.14853
+   Idell S, 2003, CRIT CARE MED, V31, pS213, DOI 10.1097/01.CCM.0000057846.21303.AB
+   IDELL S, 1991, AM J PHYSIOL, V261, pL240, DOI 10.1152/ajplung.1991.261.4.L240
+   IDELL S, 1989, J CLIN INVEST, V84, P695, DOI 10.1172/JCI114217
+   Idell S, 1994, New Horiz, V2, P566
+   Johnston LK, 2012, AM J RESP CELL MOL, V47, P417, DOI 10.1165/rcmb.2012-0090OC
+   Jose RJ, 2014, THORAX, V69, P190, DOI 10.1136/thoraxjnl-2013-204367
+   Juschten J, 2017, ANN TRANSL MED, V5, DOI 10.21037/atm.2017.08.23
+   Konstantinides S, 2002, NEW ENGL J MED, V347, P1143, DOI 10.1056/NEJMoa021274
+   Laterre PF, 2003, CRIT CARE MED, V31, pS329, DOI 10.1097/01.CCM.0000057912.71499.A5
+   Lee N, 2003, NEW ENGL J MED, V348, P1986, DOI 10.1056/NEJMoa030685
+   Lefrancais E, 2018, JCI INSIGHT, V3, DOI 10.1172/jci.insight.98178
+   Li Haitao, 2018, Oncotarget, V9, P1772, DOI 10.18632/oncotarget.22744
+   Liu C, 2018, FRONT IMMUNOL, V9, DOI 10.3389/fimmu.2018.01898
+   Lomas-Neira J, 2006, AM J PHYSIOL-LUNG C, V290, pL51, DOI 10.1152/ajplung.00028.2005
+   Lu HZ, 2020, J MED VIROL, V92, P401, DOI [10.1002/jmv.25678, 10.1002/jmv.2567]
+   MacLaren R, 2007, PHARMACOTHERAPY, V27, P860, DOI 10.1592/phco.27.6.860
+   Mahmoud AAA, 2020, J CARDIOTHOR VASC AN, V34, P436, DOI 10.1053/j.jvca.2019.05.035
+   MARTIN C, 1995, CHEST, V107, P196, DOI 10.1378/chest.107.1.196
+   Matthay MA, 2019, NAT REV DIS PRIMERS, V5, DOI 10.1038/s41572-019-0069-0
+   Meduri GU, 2009, CHEST, V136, P1631, DOI 10.1378/chest.08-2408
+   Mikacenic C, 2018, CRIT CARE, V22, DOI 10.1186/s13054-018-2290-8
+   Moine P, 2000, SHOCK, V13, P85, DOI 10.1097/00024382-200013020-00001
+   Moore HB, 2020, J TRAUMA ACUTE CARE, V88, P713, DOI 10.1097/TA.0000000000002694
+   Morrow B, 2019, 2019 IEEE VISUALIZATION CONFERENCE (VIS), P1, DOI 10.1109/VISUAL.2019.8933582
+   Mousavi S, 2015, ADV PHARMACOL SCI, V2015, DOI 10.1155/2015/507151
+   Murakami K, 2002, SHOCK, V18, P236, DOI 10.1097/00024382-200209000-00006
+   Oikawa J, 2009, PEDIATR INFECT DIS J, V28, P1035, DOI 10.1097/INF.0b013e3181ac4d0d
+   Papayannopoulos V, 2018, NAT REV IMMUNOL, V18, P134, DOI 10.1038/nri.2017.105
+   Prabhakaran P, 2003, AM J PHYSIOL-LUNG C, V285, pL20, DOI 10.1152/ajplung.00312.2002
+   Rocco PRM, 2009, MINERVA ANESTESIOL, V75, P730
+   Rosseau S, 2000, AM J PHYSIOL-LUNG C, V279, pL25, DOI 10.1152/ajplung.2000.279.1.L25
+   Ruf W, 2003, CRIT CARE MED, V31, pS231, DOI 10.1097/01.CCM.0000057848.27456.04
+   Schultz MJ, 2006, CRIT CARE MED, V34, P871, DOI [10.1097/01.CCM.0000201882.23917.B8, 10.1097/01.CCM.0000202136.91651.34]
+   Sebag SC, 2011, CURR PHARM BIOTECHNO, V12, P1481
+   SEEGER W, 1985, J APPL PHYSIOL, V58, P326, DOI 10.1152/jappl.1985.58.2.326
+   Shi HS, 2020, LANCET INFECT DIS, V20, P425, DOI 10.1016/S1473-3099(20)30086-4
+   Simpson-Haidaris PJ, 1998, INFECT IMMUN, V66, P4431
+   Song FX, 2020, RADIOLOGY, V295, P210, DOI [10.1148/radiol.2020200274, 10.1148/radiol.2020209021]
+   Song YL, 2007, ANESTHESIOLOGY, V106, P252, DOI 10.1097/00000542-200702000-00012
+   Stringer KA, 1998, FREE RADICAL BIO MED, V25, P184, DOI 10.1016/S0891-5849(98)00047-1
+   Tan YJ, 2005, J VIROL, V79, P10083, DOI 10.1128/JVI.79.15.10083-10087.2005
+   Tang N, 2020, J THROMB HAEMOST, V18, P844, DOI 10.1111/jth.14768
+   Thachil J, 2020, J THROMB HAEMOST, V18, P1795, DOI 10.1111/jth.14841
+   Tian SF, 2020, J THORAC ONCOL, V15, P700, DOI 10.1016/j.jtho.2020.02.010
+   Ueno A, 1996, IMMUNOLOGY, V88, P76, DOI 10.1046/j.1365-2567.1996.d01-635.x
+   Wang Dawei, 2020, JAMA, V323, P1061, DOI 10.1001/jama.2020.1585
+   Wang J, 2020, J THROMB HAEMOST, V18, P1752, DOI 10.1111/jth.14828
+   WARE LB, 2000, NEW ENGL J MED, V342, P1334, DOI [DOI 10.1056/NEJM200005043421806, 10.1056/NEJM200005043421806]
+   Ware LB, 2007, CRIT CARE MED, V35, P1821, DOI 10.1097/01.CCM.0000275386.95968.5F
+   Ware LB, 2006, SEMIN RESP CRIT CARE, V27, P337, DOI 10.1055/s-2006-948288
+   Ware LB, 2006, AM J PHYSIOL-LUNG C, V291, pL307, DOI 10.1152/ajplung.00157.2006
+   Whyte CS, 2015, BLOOD, V125, P2568, DOI 10.1182/blood-2014-09-599480
+   Wong RSM, 2003, BRIT MED J, V326, P1358, DOI 10.1136/bmj.326.7403.1358
+   Xu S P, 2020, Zhonghua Bing Li Xue Za Zhi, V49, P354, DOI 10.3760/cma.j.cn112151.20200219.00001
+   Xu Zhe, 2020, Lancet Respir Med, V8, P420, DOI 10.1016/S2213-2600(20)30076-X
+   Xue MM, 2015, J TRANSL MED, V13, DOI 10.1186/s12967-015-0518-9
+   Yang Xiaobo, 2020, Lancet Respir Med, V8, P475, DOI 10.1016/S2213-2600(20)30079-5
+   Yao XH, 2020, CHINESE J PATHOL, V49, P411
+   Zhang HL, 2020, ANN INTERN MED, V172, P629, DOI 10.7326/M20-0533
+   Zhao X, 2008, J BIOL CHEM, V283, P3272, DOI 10.1074/jbc.M708033200
+NR 96
+TC 175
+Z9 188
+U1 3
+U2 24
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 1538-7933
+EI 1538-7836
+J9 J THROMB HAEMOST
+JI J. Thromb. Haemost.
+PD JUL
+PY 2020
+VL 18
+IS 7
+BP 1548
+EP 1555
+DI 10.1111/jth.14872
+EA JUN 2020
+PG 8
+WC Hematology; Peripheral Vascular Disease
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Hematology; Cardiovascular System & Cardiology
+GA MG6WK
+UT WOS:000537272200001
+PM 32329246
+OA hybrid, Green Published, Green Accepted
+DA 2023-08-21
+ER
+
+PT J
+AU Abrams, ST
+   Zhang, N
+   Manson, J
+   Liu, TT
+   Dart, C
+   Baluwa, F
+   Wang, SS
+   Brohi, K
+   Kipar, A
+   Yu, WP
+   Wang, GZ
+   Toh, CH
+AF Abrams, Simon T.
+   Zhang, Nan
+   Manson, Joanna
+   Liu, Tingting
+   Dart, Caroline
+   Baluwa, Florence
+   Wang, Susan Siyu
+   Brohi, Karim
+   Kipar, Anja
+   Yu, Weiping
+   Wang, Guozheng
+   Toh, Cheng-Hock
+TI Circulating Histones Are Mediators of Trauma-associated Lung Injury
+SO AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE
+LA English
+DT Article
+DE lung; trauma; histones 
+ID MULTIPLE ORGAN FAILURE; EXTRACELLULAR HISTONES; THROMBIN GENERATION;
+   PROTEIN; BINDING; DEATH; IDENTIFICATION; PERMEABILITY; NEUTROPHILS;
+   RECEPTOR
+AB Rationale: Acute lung injury is a common complication after severe trauma, which predisposes patients to multiple organ failure. This syndrome largely accounts for the late mortality that arises and despite many theories, the pathological mechanism is not fully understood. Discovery of histone-induced toxicity in mice presents a new dimension for elucidating the underlying pathophysiology.
+   Objectives: To investigate the pathological roles of circulating histones in trauma-induced lung injury.
+   Methods: Circulating histone levels in patients with severe trauma were determined and correlated with respiratory failure and Sequential Organ Failure Assessment (SOFA) scores. Their cause effect relationship was studied using cells and mouse models.
+   Measurements and Main Results: In a cohort of 52 patients with severe nonthoracic blunt trauma, circulating histones surged immediately after trauma to levels that were toxic to cultured endothelial cells. The high levels were significantly associated with the incidence of acute lung injury and SOFA scores, as well as markers of endothelial damage and coagulation activation. In in vitro systems, histones damaged endothelial cells, stimulated cytokine release, and induced neutrophil extracellular trap formation and myeloperoxidase release. Cellular toxicity resulted from their direct membrane interaction and resultant calcium influx. In mouse models, cytokines and markers for endothelial damage and coagulation activation significantly increased immediately after trauma or histone infusion. Pathological examinations showed that lungs were the predominantly affected organ with edema, hemorrhage, microvascular thrombosis, and neutrophil congestion. An anti-histone antibody could reduce these changes and protect mice from histone-induced lethality.
+   Conclusions: This study elucidates a new mechanism for acute lung injury after severe trauma and proposes that circulating histones are viable therapeutic targets for improving survival outcomes in patients.
+C1 [Abrams, Simon T.; Toh, Cheng-Hock] Royal Liverpool Univ Hosp, Natl Inst Hlth Res, Biomed Res Ctr, Liverpool L7 8XP, Merseyside, England, United Kingdom.
+   [Abrams, Simon T.; Liu, Tingting; Baluwa, Florence; Wang, Guozheng; Toh, Cheng-Hock] Univ Liverpool, Inst Infect & Global Hlth, Liverpool L69 3GA, Merseyside, England, United Kingdom.
+   [Zhang, Nan; Yu, Weiping] Southeast Univ, Sch Med, Nanjing, Jiangsu, China.
+   [Manson, Joanna; Brohi, Karim] Queen Mary Univ London, Barts & London Sch Med & Dent, London, England, United Kingdom.
+   [Dart, Caroline] Univ Liverpool, Inst Integrat Biol, Liverpool L69 3BX, Merseyside, England, United Kingdom.
+   [Wang, Susan Siyu] Univ Cambridge, Sch Clin Med, Cambridge, England, United Kingdom.
+   [Kipar, Anja] Univ Liverpool, Sch Vet Sci, Liverpool L69 3BX, Merseyside, England, United Kingdom.
+C3 Royal Liverpool & Broadgreen University Hospitals NHS Trust; Royal
+   Liverpool University Hospital; University of Liverpool; University of
+   Liverpool; Southeast University - China; University of London; Queen
+   Mary University London; University of Liverpool; University of
+   Cambridge; University of Liverpool
+RP Toh, CH (corresponding author), Royal Liverpool Univ Hosp, Natl Inst Hlth Res, Biomed Res Ctr, Liverpool L7 8XP, Merseyside, England.
+EM wangg@liv.ac.uk; toh@liv.ac.uk
+RI Kipar, Anja/L-7214-2014; liu, ting/GZM-3326-2022
+OI Kipar, Anja/0000-0001-7289-3459; Dart, Caroline/0000-0002-3509-8349;
+   Wang, Susan Siyu/0000-0002-6546-8240; Abrams, Simon/0000-0003-3949-2455
+FU Royal College of Surgeons, England; National Institute of Health
+   Research (NIHR Biomedical Research Centre in Microbial Disease) [3515];
+   National Institute of Health Research (NIHR Innovation for Invention
+   Grant) [II-LS-1010-14061]; National Institutes of Health Research (NIHR)
+   [BRF-2011-026, II-FS-0509-12093, II-LS-1010-10045] Funding Source:
+   National Institutes of Health Research (NIHR); National Institute for
+   Health Research [II-FS-0509-12093, BRF-2011-026, II-LS-1010-10045]
+   Funding Source: researchfish
+FX The authors are indebted to participating patients and their attending
+   clinical staff. J.M. has a research fellowship from the Royal College of
+   Surgeons, England. The authors also acknowledge the National Institute
+   of Health Research (NIHR Biomedical Research Centre in Microbial Disease
+   Grant Project [3515] and NIHR Innovation for Invention Grant
+   [II-LS-1010-14061]) for infrastructural and project support.
+CR Abakushin DN, 1999, BIOCHEMISTRY-MOSCOW+, V64, P693
+   Ammollo CT, 2011, J THROMB HAEMOST, V9, P1795, DOI 10.1111/j.1538-7836.2011.04422.x
+   BAKER SP, 1974, J TRAUMA, V14, P187, DOI 10.1097/00005373-197403000-00001
+   Becker PM, 2003, AM J RESP CELL MOL, V28, P478, DOI 10.1165/rcmb.2002-0024OC
+   Brill A, 2012, J THROMB HAEMOST, V10, P136, DOI 10.1111/j.1538-7836.2011.04544.x
+   Ciesla DJ, 2005, SURGERY, V138, P749, DOI 10.1016/j.surg.2005.07.020
+   Constans J, 2006, CLIN CHIM ACTA, V368, P33, DOI 10.1016/j.cca.2005.12.030
+   Dewar D, 2009, INJURY, V40, P912, DOI 10.1016/j.injury.2009.05.024
+   Fuchs TA, 2011, BLOOD, V118, P3708, DOI 10.1182/blood-2011-01-332676
+   Fuchs TA, 2010, P NATL ACAD SCI USA, V107, P15880, DOI 10.1073/pnas.1005743107
+   Ganapathy V, 2005, LIFE SCI, V76, P2631, DOI 10.1016/j.lfs.2005.01.002
+   Gauthier VJ, 1996, J IMMUNOL, V156, P1151
+   Gierer P, 2008, J SURG RES, V147, P68, DOI 10.1016/j.jss.2007.07.025
+   GIL J, 1980, ANNU REV PHYSIOL, V42, P177, DOI 10.1146/annurev.ph.42.030180.001141
+   Gil J, 2011, TEXTBOOK OF PULMONARY VASCULAR DISEASE, P13, DOI 10.1007/978-0-387-87429-6_2
+   Gomberg BFC, 1999, INJURY, V30, P431, DOI 10.1016/S0020-1383(99)00138-2
+   GRYNKIEWICZ G, 1985, J BIOL CHEM, V260, P3440
+   HAALAND AK, 1991, THROMB RES, V61, P253, DOI 10.1016/0049-3848(91)90101-2
+   Holdenrieder S, 2001, ANN NY ACAD SCI, V945, P93
+   Holdenrieder S, 2009, CRIT REV CL LAB SCI, V46, P1, DOI [10.1080/10408360802485875, 10.1080/10408360802485875 ]
+   Huang H, 2011, HEPATOLOGY, V54, P999, DOI 10.1002/hep.24501
+   Jawa Randeep S, 2011, J Intensive Care Med, V26, P73, DOI 10.1177/0885066610395679
+   Kleine TJ, 1997, AM J PHYSIOL-CELL PH, V273, pC1925, DOI 10.1152/ajpcell.1997.273.6.C1925
+   Leyland ML, 2004, J BIOL CHEM, V279, P43427, DOI 10.1074/jbc.M407575200
+   Li PX, 2010, J EXP MED, V207, P1853, DOI 10.1084/jem.20100239
+   Li YQ, 2011, SURGERY, V150, P442, DOI 10.1016/j.surg.2011.07.003
+   Luger K, 1997, NATURE, V389, P251, DOI 10.1038/38444
+   Malangoni MA, 2005, SURGERY, V138, P757
+   MARTIN AM, 1968, J TRAUM, V8, P687, DOI 10.1097/00005373-196809000-00007
+   MONESTIER M, 1993, MOL IMMUNOL, V30, P1069, DOI 10.1016/0161-5890(93)90153-3
+   Moore EE, 2005, SHOCK, V24, P71, DOI 10.1097/01.shk.0000191336.01036.fe
+   Moore FA, 1999, AM J SURG, V178, P449, DOI 10.1016/S0002-9610(99)00231-7
+   ORRENIUS S, 1994, J NEURAL TRANSM-SUPP, P1
+   Partrick D A, 1996, New Horiz, V4, P194
+   Peltz ED, 2009, SHOCK, V32, P17, DOI 10.1097/SHK.0b013e3181997173
+   Pemberton AD, 2010, PROTEOMICS, V10, P1484, DOI 10.1002/pmic.200900818
+   PEREIRA LF, 1994, CLIN EXP IMMUNOL, V97, P175
+   Perez-Casal M, 2009, HAEMATOL-HEMATOL J, V94, P387, DOI 10.3324/haematol.13547
+   Perl M, 2012, SHOCK, V38, P98, DOI 10.1097/SHK.0b013e318254be6a
+   Reino DC, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0014829
+   Riccardi C, 2006, NAT PROTOC, V1, P1458, DOI 10.1038/nprot.2006.238
+   Saffarzadeh M, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0032366
+   Semeraro F, 2011, BLOOD, V118, P1952, DOI 10.1182/blood-2011-03-343061
+   Shechter D, 2007, NAT PROTOC, V2, P1445, DOI 10.1038/nprot.2007.202
+   Slutsky AS, 1998, AM J RESP CRIT CARE, V157, P1721, DOI 10.1164/ajrccm.157.6.9709092
+   Swank GM, 1996, WORLD J SURG, V20, P411, DOI 10.1007/s002689900065
+   Tsukamoto T, 2010, INJURY, V41, P21, DOI 10.1016/j.injury.2009.07.010
+   Wang G, 2012, 4 ANN INT C ANT ICA
+   Xu J, 2011, J IMMUNOL, V187, P2626, DOI 10.4049/jimmunol.1003930
+   Xu J, 2009, NAT MED, V15, P1318, DOI 10.1038/nm.2053
+   Zallen G, 1999, J TRAUMA, V46, P42, DOI 10.1097/00005373-199901000-00007
+NR 51
+TC 378
+Z9 404
+U1 1
+U2 59
+PU AMER THORACIC SOC
+PI NEW YORK
+PA 25 BROADWAY, 18 FL, NEW YORK, NY 10004 USA
+SN 1073-449X
+EI 1535-4970
+J9 AM J RESP CRIT CARE
+JI Am. J. Respir. Crit. Care Med.
+PD JAN 15
+PY 2013
+VL 187
+IS 2
+BP 160
+EP 169
+DI 10.1164/rccm.201206-1037OC
+PG 10
+WC Critical Care Medicine; Respiratory System
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine; Respiratory System
+GA 075YY
+UT WOS:000313924600012
+PM 23220920
+OA Green Published
+DA 2023-08-21
+ER
+
+PT J
+AU van de Veerdonk, FL
+   Netea, MG
+   van Deuren, M
+   van der Meer, JWM
+   de Mast, Q
+   Bruggemann, RJ
+   van der Hoeven, H
+AF van de Veerdonk, Frank L.
+   Netea, Mihai G.
+   van Deuren, Marcel
+   van der Meer, Jos W. M.
+   de Mast, Quirijn
+   Brueggemann, Roger J.
+   van der Hoeven, Hans
+TI Kallikrein-kinin blockade in patients with COVID-19 to prevent acute
+   respiratory distress syndrome
+SO ELIFE
+LA English
+DT Article
+ID RECEPTORS
+AB COVID-19 patients can present with pulmonary edema early in disease. We propose that this is due to a local vascular problem because of activation of bradykinin 1 receptor (B1R) and B2R on endothelial cells in the lungs. SARS-CoV-2 enters the cell via ACE2 that next to its role in RAAS is needed to inactivate des-Arg9 bradykinin, the potent ligand of the B1R. Without ACE2 acting as a guardian to inactivate the ligands of B1R, the lung environment is prone for local vascular leakage leading to angioedema. Here, we hypothesize that a kinin-dependent local lung angioedema via B1R and eventually B2R is an important feature of COVID-19. We propose that blocking the B2R and inhibiting plasma kallikrein activity might have an ameliorating effect on early disease caused by COVID-19 and might prevent acute respiratory distress syndrome (ARDS). In addition, this pathway might indirectly be responsive to anti-inflammatory agents.
+C1 [van de Veerdonk, Frank L.; Netea, Mihai G.; van Deuren, Marcel; van der Meer, Jos W. M.; de Mast, Quirijn] Radboudumc Ctr Infect Dis RCI, Dept Internal Med, Nijmegen, Netherlands.
+   [Netea, Mihai G.] Univ Bonn, Life & Med Sci Inst LIMES, Dept Genom & Immunoregulat, Bonn, Germany.
+   [Brueggemann, Roger J.] Radboudumc Ctr Infect Dis RCI, Dept Pharm, Nijmegen, Netherlands.
+   [van der Hoeven, Hans] Radboudumc Ctr Infect Dis RCI, Intens Care, Nijmegen, Netherlands.
+C3 University of Bonn
+RP van de Veerdonk, FL (corresponding author), Radboudumc Ctr Infect Dis RCI, Dept Internal Med, Nijmegen, Netherlands.
+EM frank.vandeveerdonk@radboudumc.nl
+RI van de Veerdonk, Frank L/C-7256-2008
+OI van de Veerdonk, Frank L/0000-0002-1121-4894; de Mast,
+   Quirijn/0000-0001-6056-157X
+CR [Anonymous], 2020, J CLIN MED, DOI DOI 10.3390/jcm9020538
+   Batlle D, 2020, CLIN SCI, V134, P543, DOI 10.1042/CS20200163
+   BHOOLA KD, 1992, PHARMACOL REV, V44, P1
+   Ceravolo GS, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0111117
+   European Medicines Agency, 2014, ASS REP FIR INN IC
+   Fang L, 2020, LANCET RESP MED, V8, pE21, DOI 10.1016/S2213-2600(20)30116-8
+   Fu Y, 2020, VIROL SIN, V85, P4006, DOI DOI 10.1007/212250-020-00207-4
+   Gattinoni L, 2020, CRIT CARE, V24, DOI 10.1186/s13054-020-02880-z
+   Gattinoni L, 2020, INTENS CARE MED, V46, P1099, DOI 10.1007/s00134-020-06033-2
+   Glowacka I, 2010, J VIROL, V84, P1198, DOI 10.1128/JVI.01248-09
+   Gralinski LE, 2018, MBIO, V9, DOI 10.1128/mBio.01753-18
+   Imai Y, 2005, NATURE, V436, P112, DOI 10.1038/nature03712
+   Kuba K, 2005, NAT MED, V11, P875, DOI 10.1038/nm1267
+   Kuduk SD, 2007, J MED CHEM, V50, P272, DOI 10.1021/jm061094b
+   Levi M, 2019, RES PRACT THROMB HAE, V3, P38, DOI 10.1002/rth2.12175
+   Marceau F, 2018, PEPTIDES, V105, P37, DOI 10.1016/j.peptides.2018.05.007
+   Nasseri S, 2015, CRIT CARE MED, V43, pE499, DOI 10.1097/CCM.0000000000001268
+   Passos GF, 2004, J IMMUNOL, V172, P1839, DOI 10.4049/jimmunol.172.3.1839
+   Qadri F, 2018, EXPERT OPIN THER TAR, V22, P31, DOI 10.1080/14728222.2018.1409724
+   Quitterer U, 2014, BIOCHEM PHARMACOL, V88, P284, DOI 10.1016/j.bcp.2014.01.019
+   Sodhi CP, 2018, AM J PHYSIOL-LUNG C, V314, pL17, DOI 10.1152/ajplung.00498.2016
+   Walls AC, 2020, CELL, V181, P281, DOI [10.1016/j.cell.2020.02.058, 10.1016/j.cell.2020.11.032]
+   Zekayi Kutlubay, 2017, COMPREHENSIVE REV UR, P151, DOI DOI 10.5772/67704
+NR 23
+TC 189
+Z9 193
+U1 1
+U2 9
+PU eLIFE SCIENCES PUBL LTD
+PI CAMBRIDGE
+PA SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
+SN 2050-084X
+J9 ELIFE
+JI eLife
+PD APR 27
+PY 2020
+VL 9
+AR e57555
+DI 10.7554/eLife.57555
+PG 9
+WC Biology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Life Sciences & Biomedicine - Other Topics
+GA LL9QT
+UT WOS:000531890700001
+PM 32338605
+OA gold, Green Published, Green Submitted
+DA 2023-08-21
+ER
+
+PT J
+AU Hojyo, S
+   Uchida, M
+   Tanaka, K
+   Hasebe, R
+   Tanaka, Y
+   Murakami, M
+   Hirano, T
+AF Hojyo, Shintaro
+   Uchida, Mona
+   Tanaka, Kumiko
+   Hasebe, Rie
+   Tanaka, Yuki
+   Murakami, Masaaki
+   Hirano, Toshio
+TI How COVID-19 induces cytokine storm with high mortality
+SO INFLAMMATION AND REGENERATION
+LA English
+DT Review
+ID ANGIOTENSIN-CONVERTING ENZYME-2; ACUTE RESPIRATORY SYNDROME; FUNCTIONAL
+   RECEPTOR; SARS CORONAVIRUS; VIRAL LOAD; INFLAMMATION; TOCILIZUMAB;
+   ACTIVATION; ACE2; INHIBITION
+AB The newly emerging coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was first reported in Wuhan, China, but has rapidly spread all over the world. Some COVID-19 patients encounter a severe symptom of acute respiratory distress syndrome (ARDS) with high mortality. This high severity is dependent on a cytokine storm, most likely induced by the interleukin-6 (IL-6) amplifier, which is hyperactivation machinery that regulates the nuclear factor kappa B (NF-kappa B) pathway and stimulated by the simultaneous activation of IL-6-signal transducer and activator of transcription 3 (STAT3) and NF-kappa B signaling in non-immune cells including alveolar epithelial cells and endothelial cells. We hypothesize that IL-6-STAT3 signaling is a promising therapeutic target for the cytokine storm in COVID-19, because IL-6 is a major STAT3 stimulator, particularly during inflammation. We herein review the pathogenic mechanism and potential therapeutic targets of ARDS in COVID-19 patients.
+C1 [Hojyo, Shintaro; Uchida, Mona; Tanaka, Kumiko; Hasebe, Rie; Tanaka, Yuki; Murakami, Masaaki; Hirano, Toshio] Hokkaido Univ, Inst Genet Med, Grad Sch Med, Mol Psychoimmunol, Sapporo, Hokkaido 0600815, Japan.
+   [Hirano, Toshio] Natl Inst Quantum & Radiol Sci & Technol, Chiba 2638555, Japan.
+C3 Hokkaido University; National Institutes for Quantum Science &
+   Technology
+RP Murakami, M; Hirano, T (corresponding author), Hokkaido Univ, Inst Genet Med, Grad Sch Med, Mol Psychoimmunol, Sapporo, Hokkaido 0600815, Japan.
+EM murakami@igm.hokudai.ac.jp; hirano-toshio@qst.go.jp
+RI Uchida, Mona/AAK-1828-2021; Hirano, Toshio/C-8194-2009
+OI , Masaaki/0000-0001-7159-7279; HASEBE, Rie/0000-0003-2009-0595
+CR [Anonymous], 2020, JAMA, DOI DOI 10.1038/s41422-020-0282-0
+   [Anonymous], 2020, IMMUNITY, DOI DOI 10.1016/J.IMMUNI.2020.04.003
+   [Anonymous], 2020, J KOREAN MED SCI
+   Arima Y, 2017, ELIFE, V6, DOI 10.7554/eLife.25517
+   Arima Y, 2015, ELIFE, V4, DOI 10.7554/eLife.08733
+   Chan JFW, 2020, LANCET, V395, P514, DOI 10.1016/S0140-6736(20)30154-9
+   Chen G, 2020, J CLIN INVEST, V130, P2620, DOI 10.1172/JCI137244
+   Chen L, 2020, CARDIOVASC RES, V116, P1097, DOI 10.1093/cvr/cvaa078
+   Chen NS, 2020, LANCET, V395, P507, DOI 10.1016/S0140-6736(20)30211-7
+   Chu KH, 2005, KIDNEY INT, V67, P698, DOI 10.1111/j.1523-1755.2005.67130.x
+   De Benedetti F, 2012, NEW ENGL J MED, V367, P2385, DOI 10.1056/NEJMoa1112802
+   de Wit E, 2016, NAT REV MICROBIOL, V14, P523, DOI 10.1038/nrmicro.2016.81
+   DeDiego ML, 2014, J VIROL, V88, P913, DOI 10.1128/JVI.02576-13
+   Eguchi S, 2018, HYPERTENSION, V71, P804, DOI 10.1161/HYPERTENSIONAHA.118.10266
+   Fehr AR, 2015, METHODS MOL BIOL, V1282, P1, DOI 10.1007/978-1-4939-2438-7_1
+   Fujita M, 2019, J INVEST DERMATOL, V139, P333, DOI 10.1016/j.jid.2018.07.044
+   Giamarellos-Bourboulis EJ, 2020, CELL HOST MICROBE, V27, P992, DOI 10.1016/j.chom.2020.04.009
+   Gorbalenya AE, 2020, NAT MICROBIOL, V5, P536, DOI 10.1038/s41564-020-0695-z
+   Guan W, 2020, NEW ENGL J MED, V382, P1708, DOI [10.1056/NEJMc2005203, 10.1056/NEJMoa2002032]
+   Hamming I, 2004, J PATHOL, V203, P631, DOI 10.1002/path.1570
+   Harada M, 2015, J IMMUNOL, V194, P1039, DOI 10.4049/jimmunol.1400562
+   Herold T, 2020, J ALLERGY CLIN IMMUN, V146, P128, DOI 10.1016/j.jaci.2020.05.008
+   Hoffmann M, 2020, CELL, V181, P271, DOI 10.1016/j.cell.2020.02.052
+   Huang CL, 2020, LANCET, V395, P497, DOI 10.1016/S0140-6736(20)30183-5
+   Imai Y, 2005, NATURE, V436, P112, DOI 10.1038/nature03712
+   Iwasaki A, 2020, NAT REV IMMUNOL, V20, P339, DOI 10.1038/s41577-020-0321-6
+   Jose RJ, 2020, LANCET RESP MED, V8, pE46, DOI 10.1016/S2213-2600(20)30216-2
+   Kennedy GA, 2014, LANCET ONCOL, V15, P1451, DOI 10.1016/S1470-2045(14)71017-4
+   Kim JY, 2020, J KOREAN MED SCI, V35
+   Kuba K, 2005, NAT MED, V11, P875, DOI 10.1038/nm1267
+   Lamb YN, 2018, DRUGS, V78, P929, DOI 10.1007/s40265-018-0929-z
+   Lauer SA, 2020, ANN INTERN MED, V172, P577, DOI 10.7326/M20-0504
+   Lee J, 2013, INT IMMUNOL, V25, P319, DOI 10.1093/intimm/dxs158
+   Levi M, 2008, SEMIN THROMB HEMOST, V34, P26, DOI 10.1055/s-2008-1066020
+   Li WH, 2003, NATURE, V426, P450, DOI 10.1038/nature02145
+   Liu BW, 2020, J AUTOIMMUN, V111, DOI 10.1016/j.jaut.2020.102452
+   Liu PP, 2020, CIRCULATION, V142, P68, DOI 10.1161/CIRCULATIONAHA.120.047549
+   Liu YX, 2020, SCI CHINA LIFE SCI, V63, P364, DOI 10.1007/s11427-020-1643-8
+   Lu RJ, 2020, LANCET, V395, P565, DOI 10.1016/S0140-6736(20)30251-8
+   Luo P, 2020, J MED VIROL, V92, P814, DOI 10.1002/jmv.25801
+   Magro G, 2020, VIRUS RES, V286, DOI 10.1016/j.virusres.2020.198070
+   Mahmudpour M, 2020, CYTOKINE, V133, DOI 10.1016/j.cyto.2020.155151
+   Matsuzawa Y, HYPERTENS RES
+   McGonagle D, 2020, AUTOIMMUN REV, V19, DOI 10.1016/j.autrev.2020.102537
+   Meng J, 2020, EMERG MICROBES INFEC, V9, P757, DOI 10.1080/22221751.2020.1746200
+   Merad M, 2020, NAT REV IMMUNOL, V20, P355, DOI 10.1038/s41577-020-0331-4
+   Mogul A, 2019, ANN PHARMACOTHER, V53, P947, DOI 10.1177/1060028019839650
+   Murakami M, 2019, IMMUNITY, V50, P812, DOI 10.1016/j.immuni.2019.03.027
+   Murakami M, 2013, CELL REP, V3, P946, DOI 10.1016/j.celrep.2013.01.028
+   Neelapu SS, 2018, NAT REV CLIN ONCOL, V15, P47, DOI 10.1038/nrclinonc.2017.148
+   Ogura H, 2008, IMMUNITY, V29, P628, DOI 10.1016/j.immuni.2008.07.018
+   Ota M, 2020, ARTHRITIS RHEUMATOL, V72, P931, DOI 10.1002/art.41182
+   Pan Y, 2020, LANCET INFECT DIS, V20, P411, DOI 10.1016/S1473-3099(20)30113-4
+   Peiris JSM, 2003, LANCET, V361, P1767, DOI 10.1016/S0140-6736(03)13412-5
+   Phan LT, 2020, NEW ENGL J MED, V382, P872, DOI 10.1056/NEJMc2001272
+   Qin C, 2020, CLIN INFECT DIS CHIN
+   Scheller J, 2011, TRENDS IMMUNOL, V32, P380, DOI 10.1016/j.it.2011.05.005
+   Sheng F, 2016, PHARMAZIE, V71, P636, DOI 10.1691/ph.2016.6713
+   Tang N., 2020, JAMA-J AM MED ASSOC, V18, P844, DOI [DOI 10.1001/JAMA.2020.7869, 10.1111/jth.14768]
+   Tay MZ, 2020, NAT REV IMMUNOL, V20, P363, DOI 10.1038/s41577-020-0311-8
+   Toniati P, 2020, AUTOIMMUN REV, V19, DOI 10.1016/j.autrev.2020.102568
+   van der Poll T, 2017, NAT REV IMMUNOL, V17, P407, DOI 10.1038/nri.2017.36
+   Verdecchia Paolo, 2020, Eur J Intern Med, V76, P14, DOI 10.1016/j.ejim.2020.04.037
+   Walls AC, 2020, CELL, V181, P281, DOI [10.1016/j.cell.2020.02.058, 10.1016/j.cell.2020.11.032]
+   Wang DW, 2020, JAMA-J AM MED ASSOC, V323, P1061, DOI 10.1001/jama.2020.1585
+   Wrapp D, 2020, BIORXIV
+   Xu XL, 2020, P NATL ACAD SCI USA, V117, P10970, DOI 10.1073/pnas.2005615117
+   Xu Z, 2020, LANCET RESP MED, V8, P420, DOI 10.1016/S2213-2600(20)30076-X
+   Yi XH, 2010, AM J RESP CRIT CARE, V182, P436, DOI 10.1164/ajrccm.182.3.436
+   Zhang BC, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0235458
+   Zhang P, 2020, CIRC RES, V126, P1671, DOI 10.1161/CIRCRESAHA.120.317134
+   Zhang Y, 2020, NEW ENGL J MED, V382, DOI 10.1056/NEJMc2007575
+   Zhang YC, 2004, INFECT IMMUN, V72, P4410, DOI 10.1128/IAI.72.8.4410-4415.2004
+   Zhou F, 2020, LANCET, V395, P1054, DOI 10.1016/S0140-6736(20)30566-3
+   Zhou P, 2020, NATURE, V579, P270, DOI [10.1038/s41586-020-2012-7, 10.1038/s41586-020-2951-z]
+   Zou LR, 2020, NEW ENGL J MED, V382, P1177, DOI [10.1148/radiol.2020200463, 10.1056/NEJMc2001737]
+NR 76
+TC 356
+Z9 362
+U1 2
+U2 23
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1880-8190
+J9 INFLAMM REGEN
+JI Inflamm. Regen.
+PD OCT 1
+PY 2020
+VL 40
+IS 1
+AR 37
+DI 10.1186/s41232-020-00146-3
+PG 7
+WC Immunology; Medicine, Research & Experimental
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Immunology; Research & Experimental Medicine
+GA NZ2DO
+UT WOS:000576905800001
+PM 33014208
+OA Green Published, gold
+DA 2023-08-21
+ER
+
+PT J
+AU Batah, SS
+   Fabro, AT
+AF Batah, Sabrina Setembre
+   Fabro, Alexandre Todorovic
+TI Pulmonary pathology of ARDS in COVID-19: A pathological review for
+   clinicians
+SO RESPIRATORY MEDICINE
+LA English
+DT Review
+DE COVID-19/SARS-CoV-2/Coronavirus; Pulmonary pathology; Molecular pathology; DAD 
+ID ACUTE RESPIRATORY-DISTRESS; ANGIOTENSIN-CONVERTING ENZYME-2; DIFFUSE
+   ALVEOLAR DAMAGE; LUNG PATHOLOGY; SYNDROME SARS; CHLOROQUINE; INFECTIONS;
+   CORONAVIRUSES; EPIDEMIOLOGY; EDEMA
+AB COVID-19 has quickly reached pandemic levels since it was first reported in December 2019. The virus responsible for the disease, named SARS-CoV-2, is enveloped positive-stranded RNA viruses. During its replication in the cytoplasm of host cells, the viral genome is transcribed into proteins, such as the structural protein spike domain S1, which is responsible for binding to the cell receptor of the host cells. Infected patients have initially flu-like symptoms, rapidly evolving to severe acute lung injury, known as acute respiratory distress syndrome (ARDS). ARDS is characterized by an acute and diffuse inflammatory damage into the alveolar-capillary barrier associated with a vascular permeability increase and reduced compliance, compromising gas exchange and causing hypoxemia. Histopathologically, this condition is known as diffuse alveolar damage which consists of permanent damage to the alveoli epithelial cells and capillary endothelial cells, with consequent hyaline membrane formation and eventually intracapillary thrombosis. All of these mechanisms associated with COVID-19 involve the phenotypic expression from different proteins transcription modulated by viral infection in specific pulmonary microenvimnments. Therefore, this knowledge is fundamentally important for a better pathophysiological understanding and identification of the main molecular pathways associated with the disease evolution. Evidently, clinical findings, signs and symptoms of a patient are the phenotypic expression of these pathophysiological and molecular mechanisms of SARS-CoV-2 infection. Therefore, no findings alone, whether molecular, clinical, radiological or pathological axis are sufficient for an accurate diagnosis. However, their intersection and/or correlation are extremely critical for clinicians establish the diagnosis and new treatment perspectives.
+C1 [Batah, Sabrina Setembre; Fabro, Alexandre Todorovic] Univ Sao Paulo, Ribeirao Preto Med Sch, Dept Pathol & Legal Med, Sao Paulo, Brazil.
+C3 Universidade de Sao Paulo
+RP Fabro, AT (corresponding author), Univ Sao Paulo, Dept Pathol & Legal Med, FMRP, Ave Bandeirantes 3900, BR-14049 Ribeirao Preto, SP, Brazil.
+EM fabro@fmrp.usp.br
+RI Fabro, Alexandre Todorovic/F-6792-2013
+OI Fabro, Alexandre Todorovic/0000-0002-7687-3161
+CR Ackermann M, 2020, NEW ENGL J MED, V383, P120, DOI 10.1056/NEJMoa2015432
+   Al-Hazmi A, 2016, SAUDI J BIOL SCI, V23, P507, DOI 10.1016/j.sjbs.2016.02.019
+   [Anonymous], 2020, RAP RESP US ANG REC
+   ASHBAUGH DG, 1967, LANCET, V2, P319
+   Ashour HM, 2020, PATHOGENS, V9, DOI 10.3390/pathogens9030186
+   Babiker A, 2020, AM J CLIN PATHOL, V153, P706, DOI [10.1093/ajcp/aqaa052, 10.1093/AJCP/AQAA052]
+   Barnes BJ, 2020, J EXP MED, V217, DOI 10.1084/jem.20200652
+   Barton LM, 2020, AM J CLIN PATHOL, V153, P725, DOI [10.1093/AJCP/AQAA062, 10.1093/ajcp/aqaa062]
+   Bellani G, 2016, JAMA-J AM MED ASSOC, V315, P788, DOI 10.1001/jama.2016.0291
+   Bradley BT, 2020, LANCET, V396, P320, DOI 10.1016/S0140-6736(20)31305-2
+   Brigham KL, 1998, AM J RESP CRIT CARE, V157, pS109, DOI 10.1164/ajrccm.157.4.nhlbi-8
+   Brinkmann V, 2004, SCIENCE, V303, P1532, DOI 10.1126/science.1092385
+   Channappanavar R, 2017, SEMIN IMMUNOPATHOL, V39, P529, DOI 10.1007/s00281-017-0629-x
+   de Wilde AH, 2018, CURR TOP MICROBIOL, V419, P1, DOI 10.1007/82_2017_25
+   Ding YQ, 2003, J PATHOL, V200, P282, DOI 10.1002/path.1440
+   Fehr AR, 2015, METHODS MOL BIOL, V1282, P1, DOI 10.1007/978-1-4939-2438-7_1
+   Fox SE, 2020, LANCET RESP MED, V8, P681, DOI 10.1016/S2213-2600(20)30243-5
+   Franks TJ, 2003, HUM PATHOL, V34, P743, DOI 10.1016/S0046-8177(03)00367-8
+   Fuchs TA, 2012, ARTERIOSCL THROM VAS, V32, P1777, DOI 10.1161/ATVBAHA.111.242859
+   Gao JJ, 2020, BIOSCI TRENDS, V14, P72, DOI 10.5582/bst.2020.01047
+   Grillo F, 2020, LANCET INFECT DIS, V21, pE72, DOI 10.1016/S1473-3099(20)30582-X
+   Gu J, 2005, J EXP MED, V202, P415, DOI 10.1084/jem.20050828
+   Gurwitz D, 2020, DRUG DEVELOP RES, V81, P537, DOI 10.1002/ddr.21656
+   Holmes EC., 2020, NOVEL 2019 CORONAVIR
+   Imai Y, 2005, NATURE, V436, P112, DOI 10.1038/nature03712
+   KATZENSTEIN ALA, 1976, AM J PATHOL, V85, P210
+   Konopka KE, 2020, CHEST, V158, pE99, DOI 10.1016/j.chest.2020.04.032
+   Koo JR, 2020, LANCET INFECT DIS, V20, P678, DOI 10.1016/S1473-3099(20)30162-6
+   Kuba K, 2005, NAT MED, V11, P875, DOI 10.1038/nm1267
+   Lacy JM, 2020, AM J FOREN MED PATH, V41, P143, DOI 10.1097/PAF.0000000000000567
+   Li G, 2020, J MED VIROL, V92, P424, DOI 10.1002/jmv.25685
+   Li WH, 2003, NATURE, V426, P450, DOI 10.1038/nature02145
+   Lu RJ, 2020, LANCET, V395, P565, DOI 10.1016/S0140-6736(20)30251-8
+   Marra MA, 2003, SCIENCE, V300, P1399, DOI 10.1126/science.1085953
+   Matthay MA, 2019, NAT REV DIS PRIMERS, V5, DOI 10.1038/s41572-019-0069-0
+   Matthay MA, 2012, J CLIN INVEST, V122, P2731, DOI 10.1172/JCI60331
+   Meyer NJ, 2017, LANCET RESP MED, V5, P512, DOI 10.1016/S2213-2600(17)30187-X
+   Nagata N, 2008, AM J PATHOL, V172, P1625, DOI 10.2353/ajpath.2008.071060
+   Nicholls J, 2003, RESPIROLOGY, V8, pS6, DOI 10.1046/j.1440-1843.2003.00517.x
+   Nicholls JM, 2003, LANCET, V361, P1773, DOI 10.1016/S0140-6736(03)13413-7
+   Pei Fei, 2005, Zhonghua Bing Li Xue Za Zhi, V34, P656
+   Ranieri VM, 2012, JAMA-J AM MED ASSOC, V307, P2526, DOI 10.1001/jama.2012.5669
+   Roberts A, 2005, J VIROL, V79, P5833, DOI 10.1128/JVI.79.9.5833-5838.2005
+   Savarino A, 2003, LANCET INFECT DIS, V3, P722, DOI 10.1016/S1473-3099(03)00806-5
+   Schwensen HF, 2021, J CLIN PATHOL, V74, P400, DOI 10.1136/jclinpath-2020-206879
+   Pham T, 2017, AM J RESP CRIT CARE, V195, P860, DOI 10.1164/rccm.201609-1773CP
+   Tian SF, 2020, J THORAC ONCOL, V15, P700, DOI 10.1016/j.jtho.2020.02.010
+   Tian SF, 2020, MODERN PATHOL, V33, P1007, DOI 10.1038/s41379-020-0536-x
+   Universidade John Hopkins E. Baltimore, 2020, COR COVID 19 GLOB CA
+   Velavan TP, 2020, TROP MED INT HEALTH, V25, P278, DOI 10.1111/tmi.13383
+   Wang ML, 2020, CELL RES, V30, P269, DOI 10.1038/s41422-020-0282-0
+   Wichmann D, 2020, ANN INTERN MED, V173, P268, DOI 10.7326/M20-2003
+   Woo PCY, 2012, J VIROL, V86, P3995, DOI 10.1128/JVI.06540-11
+   Wu F, 2020, NATURE, V579, P265, DOI 10.1038/s41586-020-2008-3
+   Xu Z, 2020, LANCET RESP MED, V8, P420, DOI 10.1016/S2213-2600(20)30076-X
+   Yi Y, 2020, INT J BIOL SCI, V16, P1753, DOI 10.7150/ijbs.45134
+   Zhang HL, 2020, ANN INTERN MED, V172, P629, DOI 10.7326/M20-0533
+   Zuo Y, 2020, JCI INSIGHT, V5, DOI 10.1172/jci.insight.138999
+NR 58
+TC 140
+Z9 144
+U1 2
+U2 24
+PU W B SAUNDERS CO LTD
+PI LONDON
+PA 32 JAMESTOWN RD, LONDON NW1 7BY, ENGLAND
+SN 0954-6111
+EI 1532-3064
+J9 RESP MED
+JI Respir. Med.
+PD JAN
+PY 2021
+VL 176
+AR 106239
+DI 10.1016/j.rmed.2020.106239
+PG 7
+WC Cardiac & Cardiovascular Systems; Respiratory System
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Cardiovascular System & Cardiology; Respiratory System
+GA QH8NN
+UT WOS:000618529000011
+PM 33246294
+OA Bronze, Green Published
+DA 2023-08-21
+ER
+
+PT J
+AU Schaefer, IM
+   Padera, RF
+   Solomon, IH
+   Kanjilal, S
+   Hammer, MM
+   Hornick, JL
+   Sholl, LM
+AF Schaefer, Inga-Marie
+   Padera, Robert F.
+   Solomon, Isaac H.
+   Kanjilal, Sanjat
+   Hammer, Mark M.
+   Hornick, Jason L.
+   Sholl, Lynette M.
+TI In situ detection of SARS-CoV-2 in lungs and airways of patients with
+   COVID-19
+SO MODERN PATHOLOGY
+LA English
+DT Article
+ID FOXJ1 EXPRESSION; CILIOGENESIS; INFECTION
+AB Coronavirus disease 2019 (COVID-19) caused by SARS-CoV-2 has led to a global public health crisis. In elderly individuals and those with comorbidities, COVID-19 is associated with high mortality, frequently caused by acute respiratory distress syndrome. We examine in situ expression of SARS-CoV-2 in airways and lung obtained at autopsy of individuals with confirmed COVID-19 infection. Seven autopsy cases (male,N = 5; female,N = 2) with reverse transcriptase-polymerase chain reaction (RT-PCR)-confirmed SARS-CoV-2 infection and a median age of 66 years (range, 50-77 years) were evaluated using a rabbit polyclonal antibody against SARS Nucleocapsid protein in correlation with clinical parameters. The median time from symptom onset to death was 9 days (range, 6-31 days), from hospitalization 7 days (range, 1-21 days), from positive RT-PCR 7 days (range, 0-18 days), and from intensive care unit admission defining onset of respiratory failure 3 days (range, 1-18 days). Chest imaging identified diffuse airspace disease in all patients corresponding to acute and (N = 5) or organizing (N = 2) diffuse alveolar damage (DAD) on histologic examination. Among five patients with acute-phase DAD (<= 7 days from onset of respiratory failure), SARS-CoV-2 was detected in pulmonary pneumocytes and ciliated airway cells (N = 5), and in upper airway epithelium (N = 2). In two patients with organizing DAD (>14 days from onset of respiratory failure), no virus was detected in lungs or airways. No endothelial cell infection was observed. The findings suggest that SARS-CoV-2 infection of epithelial cells in lungs and airways of patients with COVID-19 who developed respiratory failure can be detected during the acute phase of lung injury and is absent in the organizing phase.
+C1 [Schaefer, Inga-Marie; Padera, Robert F.; Solomon, Isaac H.; Hornick, Jason L.; Sholl, Lynette M.] Harvard Med Sch, Brigham & Womens Hosp, Dept Pathol, Boston, MA 02115, United States.
+   [Kanjilal, Sanjat] Brigham & Womens Hosp, Div Infect Dis, 75 Francis St, Boston, MA 02115, United States.
+   [Kanjilal, Sanjat] Harvard Med Sch, Dept Populat Med, Boston, MA 02115, United States.
+   [Kanjilal, Sanjat] Harvard Pilgrim Healthcare Inst, Boston, MA, United States.
+   [Hammer, Mark M.] Harvard Med Sch, Brigham & Womens Hosp, Dept Radiol, Boston, MA 02115, United States.
+C3 Harvard University; Brigham & Women's Hospital; Harvard Medical School;
+   Harvard University; Brigham & Women's Hospital; Harvard University;
+   Harvard Medical School; Harvard Pilgrim Health Care; Harvard University;
+   Brigham & Women's Hospital; Harvard Medical School
+RP Sholl, LM (corresponding author), Harvard Med Sch, Brigham & Womens Hosp, Dept Pathol, Boston, MA 02115 USA.
+EM lmsholl@bwh.harvard.edu
+RI Schaefer, Inga-Marie/ABA-3951-2020; Hammer, Mark/AAR-9625-2020
+OI Schaefer, Inga-Marie/0000-0001-9710-5500; Hammer,
+   Mark/0000-0002-1700-7984; Kanjilal, Sanjat/0000-0002-1221-5725; Padera,
+   Robert/0000-0002-4571-5494; Solomon, Isaac/0000-0003-3432-0902
+FU US National Institutes of Health (NIH/NCI) [K08-CA241085]; PhAST
+   Diagnostics; Roche/Genentech
+FX IMS was funded by US National Institutes of Health (NIH/NCI grant
+   K08-CA241085). SK received funding support from PhAST Diagnostics. JLH
+   is a consultant to Epizyme, Eli Lilly, Aadi Bioscience, and TRACON
+   Pharmaceuticals. LMS reports consulting fees/honoraria from LOXO
+   Oncology, EMD Serono, Foghorn Therapeutics, and Astra Zeneca and
+   research funding to the institution from Roche/Genentech. The remaining
+   authors have no conflicts to disclose.
+CR Ackermann M, 2020, NEW ENGL J MED, V383, P120, DOI 10.1056/NEJMoa2015432
+   Amanat F, 2020, NAT MED, V26, P1033, DOI [10.1038/s41591-020-0913-5, 10.1101/2020.03.17.20037713]
+   Barton LM, 2020, AM J CLIN PATHOL, V153, P725, DOI [10.1093/AJCP/AQAA062, 10.1093/ajcp/aqaa062]
+   Chandrashekar A, 2020, SCIENCE, V369, P812, DOI 10.1126/science.abc4776
+   Coy S, 2016, MODERN PATHOL, V29, P1446, DOI 10.1038/modpathol.2016.153
+   Geleris J, 2020, NEW ENGL J MED, V382, P2411, DOI 10.1056/NEJMoa2012410
+   Gorbalenya AE, 2020, NAT MICROBIOL, V5, P536, DOI 10.1038/s41564-020-0695-z
+   Goyal P, 2020, NEW ENGL J MED, V382, P2372, DOI 10.1056/NEJMc2010419
+   Grein J, 2020, NEW ENGL J MED, V382, P2327, DOI 10.1056/NEJMoa2007016
+   Guan W, 2020, NEW ENGL J MED, V382, P1708, DOI [10.1056/NEJMc2005203, 10.1056/NEJMoa2002032]
+   Guzik TJ, 2020, CARDIOVASC RES, V116, P1666, DOI 10.1093/cvr/cvaa106
+   Harenberg J, 2020, CLIN CHEM LAB MED, V58, P1029, DOI 10.1515/cclm-2020-0502
+   Lax SF, 2020, ANN INTERN MED, V173, P350, DOI 10.7326/M20-2566
+   Li Y, 2020, EUR RADIOL, V30, P6186, DOI 10.1007/s00330-020-06969-5
+   LONG QX, 2020, NAT MED, V26, P845, DOI [DOI 10.1038/S41591-020-0897-1, 10.1101/2020.03.18.20038018]
+   Look DC, 2001, AM J PATHOL, V159, P2055, DOI 10.1016/S0002-9440(10)63057-X
+   Martines RB, 2020, EMERG INFECT DIS, V26, P2005, DOI 10.3201/eid2609.202095
+   Mata M, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0048037
+   Menter T, 2020, HISTOPATHOLOGY, V77, P198, DOI 10.1111/his.14134
+   Merad M, 2020, NAT REV IMMUNOL, V20, P355, DOI 10.1038/s41577-020-0331-4
+   Munster VJ, 2020, NATURE, V585, P268, DOI [10.1038/s41586-020-2324-7, 10.1101/2020.03.21.001628]
+   Nicholls JM, 2006, PLOS MED, V3, P222, DOI 10.1371/journal.pmed.0030027
+   Ottestad William, 2020, Tidsskr Nor Laegeforen, V140, DOI 10.4045/tidsskr.20.0299
+   Pujadas E, 2020, J MED VIROL, V92, P1695, DOI 10.1002/jmv.25988
+   Sethuraman N, 2020, JAMA-J AM MED ASSOC, V323, P2249, DOI 10.1001/jama.2020.8259
+   Sungnak W, 2020, NAT MED, V26, P681, DOI 10.1038/s41591-020-0868-6
+   Tian SF, 2020, J THORAC ONCOL, V15, P700, DOI 10.1016/j.jtho.2020.02.010
+   TOMASHEFSKI JF, 1983, AM J PATHOL, V112, P112
+   Varga Z, 2020, LANCET, V395, P1417, DOI 10.1016/S0140-6736(20)30937-5
+   Wichmann D, 2020, ANN INTERN MED, V173, P268, DOI 10.7326/M20-2003
+   Wilkerson RG, 2020, AM J EMERG MED, V38, DOI 10.1016/j.ajem.2020.05.044
+   Wu CA, 2008, AM J PATHOL, V172, P714, DOI 10.2353/ajpath.2008.070462
+   Xu Zhe, 2020, Lancet Respir Med, V8, P420, DOI 10.1016/S2213-2600(20)30076-X
+   Yang Xiaobo, 2020, Lancet Respir Med, V8, P475, DOI 10.1016/S2213-2600(20)30079-5
+   Zhang HL, 2020, ANN INTERN MED, V172, P629, DOI 10.7326/M20-0533
+   Zhao R, 2020, CLIN INFECT DIS
+NR 36
+TC 190
+Z9 194
+U1 2
+U2 7
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0893-3952
+EI 1530-0285
+J9 MODERN PATHOL
+JI Mod. Pathol.
+PD NOV
+PY 2020
+VL 33
+IS 11
+BP 2104
+EP 2114
+DI 10.1038/s41379-020-0595-z
+EA JUN 2020
+PG 11
+WC Pathology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pathology
+GA OF2UZ
+UT WOS:000541317200002
+PM 32561849
+OA Bronze, Green Published
+DA 2023-08-21
+ER
+
+PT J
+AU Silva, JD
+   Su, Y
+   Calfee, CS
+   Delucchi, KL
+   Weiss, D
+   McAuley, DF
+   O'Kane, C
+   Krasnodembskaya, AD
+AF Silva, Johnatas Dutra
+   Su, Yue
+   Calfee, Carolyn S.
+   Delucchi, Kevin L.
+   Weiss, Daniel
+   McAuley, Danny F.
+   O'Kane, Cecilia M.
+   Krasnodembskaya, Anna D.
+TI Mesenchymal stromal cell extracellular vesicles rescue mitochondrial
+   dysfunction and improve barrier integrity in clinically relevant models
+   of ARDS
+SO EUROPEAN RESPIRATORY JOURNAL
+LA English
+DT Article
+ID RESPIRATORY-DISTRESS-SYNDROME; ACUTE LUNG INJURY; PLASMA ANGIOPOIETIN-2;
+   STEM-CELLS; MICROVESICLES; SUBPHENOTYPES; VALIDATION; REPAIR
+AB Alveolar epithelial-capillary barrier disruption is a hallmark of acute respiratory distress syndrome (ARDS). Contribution of mitochondrial dysfunction to the compromised alveolar-capillary barrier in ARDS remains unclear. Mesenchymal stromal cells-derived extracellular vesicles (MSC-EVs) are considered as a cell-free therapy for ARDS. Mitochondrial transfer was shown to be important for the therapeutic effects of MSCs and MSC-EVs. Here we investigated the contribution of mitochondrial dysfunction to the injury of alveolar epithelial and endothelial barriers in ARDS and the ability of MSC-EVs to modulate alveolar-capillary barrier integrity through mitochondrial transfer.
+   Primary human small airway epithelial and pulmonary microvascular endothelial cells and human precision cut lung slices (PCLSs) were stimulated with endotoxin or plasma samples from patients with ARDS and treated with MSC-EVs, barrier properties and mitochondrial functions were evaluated. Lipopolysaccharide (LPS)-injured mice were treated with MSC-EVs and degree of lung injury and mitochondrial respiration of the lung tissue were assessed.
+   Inflammatory stimulation resulted in increased permeability coupled with pronounced mitochondrial dysfunction in both types of primary cells and PCLSs. Extracellular vesicles derived from normal MSCs restored barrier integrity and normal levels of oxidative phosphorylation while an extracellular vesicles preparation which did not contain mitochondria was not effective. In vivo, presence of mitochondria was critical for extracellular vesicles ability to reduce lung injury and restore mitochondrial respiration in the lung tissue.
+   In the ARDS environment, MSC-EVs improve alveolar-capillary barrier properties through restoration of mitochondrial functions at least partially via mitochondrial transfer.
+C1 [Silva, Johnatas Dutra; Su, Yue; McAuley, Danny F.; O'Kane, Cecilia; Krasnodembskaya, Anna D.] Queens Univ Belfast, Sch Med Dent & Biomed Sci, Wellcome Wolfson Inst Expt Med, Belfast, Antrim, North Ireland, United Kingdom.
+   [Calfee, Carolyn S.] Univ Calif San Francisco, Dept Med, Div Pulm Crit Care Allergy & Sleep Med, San Francisco, CA 94143, United States.
+   [Calfee, Carolyn S.] Univ Calif San Francisco, Dept Anesthesia, San Francisco, CA, United States.
+   [Calfee, Carolyn S.] Univ Calif San Francisco, Cardiovasc Res Inst, San Francisco, CA, United States.
+   [Delucchi, Kevin L.] Univ Calif San Francisco, Dept Psychiat, San Francisco, CA, United States.
+   [Weiss, Daniel] Univ Vermont, Dept Med, Larner Coll Med, Burlington, VT, United States.
+C3 Queens University Belfast; University of California System; University
+   of California San Francisco; University of California System; University
+   of California San Francisco; University of California System; University
+   of California San Francisco; University of California System; University
+   of California San Francisco; University of Vermont
+RP Krasnodembskaya, AD (corresponding author), Queens Univ Belfast, Sch Med Dent & Biomed Sci, Wellcome Wolfson Inst Expt Med, Belfast, Antrim, North Ireland.
+EM a.krasnodembskaya@qub.ac.uk
+RI Silva, Johnatas D/I-6478-2017; Krasnodembskaya, Anna/I-1225-2019
+OI Silva, Johnatas D/0000-0003-4379-4237; Krasnodembskaya,
+   Anna/0000-0002-2380-5069; McAuley, Daniel/0000-0002-3283-1947
+FU UK Medical Research Council [MRC MR/R025096/1, MR/S009426/1]; MRC
+   [MR/S009426/1, MR/R025096/1] Funding Source: UKRI
+FX This work was supported by UK Medical Research Council Research Awards
+   (MRC MR/R025096/1 and MR/S009426/1 - to AK) . Funding information for
+   this article has been deposited with the Crossref Funder Registry.
+CR Abraham A, 2020, STEM CELL TRANSL MED, V9, P28, DOI 10.1002/sctm.19-0205
+   Agrawal A, 2013, AM J RESP CRIT CARE, V187, P736, DOI 10.1164/rccm.201208-1460OC
+   Ahmad T, 2014, EMBO J, V33, P994, DOI 10.1002/embj.201386030
+   Apostolova N, 2015, ANTIOXID REDOX SIGN, V22, P686, DOI 10.1089/ars.2014.5952
+   Bhandari V, 2006, NAT MED, V12, P1286, DOI 10.1038/nm1494
+   Biswas S, 2013, CURR MED CHEM, V20, P1496, DOI 10.2174/0929867311320120004
+   Bos LD, 2017, THORAX, V72, P876, DOI 10.1136/thoraxjnl-2016-209719
+   Bos LDJ, 2019, AM J RESP CRIT CARE, V200, P42, DOI 10.1164/rccm.201809-1808OC
+   Brealey David, 2002, Lancet (North American Edition), V360, P219, DOI 10.1016/S0140-6736(02)09459-X
+   Calfee CS, 2018, LANCET RESP MED, V6, P691, DOI 10.1016/S2213-2600(18)30177-2
+   Calfee CS, 2014, LANCET RESP MED, V2, P611, DOI 10.1016/S2213-2600(14)70097-9
+   Calfee CS, 2012, CRIT CARE MED, V40, P1731, DOI 10.1097/CCM.0b013e3182451c87
+   Carre JE, 2010, AM J RESP CRIT CARE, V182, P745, DOI 10.1164/rccm.201003-0326OC
+   Cho HY, 2020, ARCH PHARM RES, V43, P297, DOI 10.1007/s12272-019-01182-5
+   Dominici M, 2006, CYTOTHERAPY, V8, P315, DOI 10.1080/14653240600855905
+   Dushianthan A, 2019, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD012041.pub2
+   Elahi FM, 2020, STEM CELLS, V38, P15, DOI 10.1002/stem.3061
+   Famous KR, 2017, AM J RESP CRIT CARE, V195, P331, DOI 10.1164/rccm.201603-0645OC
+   Fergie N, 2019, FASEB J, V33, P5585, DOI 10.1096/fj.201802056R
+   Hao Q, 2019, J IMMUNOL, V203, P1961, DOI 10.4049/jimmunol.1801534
+   Harrois A, 2009, CURR OPIN ANESTHESIO, V22, P143, DOI 10.1097/ACO.0b013e328328d1cc
+   Hough RF, 2019, JCI INSIGHT, V4, DOI 10.1172/jci.insight.124329
+   Hu SL, 2018, STEM CELL TRANSL MED, V7, P615, DOI 10.1002/sctm.17-0278
+   Huppert LA, 2019, SEMIN RESP CRIT CARE, V40, P31, DOI 10.1055/s-0039-1683996
+   Islam MN, 2012, NAT MED, V18, P759, DOI 10.1038/nm.2736
+   Jackson MV, 2016, STEM CELLS, V34, P2210, DOI 10.1002/stem.2372
+   Kozlov AV, 2017, REDOX BIOL, V13, P170, DOI 10.1016/j.redox.2017.05.017
+   Laffey JG, 2018, LANCET RESP MED, V6, P659, DOI 10.1016/S2213-2600(18)30279-0
+   Lee JH, 2019, TRANSFUSION, V59, P876, DOI 10.1111/trf.14838
+   Lentz SI, 2010, J HISTOCHEM CYTOCHEM, V58, P207, DOI 10.1369/jhc.2009.954701
+   Lewis SR, 2019, COCHRANE DB SYST REV, DOI 10.1002/14651858.CD004477.pub3
+   Li XY, 2013, J HEMATOL ONCOL, V6, DOI 10.1186/1756-8722-6-19
+   Mahida RY, 2020, AM J RESP CELL MOL, V63, P15, DOI 10.1165/rcmb.2019-0447TR
+   Matthay MA, 2019, NAT REV DIS PRIMERS, V5, DOI 10.1038/s41572-019-0069-0
+   Matthay MA, 2019, LANCET RESP MED, V7, P154, DOI 10.1016/S2213-2600(18)30418-1
+   McAuley DF, 2014, NEW ENGL J MED, V371, P1695, DOI 10.1056/NEJMoa1403285
+   Monsel A, 2015, AM J RESP CRIT CARE, V192, P324, DOI 10.1164/rccm.201410-1765OC
+   Morrison TJ, 2017, AM J RESP CRIT CARE, V196, P1275, DOI 10.1164/rccm.201701-0170OC
+   Parikh SM, 2017, CURR OPIN HEMATOL, V24, P432, DOI 10.1097/MOH.0000000000000361
+   Park J, 2019, THORAX, V74, P43, DOI 10.1136/thoraxjnl-2018-211576
+   Phinney DG, 2017, STEM CELLS, V35, P851, DOI 10.1002/stem.2575
+   Phinney DG, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms9472
+   Piantadosi CA, 2017, ANNU REV PHYSIOL, V79, P495, DOI 10.1146/annurev-physiol-022516-034322
+   Puhm F, 2019, CIRC RES, V125, P43, DOI 10.1161/CIRCRESAHA.118.314601
+   Riou M, 2020, J CLIN MED, V9, DOI 10.3390/jcm9051253
+   Ryter SW, 2018, ANN AM THORAC SOC, V15, pS266, DOI 10.1513/AnnalsATS.201808-585MG
+   Silva JD, 2020, CYTOTHERAPY, V22, pS25
+   Spees JL, 2003, P NATL ACAD SCI USA, V100, P2397, DOI 10.1073/pnas.0437997100
+   Supinski GS, 2020, CHEST, V157, P310, DOI 10.1016/j.chest.2019.08.2182
+   Tang XD, 2017, STEM CELLS, V35, P1849, DOI 10.1002/stem.2619
+   Thery C, 2018, J EXTRACELL VESICLES, V7, DOI 10.1080/20013078.2018.1535750
+   Uhl FE, 2015, EUR RESPIR J, V46, P1150, DOI 10.1183/09031936.00183214
+   Varkouhi AK, 2019, ANESTHESIOLOGY, V130, P778, DOI 10.1097/ALN.0000000000002655
+   Wiklander OPB, 2019, SCI TRANSL MED, V11, DOI 10.1126/scitranslmed.aav8521
+   Zhu YG, 2014, STEM CELLS, V32, P116, DOI 10.1002/stem.1504
+   Zinter MS, 2016, AM J PHYSIOL-LUNG C, V310, pL224, DOI 10.1152/ajplung.00336.2015
+NR 56
+TC 56
+Z9 56
+U1 6
+U2 24
+PU EUROPEAN RESPIRATORY SOC JOURNALS LTD
+PI SHEFFIELD
+PA 442 GLOSSOP RD, SHEFFIELD S10 2PX, ENGLAND
+SN 0903-1936
+EI 1399-3003
+J9 EUR RESPIR J
+JI Eur. Resp. J.
+PD JUL 1
+PY 2021
+VL 58
+IS 1
+AR 2002978
+DI 10.1183/13993003.02978-2020
+PG 18
+WC Respiratory System
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Respiratory System
+GA TH3KJ
+UT WOS:000671991400006
+PM 33334945
+OA hybrid, Green Published
+DA 2023-08-21
+ER
+
+PT J
+AU Smadja, DM
+   Mentzer, SJ
+   Fontenay, M
+   Laffan, MA
+   Ackermann, M
+   Helms, J
+   Jonigk, D
+   Chocron, R
+   Pier, GB
+   Gendron, N
+   Pons, S
+   Diehl, JL
+   Margadant, C
+   Guerin, C
+   Huijbers, EJM
+   Philippe, A
+   Chapuis, N
+   Nowak-Sliwinska, P
+   Karagiannidis, C
+   Sanchez, O
+   Kumpers, P
+   Skurnik, D
+   Randi, AM
+   Griffioen, AW
+AF Smadja, David M.
+   Mentzer, Steven J.
+   Fontenay, Michaela
+   Laffan, Mike A.
+   Ackermann, Maximilian
+   Helms, Julie
+   Jonigk, Danny
+   Chocron, Richard
+   Pier, Gerald B.
+   Gendron, Nicolas
+   Pons, Stephanie
+   Diehl, Jean-Luc
+   Margadant, Coert
+   Guerin, Coralie
+   Huijbers, Elisabeth J. M.
+   Philippe, Aurelien
+   Chapuis, Nicolas
+   Nowak-Sliwinska, Patrycja
+   Karagiannidis, Christian
+   Sanchez, Olivier
+   Kuempers, Philipp
+   Skurnik, David
+   Randi, Anna M.
+   Griffioen, Arjan W.
+TI COVID-19 is a systemic vascular hemopathy: insight for mechanistic and
+   clinical aspects
+SO ANGIOGENESIS
+LA English
+DT Review
+ID VON-WILLEBRAND-FACTOR; HEMATOPOIETIC STEM-CELLS; DISSEMINATED
+   INTRAVASCULAR COAGULATION; PLASMINOGEN-ACTIVATOR INHIBITOR-1; SEPTIC
+   SHOCK; SUBLINGUAL MICROCIRCULATION; ENDOTHELIAL GLYCOCALYX; CONVALESCENT
+   PLASMA; POSTMORTEM FINDINGS; TISSUE DISTRIBUTION
+AB Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is presenting as a systemic disease associated with vascular inflammation and endothelial injury. Severe forms of SARS-CoV-2 infection induce acute respiratory distress syndrome (ARDS) and there is still an ongoing debate on whether COVID-19 ARDS and its perfusion defect differs from ARDS induced by other causes. Beside pro-inflammatory cytokines (such as interleukin-1 beta [IL-1 beta] or IL-6), several main pathological phenomena have been seen because of endothelial cell (EC) dysfunction: hypercoagulation reflected by fibrin degradation products called D-dimers, micro- and macrothrombosis and pathological angiogenesis. Direct endothelial infection by SARS-CoV-2 is not likely to occur and ACE-2 expression by EC is a matter of debate. Indeed, endothelial damage reported in severely ill patients with COVID-19 could be more likely secondary to infection of neighboring cells and/or a consequence of inflammation. Endotheliopathy could give rise to hypercoagulation by alteration in the levels of different factors such as von Willebrand factor. Other than thrombotic events, pathological angiogenesis is among the recent findings. Overexpression of different proangiogenic factors such as vascular endothelial growth factor (VEGF), basic fibroblast growth factor (FGF-2) or placental growth factors (PlGF) have been found in plasma or lung biopsies of COVID-19 patients. Finally, SARS-CoV-2 infection induces an emergency myelopoiesis associated to deregulated immunity and mobilization of endothelial progenitor cells, leading to features of acquired hematological malignancies or cardiovascular disease, which are discussed in this review. Altogether, this review will try to elucidate the pathophysiology of thrombotic complications, pathological angiogenesis and EC dysfunction, allowing better insight in new targets and antithrombotic protocols to better address vascular system dysfunction. Since treating SARS-CoV-2 infection and its potential long-term effects involves targeting the vascular compartment and/or mobilization of immature immune cells, we propose to define COVID-19 and its complications as a systemic vascular acquired hemopathy.
+C1 [Smadja, David M.; Gendron, Nicolas; Diehl, Jean-Luc; Guerin, Coralie; Philippe, Aurelien] Univ Paris, Innovat Therapies Haemostasis, INSERM, Paris, France.
+   [Smadja, David M.; Gendron, Nicolas; Philippe, Aurelien] Hop Europeen Georges Pompidou, Assistance Publ Hop Paris, Dept Hematol, Carpentier Fdn, Paris, France.
+   [Smadja, David M.; Gendron, Nicolas; Philippe, Aurelien] Hop Europeen Georges Pompidou, Assistance Publ Hop Paris, Biosurg Res Lab, Carpentier Fdn, Paris, France.
+   [Smadja, David M.; Ackermann, Maximilian; Jonigk, Danny; Sanchez, Olivier] F CRIN INNOVTE Network, Paris, France.
+   [Mentzer, Steven J.] Harvard Med Sch, Euro Amer COVID 19 Working Grp, Brigham & Womens Hosp, Boston, MA 02115, United States.
+   [Mentzer, Steven J.] Harvard Med Sch, Lab Adapt & Regenerat Biol, Brigham & Womens Hosp, Boston, MA 02115, United States.
+   [Fontenay, Michaela; Gendron, Nicolas] Univ Paris, Inst Cochin, INSERM, Paris, France.
+   [Fontenay, Michaela; Jonigk, Danny; Gendron, Nicolas] Assistance Publ Hop Paris, Dept Hematol, Paris, France.
+   [Laffan, Mike A.] Imperial Coll London, Ctr Hematol, London, England, United Kingdom.
+   [Ackermann, Maximilian] Univ Witten Herdecke, Helios Univ Clin Wuppertal, Euro Amer COVID 19 Working Grp, Witten, Germany.
+   [Ackermann, Maximilian] Univ Witten Herdecke, Helios Univ Clin Wuppertal, Inst Pathol, Witten, Germany.
+   [Ackermann, Maximilian] Univ Witten Herdecke, Helios Univ Clin Wuppertal, Dept Mol Pathol, Witten, Germany.
+   [Ackermann, Maximilian] Johannes Gutenberg Univ Mainz, Inst Funct & Clin Anat, Univ Med Ctr, Mainz, Germany.
+   [Helms, Julie] Hop Univ Strasbourg, Serv Med Intens Reanimat, Nouvel Hop Civil, Strasbourg, France.
+   [Helms, Julie] Univ Strasbourg UNISTRA, INSERM UMR S1109, LabEx TRANSPLANTEX, Ctr Rech Immunol & Hematol,Fac Med,Federat Hosp U, Strasbourg, France.
+   [Jonigk, Danny] Biomed Res Endstage & Obstruct Lung Dis Hannover, German Ctr Lung Res, Hannover, Germany.
+   [Chocron, Richard] Univ Paris, PARCC, INSERM, Paris, France.
+   [Chocron, Richard] Assistance Publ Hop Paris, Emergency Dept, Paris, France.
+   [Pier, Gerald B.; Skurnik, David] Harvard Med Sch, Div Infect Dis, Dept Med, Brigham & Womens Hosp, Boston, MA 02115, United States.
+   [Pons, Stephanie] Pitie Salpetriere Univ Hosp, Assistance Publ Hop Paris, Dept Anesthesiol & Crit Care, Paris, France.
+   [Diehl, Jean-Luc] Assistance Publ Hop Paris, Intens Care Unit, Carpentier Fdn, Paris, France.
+   [Diehl, Jean-Luc; Sanchez, Olivier] Assistance Publ Hop Paris, Biosurg Res Lab, Carpentier Fdn, Paris, France.
+   [Margadant, Coert; Huijbers, Elisabeth J. M.; Griffioen, Arjan W.] Vrije Univ Amsterdam, Amsterdam Univ Med Ctr, Angiogenesis Lab, Dept Med Oncol,Canc Ctr Amsterdam, Amsterdam, Netherlands.
+   [Guerin, Coralie] Inst Curie, Cytometry Platform, Paris, France.
+   [Nowak-Sliwinska, Patrycja] Univ Geneva, Sch Pharmaceut Sci, Mol Pharmacol Grp, Geneva, Switzerland.
+   [Nowak-Sliwinska, Patrycja] Univ Geneva, Inst Pharmaceut Sci Western Switzerland, Geneva, Switzerland.
+   [Karagiannidis, Christian] Univ Witten Herdecke, ARDS & ECMO Ctr Cologne Merheim, Cologne, Germany.
+   [Sanchez, Olivier] Assistance Publ Hop Paris, Dept Resp Dis, Carpentier Fdn, Paris, France.
+   [Kuempers, Philipp] Univ Hosp Munster, Dept Med D, Div Gen Internal & Emergency Med Nephrol & Rheuma, Munster, Germany.
+   [Skurnik, David] Univ Paris, INSERM, F-75015 Paris, France.
+   [Skurnik, David] Assistance Publ Hop Paris, Dept Microbiol, Paris, France.
+   [Randi, Anna M.] Imperial Coll London, Natl Heart & Lung Inst, London, England, United Kingdom.
+C3 Institut National de la Sante et de la Recherche Medicale (Inserm);
+   UDICE-French Research Universities; Universite Paris Cite; UDICE-French
+   Research Universities; Aix-Marseille Universite; Assistance
+   Publique-Hopitaux de Marseille; Sorbonne Universite; Assistance Publique
+   Hopitaux Paris (APHP); Hopital Universitaire Saint-Antoine - APHP;
+   Universite Paris Cite; Hopital Universitaire Europeen Georges-Pompidou -
+   APHP; Hopital Universitaire Robert-Debre - APHP; UDICE-French Research
+   Universities; Aix-Marseille Universite; Assistance Publique-Hopitaux de
+   Marseille; Sorbonne Universite; Assistance Publique Hopitaux Paris
+   (APHP); Hopital Universitaire Saint-Antoine - APHP; Universite Paris
+   Cite; Hopital Universitaire Europeen Georges-Pompidou - APHP; Harvard
+   University; Brigham & Women's Hospital; Harvard Medical School; Harvard
+   University; Brigham & Women's Hospital; Harvard Medical School; Institut
+   National de la Sante et de la Recherche Medicale (Inserm); UDICE-French
+   Research Universities; Universite Paris Cite; UDICE-French Research
+   Universities; Aix-Marseille Universite; Assistance Publique-Hopitaux de
+   Marseille; Sorbonne Universite; Assistance Publique Hopitaux Paris
+   (APHP); Hopital Universitaire Saint-Antoine - APHP; Universite Paris
+   Cite; Hopital Universitaire Robert-Debre - APHP; Imperial College
+   London; Witten Herdecke University; Witten Herdecke University; Witten
+   Herdecke University; Johannes Gutenberg University of Mainz; CHU
+   Strasbourg; UDICE-French Research Universities; Universites de
+   Strasbourg Etablissements Associes; Universite de Strasbourg; Institut
+   National de la Sante et de la Recherche Medicale (Inserm); Institut
+   National de la Sante et de la Recherche Medicale (Inserm); UDICE-French
+   Research Universities; Universite Paris Cite; UDICE-French Research
+   Universities; Aix-Marseille Universite; Assistance Publique-Hopitaux de
+   Marseille; Sorbonne Universite; Assistance Publique Hopitaux Paris
+   (APHP); Hopital Universitaire Saint-Antoine - APHP; Harvard University;
+   Brigham & Women's Hospital; Harvard Medical School; Assistance Publique
+   Hopitaux Paris (APHP); Hopital Universitaire Pitie-Salpetriere - APHP;
+   UDICE-French Research Universities; Aix-Marseille Universite; Assistance
+   Publique-Hopitaux de Marseille; Sorbonne Universite; Hopital
+   Universitaire Saint-Antoine - APHP; UDICE-French Research Universities;
+   Aix-Marseille Universite; Assistance Publique-Hopitaux de Marseille;
+   Sorbonne Universite; Assistance Publique Hopitaux Paris (APHP); Hopital
+   Universitaire Saint-Antoine - APHP; UDICE-French Research Universities;
+   Aix-Marseille Universite; Assistance Publique-Hopitaux de Marseille;
+   Sorbonne Universite; Assistance Publique Hopitaux Paris (APHP); Hopital
+   Universitaire Saint-Antoine - APHP; University of Amsterdam; Vrije
+   Universiteit Amsterdam; UDICE-French Research Universities; Universite
+   PSL; UNICANCER; Institut Curie; University of Geneva; University of
+   Geneva; Witten Herdecke University; UDICE-French Research Universities;
+   Aix-Marseille Universite; Assistance Publique-Hopitaux de Marseille;
+   Sorbonne Universite; Assistance Publique Hopitaux Paris (APHP); Hopital
+   Universitaire Saint-Antoine - APHP; University of Munster; Institut
+   National de la Sante et de la Recherche Medicale (Inserm); UDICE-French
+   Research Universities; Universite Paris Cite; UDICE-French Research
+   Universities; Aix-Marseille Universite; Assistance Publique-Hopitaux de
+   Marseille; Sorbonne Universite; Assistance Publique Hopitaux Paris
+   (APHP); Hopital Universitaire Saint-Antoine - APHP; Imperial College
+   London
+RP Smadja, DM (corresponding author), Univ Paris, Innovat Therapies Haemostasis, INSERM, Paris, France.; Smadja, DM (corresponding author), Hop Europeen Georges Pompidou, Assistance Publ Hop Paris, Dept Hematol, Carpentier Fdn, Paris, France.; Smadja, DM (corresponding author), Hop Europeen Georges Pompidou, Assistance Publ Hop Paris, Biosurg Res Lab, Carpentier Fdn, Paris, France.; Smadja, DM (corresponding author), F CRIN INNOVTE Network, Paris, France.
+EM david.smadja@aphp.fr
+RI Pons, Stephanie/IRZ-9466-2023; Randi, Anna/HLP-5457-2023; Guerin,
+   Coralie/HKV-6282-2023; Nowak-Sliwinska, Patrycja/T-7663-2018; Chapuis,
+   nicolas/HIR-3009-2022; Gendron, Nicolas/AAB-8014-2022; Chocron,
+   Richard/ABF-5825-2021
+OI Nowak-Sliwinska, Patrycja/0000-0002-8299-0444; Chapuis,
+   nicolas/0000-0003-0601-3948; Gendron, Nicolas/0000-0003-4852-4738; Pons,
+   Stephanie/0000-0002-7372-3563; Skurnik, David/0000-0002-4205-9639;
+   Guerin, Coralie/0000-0002-1840-4017; Laffan, Michael/0000-0002-8268-3268
+FU French national agency for research ANR Flash-COVID SARCODO (Fondation
+   de France); ANR AAP RA-COVID-19 VASCOV (CAPNET label "priorite nationale
+   de recherche" by French Government); Mecenat Covid AP-HP; SARCODO-EP
+   (Contrat de recherche clinique DRCI AP-HP) [COV21033]; French national
+   agency for research ANR AAP RA-COVID-19 CALPRO; Site de Recherche
+   Integre sur le Cancer CARPEM of the Institut National du Cancer; Dutch
+   Cancer Society [KWF2018-11651]; European Research Council (ERC)
+   [680209]; Swiss National Science Foundation [310030-197878]; British
+   Heart Foundation (BHF); Imperial College COVID response Fund; Swiss
+   National Science Foundation (SNF) [310030_197878] Funding Source: Swiss
+   National Science Foundation (SNF); European Research Council (ERC)
+   [680209] Funding Source: European Research Council (ERC)
+FX We thank Maud BARRANDON for Fig. 1 design. DM SMADJA, O SANCHEZ and JL
+   DIEHL are funded with grants from French national agency for research
+   ANR Flash-COVID SARCODO (Fondation de France), ANR AAP RA-COVID-19
+   VASCOV (CAPNET label "priorite nationale de recherche" by French
+   Government), Mecenat Covid AP-HP and SARCODO-EP (COV21033-Contrat de
+   recherche clinique DRCI AP-HP). M FONTENAY work is funded by the French
+   national agency for research ANR AAP RA-COVID-19 CALPRO, the Mecenat
+   Covid AP-HP and the Site de Recherche Integre sur le Cancer CARPEM of
+   the Institut National du Cancer. AW GRIFFIOEN and EJM HUIJBERS are
+   funded by the Dutch Cancer Society (KWF2018-11651). P NOWAK-SLIWINSKA is
+   funded by the European Research Council (ERC-680209) and by the Swiss
+   National Science Foundation (#310030-197878). AM RANDI is funded by the
+   British Heart Foundation (BHF) and the Imperial College COVID response
+   Fund.
+CR Ackermann M, 2020, NEW ENGL J MED, V383, P888, DOI 10.1056/NEJMc2022068
+   Ackermann M, 2020, NEW ENGL J MED, V383, P120, DOI 10.1056/NEJMoa2015432
+   Aird WC, 2012, CSH PERSPECT MED, V2, DOI 10.1101/cshperspect.a006429
+   AMADOAZEVEDO J, 2021, ANGIOGENESIS
+   Aman J, 2021, IN PRESS
+   Amrun SN, 2020, EBIOMEDICINE, V58, DOI 10.1016/j.ebiom.2020.102911
+   Angus DC, 2013, NEW ENGL J MED, V369, P2063, DOI 10.1056/NEJMc1312359
+   [Anonymous], 2020, BMJ, V371, pm4232, DOI 10.1136/bmj.m4232
+   [Anonymous], 2012, JAMA, DOI DOI 10.1001/JAMA.2012.5669
+   Arachchillage DJ, 2020, BRIT J HAEMATOL, V190, pE270, DOI 10.1111/bjh.17050
+   Arachchillage DRJ, 2021, SEMIN THROMB HEMOST, V47, P436, DOI 10.1055/s-0040-1722309
+   Bajou K, 2014, NAT MED, V20, P741, DOI 10.1038/nm.3552
+   Baldridge MT, 2010, NATURE, V465, P793, DOI 10.1038/nature09135
+   Barrett TJ, 2020, CIRC RES, V127, P945, DOI 10.1161/CIRCRESAHA.120.317803
+   Basiorka AA, 2016, BLOOD, V128, P2960, DOI 10.1182/blood-2016-07-730556
+   Bassler K, 2019, ANNU REV IMMUNOL, V37, P269, DOI 10.1146/annurev-immunol-042718-041728
+   Bazzan M, 2020, INTERN EMERG MED, V15, P861, DOI 10.1007/s11739-020-02394-0
+   Beenen LFM, 2020, THROMB RES, V196, P135, DOI 10.1016/j.thromres.2020.08.026
+   Beloncle FM, 2020, ANN INTENSIVE CARE, V10, DOI 10.1186/s13613-020-00675-7
+   Belouzard S, 2012, VIRUSES-BASEL, V4, P1011, DOI 10.3390/v4061011
+   Bermejo-Martin JF, 2020, CRIT CARE, V24, DOI 10.1186/s13054-020-03398-0
+   Bernardes JP, 2020, IMMUNITY, V53, P1296, DOI 10.1016/j.immuni.2020.11.017
+   Blanco-Melo D, 2020, CELL, V181, P1036, DOI 10.1016/j.cell.2020.04.026
+   Blasi A, 2020, J THROMB HAEMOST, V18, P2646, DOI 10.1111/jth.15043
+   Boettcher S, 2017, TRENDS IMMUNOL, V38, P345, DOI 10.1016/j.it.2017.01.004
+   Boettcher S, 2012, J IMMUNOL, V188, P5824, DOI 10.4049/jimmunol.1103253
+   Bolton Kelly L, 2020, medRxiv, DOI [10.1038/s41467-021-26138-6, 10.1101/2020.11.25.20233163]
+   BORGEL D, 2021, CRIT CARE
+   Bost P, 2020, CELL, V181, P1475, DOI 10.1016/j.cell.2020.05.006
+   Bradley BT, 2020, LANCET, V396, P320, DOI 10.1016/S0140-6736(20)31305-2
+   Brodsky SV, 2002, CIRCULATION, V106, P2372, DOI 10.1161/01.CIR.0000033972.90653.AF
+   Buijsers B, 2020, FRONT IMMUNOL, V11, DOI 10.3389/fimmu.2020.575047
+   Busch K, 2015, NATURE, V518, P542, DOI 10.1038/nature14242
+   Byzova TV, 2016, BLOOD, V128, P2283, DOI 10.1182/blood-2016-09-737023
+   Cabezas-Wallscheid N, 2014, CELL STEM CELL, V15, P507, DOI 10.1016/j.stem.2014.07.005
+   CADUFF JH, 1986, ANAT RECORD, V216, P154, DOI 10.1002/ar.1092160207
+   Cai ZG, 2018, CELL STEM CELL, V23, P833, DOI 10.1016/j.stem.2018.10.013
+   Caputo ND, 2020, ACAD EMERG MED, V27, P375, DOI 10.1111/acem.13994
+   Carsana L, 2020, LANCET INFECT DIS, V20, P1135, DOI 10.1016/S1473-3099(20)30434-5
+   Carsetti A, 2020, MICROVASC RES, V132, DOI 10.1016/j.mvr.2020.104064
+   Casadevall A, 2020, J CLIN INVEST, V130, P5112, DOI 10.1172/JCI139760
+   Cattaneo M, 2020, THROMB HAEMOSTASIS, V120, P1230, DOI 10.1055/s-0040-1712097
+   Caviedes I, 2021, AM J RESP CRIT CARE, V203, P258, DOI 10.1164/rccm.202009-3446LE
+   Chapman DG, 2021, EUR RESPIR J, V57, DOI 10.1183/13993003.03263-2020
+   Chavkin NW, 2020, FRONT CARDIOVASC MED, V7, DOI 10.3389/fcvm.2020.00042
+   Chen G, 2020, J CLIN INVEST, V130, P2620, DOI 10.1172/JCI137244
+   Chen L, 2020, CARDIOVASC RES, V116, P1097, DOI 10.1093/cvr/cvaa078
+   Chen LT, 2020, CELL MOL IMMUNOL, V17, P992, DOI 10.1038/s41423-020-0492-x
+   Chen XH, 2013, J CLIN INVEST, V123, P4595, DOI 10.1172/JCI67580
+   Cheng PY, 2019, LEUKEMIA, V33, P2034, DOI 10.1038/s41375-019-0397-9
+   Chiumello D, 2020, INTENS CARE MED, V46, P2187, DOI 10.1007/s00134-020-06281-2
+   CHOCRON R, 2021, ARCH CARDIOVASC DIS
+   Chocron R, 2021, J AM HEART ASSOC, V10, DOI 10.1161/JAHA.120.018624
+   Chun SH, 2021, EUR RADIOL, V31, P1130, DOI 10.1007/s00330-020-07173-1
+   Connors JM, 2020, BLOOD, V135, P2033, DOI 10.1182/blood.2020006000
+   Couzin-Frankel J, 2020, SCIENCE, V368, P455, DOI 10.1126/science.368.6490.455
+   Damiani E, 2020, ANN INTENSIVE CARE, V10, DOI 10.1186/s13613-020-00680-w
+   Darcy CJ, 2014, CRIT CARE, V18, DOI 10.1186/cc14003
+   Davis S, 1996, CELL, V87, P1161, DOI 10.1016/S0092-8674(00)81812-7
+   Romualdo LGD, 2021, J INFECTION, V82, pE40, DOI 10.1016/j.jinf.2020.08.010
+   Debuc B, 2021, STEM CELL REV REP, V17, P4, DOI 10.1007/s12015-020-09987-4
+   Delabranche X, 2017, ANN INTENSIVE CARE, V7, DOI 10.1186/s13613-017-0339-5
+   Delabranche X, 2016, CRIT CARE MED, V44, pE930, DOI 10.1097/CCM.0000000000001836
+   Denorme F, 2016, BLOOD, V127, P2337, DOI 10.1182/blood-2015-08-662650
+   Dhawan RT, 2021, LANCET RESP MED, V9, P107, DOI 10.1016/S2213-2600(20)30407-0
+   Dhont S, 2020, RESP RES, V21, DOI 10.1186/s12931-020-01462-5
+   Diehl JL, 2020, ANN INTENSIVE CARE, V10, DOI 10.1186/s13613-020-00757-6
+   Diehl JL, 2020, ANN INTENSIVE CARE, V10, DOI 10.1186/s13613-020-00716-1
+   Santo DAD, 2020, J THROMB THROMBOLYS, V50, P790, DOI 10.1007/s11239-020-02245-x
+   Doevelaar AAN, 2021, CRIT CARE MED, V49, pE512, DOI 10.1097/CCM.0000000000004918
+   Dolhnikoff M, 2020, J THROMB HAEMOST, V18, P1517, DOI 10.1111/jth.14844
+   Drost CC, 2019, THROMB HAEMOSTASIS, V119, P1827, DOI 10.1055/s-0039-1695768
+   Duployez N, 2020, CANCERS, V12, DOI 10.3390/cancers12071992
+   Dupont A, 2021, ARTERIOSCL THROM VAS, V41, P1760, DOI 10.1161/ATVBAHA.120.315595
+   Dupont V, 2021, CLIN INFECT DIS, V72, P1834, DOI 10.1093/cid/ciaa1007
+   Dutt T, 2021, BLOOD, V137, P1731, DOI 10.1182/blood.2020007599
+   Ellinghaus D, 2020, NEW ENGL J MED, V383, P1522, DOI 10.1056/NEJMoa2020283
+   Escher R, 2020, THROMB RES, V192, P174, DOI 10.1016/j.thromres.2020.05.032
+   Essers MAG, 2009, NATURE, V458, P904, DOI 10.1038/nature07815
+   Fakhr BS, 2020, BRIT J ANAESTH, V125, pE434, DOI 10.1016/j.bja.2020.08.001
+   Falasca L, 2020, J INFECT DIS, V222, P1807, DOI 10.1093/infdis/jiaa578
+   Ferguson ND, 2012, INTENS CARE MED, V38, P1573, DOI 10.1007/s00134-012-2682-1
+   Filipovic N, 2009, MICROVASC RES, V78, P286, DOI 10.1016/j.mvr.2009.08.004
+   Flevaris P, 2017, SEMIN THROMB HEMOST, V43, P169, DOI 10.1055/s-0036-1586228
+   Fox SE, 2020, LANCET RESP MED, V8, P681, DOI 10.1016/S2213-2600(20)30243-5
+   Fraser Douglas D, 2020, Crit Care Explor, V2, pe0144, DOI 10.1097/CCE.0000000000000144
+   Gattinoni L, 2020, AM J RESP CRIT CARE, V201, P1299, DOI 10.1164/rccm.202003-0817LE
+   Gendron N, 2021, ARTHRITIS RHEUMATOL, V73, P1976, DOI 10.1002/art.41777
+   Giamarellos-Bourboulis EJ, 2020, CELL HOST MICROBE, V27, P992, DOI 10.1016/j.chom.2020.04.009
+   Giardini V, 2020, AM J HEMATOL, V95, pE188, DOI 10.1002/ajh.25882
+   Goldsmith CS, 2020, LANCET, V395, pE99, DOI 10.1016/S0140-6736(20)31188-0
+   Goligher EC, 2021, INTENS CARE MED, V47, P83, DOI 10.1007/s00134-020-06320-y
+   Goshua G, 2020, LANCET HAEMATOL, V7, pE575, DOI 10.1016/S2352-3026(20)30216-7
+   Goudot G, 2020, FRONT MED-LAUSANNE, V7, DOI 10.3389/fmed.2020.586307
+   Gowd V, 2016, WORLD J DIABETES, V7, P67, DOI 10.4239/wjd.v7.i4.67
+   GREENE R, 1987, AM J ROENTGENOL, V148, P501, DOI 10.2214/ajr.148.3.501
+   Greinacher A, 2021, NEW ENGL J MED, V384, P2092, DOI 10.1056/NEJMoa2104840
+   Griffioen AW, 2000, PHARMACOL REV, V52, P237
+   Grimmer B, 2017, J APPL PHYSIOL, V123, P1635, DOI 10.1152/japplphysiol.00120.2017
+   Gue YX, 2017, INT J MOL SCI, V18, DOI 10.3390/ijms18091850
+   Guerin CL, 2021, STEM CELL REV REP, V17, P639, DOI 10.1007/s12015-020-10062-1
+   Gupta A, 2020, NAT MED, V26, P1017, DOI 10.1038/s41591-020-0968-3
+   Gupta N, 2019, THROMB RES, V181, P77, DOI 10.1016/j.thromres.2019.07.013
+   Haas S, 2015, CELL STEM CELL, V17, P422, DOI 10.1016/j.stem.2015.07.007
+   Hadjadj J, 2020, SCIENCE, V369, P718, DOI 10.1126/science.abc6027
+   Hakanpaa L, 2018, P NATL ACAD SCI USA, V115, pE6467, DOI 10.1073/pnas.1722317115
+   Hakanpaa L, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms6962
+   Hamming I, 2004, J PATHOL, V203, P631, DOI 10.1002/path.1570
+   Hardman N, 2020, TRANSPL INFECT DIS, V22, DOI 10.1111/tid.13264
+   Hattori N, 1999, AM J PHYSIOL-LUNG C, V277, pL573, DOI 10.1152/ajplung.1999.277.3.L573
+   He X, 2020, NAT MED, V26, DOI 10.1038/s41591-020-0869-5
+   Helms J, 2021, ANN INTENSIVE CARE, V11, DOI 10.1186/s13613-021-00809-5
+   Helms J, 2020, ANN INTENSIVE CARE, V10, DOI 10.1186/s13613-020-00704-5
+   Helms J, 2020, INTENS CARE MED, V46, P1502, DOI 10.1007/s00134-020-06082-7
+   Helms J, 2020, INTENS CARE MED, V46, P1089, DOI 10.1007/s00134-020-06062-x
+   Herault A, 2017, NATURE, V544, P53, DOI 10.1038/nature21693
+   Herrmann J, 2020, NAT COMMUN, V11, DOI 10.1038/s41467-020-18672-6
+   Hu WT, 2020, EMERG INFECT DIS, V26, P2974, DOI 10.3201/eid2612.203334
+   Hueso T, 2020, BLOOD, V136, P2290, DOI 10.1182/blood.2020008423
+   Huijbers EJM, 2018, VACCINE, V36, P3054, DOI 10.1016/j.vaccine.2018.03.064
+   Huijbers EJM, 2017, HUM VACC IMMUNOTHER, V13, P1112, DOI 10.1080/21645515.2016.1276140
+   Iba T, 2016, CRIT CARE, V20, DOI 10.1186/s13054-016-1468-1
+   IDELL S, 1989, J CLIN INVEST, V84, P695, DOI 10.1172/JCI114217
+   Jaiswal S, 2017, NEW ENGL J MED, V377, P111, DOI 10.1056/NEJMoa1701719
+   Jimenez D, 2021, CHEST, V159, P1182, DOI 10.1016/j.chest.2020.11.005
+   Jonigk D, 2021, INTENS CARE MED, V47, P86, DOI 10.1007/s00134-020-06302-0
+   Jonmarker S, 2020, CRIT CARE, V24, DOI 10.1186/s13054-020-03375-7
+   Kandalla PK, 2016, J EXP MED, V213, P2269, DOI 10.1084/jem.20151975
+   Edul VSK, 2021, J CRIT CARE, V61, P73, DOI 10.1016/j.jcrc.2020.10.002
+   Karagiannidis C, 2020, LANCET RESP MED, V8, P853, DOI 10.1016/S2213-2600(20)30316-7
+   Karmaus PWF, 2017, J EXP MED, V214, P2629, DOI 10.1084/jem.20161855
+   Karuppan MKM, 2021, MOL NEUROBIOL, V58, P2465, DOI 10.1007/s12035-020-02245-1
+   KAWANO Y, 1991, BLOOD, V77, P2118
+   Khider L, 2020, J THROMB HAEMOST, V18, P2391, DOI 10.1111/jth.14968
+   Khinda J, 2021, J MED VIROL, V93, P1078, DOI 10.1002/jmv.26411
+   Kim SY, 2020, ANTIVIR RES, V181, DOI 10.1016/j.antiviral.2020.104873
+   Klok FA, 2020, THROMB RES, V191, P145, DOI [10.1016/j.thromres.2020.04.013, 10.1016/j.thromres.2020.04.041]
+   Kong YX, 2020, CRIT CARE, V24, DOI 10.1186/s13054-020-03079-y
+   Kraakman MJ, 2017, J CLIN INVEST, V127, P2133, DOI 10.1172/JCI92450
+   Kruse JM, 2020, CRIT CARE, V24, DOI 10.1186/s13054-020-03401-8
+   Kumpers P, 2018, CRIT CARE, V22, DOI 10.1186/s13054-018-1978-0
+   Kumpers P, 2008, CRIT CARE, V12, DOI 10.1186/cc7130
+   Kwaan HC, 2011, SEMIN THROMB HEMOST, V37, P960, DOI 10.1055/s-0031-1297375
+   Lang M, 2020, LANCET INFECT DIS, V20, P1365, DOI 10.1016/S1473-3099(20)30367-4
+   Lax SF, 2020, ANN INTERN MED, V173, P350, DOI 10.7326/M20-2566
+   Lee D. -H., 2014, PLOS ONE, V9
+   Lee GS, 2011, DEV DYNAM, V240, P1335, DOI 10.1002/dvdy.22618
+   Lefrancais E, 2017, NATURE, V544, P105, DOI 10.1038/nature21706
+   Leimkuhler NB, 2021, CELL STEM CELL, V28, P637, DOI 10.1016/j.stem.2020.11.004
+   Leppkes M, 2020, EBIOMEDICINE, V58, DOI 10.1016/j.ebiom.2020.102925
+   Lerum TV, 2021, EUR RESPIR J, V57, DOI 10.1183/13993003.03448-2020
+   Li LL, 2021, J INFECT DIS, V223, P178, DOI 10.1093/infdis/jiaa642
+   Liepelt A, 2020, J CLIN MED, V9, DOI 10.3390/jcm9010127
+   Liu J, 2011, BLOOD, V117, P342, DOI 10.1182/blood-2010-06-287987
+   LONG QX, 2020, NAT MED, V26, P845, DOI [DOI 10.1038/S41591-020-0897-1, 10.1101/2020.03.18.20038018]
+   Lucas C, 2020, NATURE, V584, P463, DOI 10.1038/s41586-020-2588-y
+   LUO Y, 2020, CLIN INFECT DIS, V10, P2
+   Lynch KL, 2021, CLIN INFECT DIS, V72, P301, DOI 10.1093/cid/ciaa979
+   Maatman TK, 2020, CRIT CARE MED, V48, pE783, DOI 10.1097/CCM.0000000000004466
+   Makowski L, 2021, VIRUSES-BASEL, V13, DOI 10.3390/v13020146
+   Malas MB, 2020, ECLINICALMEDICINE, V29-30, DOI 10.1016/j.eclinm.2020.100639
+   Mancini I, 2021, J THROMB HAEMOST, V19, P513, DOI 10.1111/jth.15191
+   Mancuso P, 2020, J THROMB HAEMOST, V18, P2744, DOI 10.1111/jth.15044
+   Mann ER, 2020, SCI IMMUNOL, V5, DOI 10.1126/sciimmunol.abd6197
+   Manz MG, 2014, NAT REV IMMUNOL, V14, P302, DOI 10.1038/nri3660
+   Mauri T, 2020, CRIT CARE MED, V48, P1129, DOI 10.1097/CCM.0000000000004386
+   Maynard SE, 2003, J CLIN INVEST, V111, P649, DOI 10.1172/JCI200317189
+   McAndrews KM, 2020, JCI INSIGHT, V5, DOI 10.1172/jci.insight.142386
+   McCormack JJ, 2017, J CELL SCI, V130, P3611, DOI 10.1242/jcs.208033
+   McCracken IR, 2021, CIRCULATION, V143, P865, DOI 10.1161/CIRCULATIONAHA.120.052824
+   Medcalf RL, 2020, J THROMB HAEMOST, V18, P2118, DOI 10.1111/jth.14960
+   Meduri GU, 2009, CHEST, V136, P1631, DOI 10.1378/chest.08-2408
+   Meghraoui-Kheddar A, 2020, FRONT IMMUNOL, V11, DOI 10.3389/fimmu.2020.01117
+   Mehra MR, 2020, NEW ENGL J MED, V382, DOI 10.1056/NEJMoa2007621
+   Meizlish ML, 2021, AM J HEMATOL, V96, P471, DOI [10.1002/ajh.26102, 10.1101/2021.01.12.21249577]
+   Meizlish Matthew L, 2020, medRxiv, DOI 10.1101/2020.06.29.20140376
+   Mendoza M, 2020, BJOG-INT J OBSTET GY, V127, P1374, DOI 10.1111/1471-0528.16339
+   Mengos AE, 2019, FRONT IMMUNOL, V10, DOI 10.3389/fimmu.2019.01147
+   Mentzer SJ, 2014, ANGIOGENESIS, V17, P499, DOI 10.1007/s10456-014-9428-3
+   Middeldorp S, 2020, J THROMB HAEMOST, V18, P1995, DOI 10.1111/jth.14888
+   Miller SE, 2020, NEW ENGL J MED, V383, P2689, DOI 10.1056/NEJMc2030450
+   Mitroulis I, 2018, CELL, V172, P147, DOI 10.1016/j.cell.2017.11.034
+   Mitroulis I, 2017, J CLIN INVEST, V127, P3624, DOI 10.1172/JCI92571
+   Mo XN, 2020, EUR RESPIR J, V55, DOI 10.1183/13993003.01217-2020
+   Monneret G, 2016, CYTOM PART B-CLIN CY, V90, P376, DOI 10.1002/cyto.b.21270
+   Monteil V, 2020, CELL, V181, P905, DOI 10.1016/j.cell.2020.04.004
+   Nagai Y, 2006, IMMUNITY, V24, P801, DOI 10.1016/j.immuni.2006.04.008
+   Nagareddy PR, 2014, CELL METAB, V19, P821, DOI 10.1016/j.cmet.2014.03.029
+   Negro A, 2021, AM J HEMATOL, V96, pE41, DOI 10.1002/ajh.26037
+   Noh JY, 2020, J INFECTION, V81, P816, DOI 10.1016/j.jinf.2020.05.035
+   Nolte MA, 2021, TRENDS BIOCHEM SCI, V46, P124, DOI 10.1016/j.tibs.2020.09.001
+   Notta F, 2016, SCIENCE, V351, P139, DOI 10.1126/science.aab2116
+   Nougier C, 2020, J THROMB HAEMOST, V18, P2215, DOI 10.1111/jth.15016
+   Nuckton TJ, 2002, NEW ENGL J MED, V346, P1281, DOI 10.1056/NEJMoa012835
+   O'Sullivan JM, 2020, BRIT J HAEMATOL, V190, P27, DOI 10.1111/bjh.16845
+   Oduro KA, 2012, BLOOD, V120, P2203, DOI 10.1182/blood-2011-11-391342
+   Ospina-Tascon GA, 2020, ANN INTENSIVE CARE, V10, DOI 10.1186/s13613-020-00651-1
+   Oudemans-van Straaten HM, 2015, SEMIN THROMB HEMOST, V41, P91, DOI 10.1055/s-0034-1398384
+   Panigada M, 2020, J THROMB HAEMOST, V18, P1738, DOI 10.1111/jth.14850
+   Paranjpe I, 2020, J AM COLL CARDIOL, V76, P122, DOI 10.1016/j.jacc.2020.05.001
+   Parikh SM, 2006, PLOS MED, V3, P356, DOI 10.1371/journal.pmed.0030046
+   Park EJ, 2021, VIRUSES-BASEL, V13, DOI 10.3390/v13040645
+   Paschall AV, 2015, J IMMUNOL, V194, P2369, DOI 10.4049/jimmunol.1402412
+   Patel BV, 2020, AM J RESP CRIT CARE, V202, P690, DOI 10.1164/rccm.202004-1412OC
+   Pfaender S, 2020, NAT MICROBIOL, V5, P1330, DOI [10.1038/s41564-020-0769-y, 10.1101/2020.03.05.979260]
+   Philippe A, 2021, ANGIOGENESIS, V24, P505, DOI 10.1007/s10456-020-09762-6
+   Phipps WS, 2020, AM J CLIN PATHOL, V154, P459, DOI 10.1093/ajcp/aqaa123
+   Pietras EM, 2016, NAT CELL BIOL, V18, P607, DOI 10.1038/ncb3346
+   Pietras EM, 2015, CELL STEM CELL, V17, P35, DOI 10.1016/j.stem.2015.05.003
+   Pietras EM, 2014, J EXP MED, V211, P245, DOI 10.1084/jem.20131043
+   Planquette B, 2021, THROMB RES, V197, P94, DOI 10.1016/j.thromres.2020.11.001
+   Poissy J, 2020, CIRCULATION, V142, P184, DOI 10.1161/CIRCULATIONAHA.120.047430
+   Polidoro RB, 2020, FRONT IMMUNOL, V11, DOI 10.3389/fimmu.2020.01626
+   Potje SR, 2021, LIFE SCI, V276, DOI 10.1016/j.lfs.2021.119376
+   Psaila B, 2019, BLOOD, V133, P1427, DOI 10.1182/blood-2018-11-835371
+   Pusztaszeri MP, 2006, J HISTOCHEM CYTOCHEM, V54, P385, DOI 10.1369/jhc.4A6514.2005
+   Qu JX, 2020, CLIN INFECT DIS, V71, P2255, DOI 10.1093/cid/ciaa489
+   Rahimi A, 2021, TRIALS, V22, DOI 10.1186/s13063-021-05242-4
+   Ramjiawan RR, 2017, ANGIOGENESIS, V20, P185, DOI 10.1007/s10456-017-9552-y
+   Ranucci M, 2020, J THROMB HAEMOST, V18, P1747, DOI 10.1111/jth.14854
+   Ratajczak MZ, 2017, CIRC RES, V120, P166, DOI 10.1161/CIRCRESAHA.116.309362
+   Rauch A, 2020, CIRCULATION, V142, P1881, DOI 10.1161/CIRCULATIONAHA.120.050907
+   Reglero-Real N, 2016, ARTERIOSCL THROM VAS, V36, P2048, DOI 10.1161/ATVBAHA.116.307610
+   Remmelink M, 2020, CRIT CARE, V24, DOI 10.1186/s13054-020-03218-5
+   Ren LL, 2021, CLIN INFECT DIS, V72, pE545, DOI 10.1093/cid/ciaa1247
+   Reyes Miguel, 2020, bioRxiv, DOI 10.1101/2020.09.02.280180
+   Reyes M, 2020, NAT MED, V26, P333, DOI 10.1038/s41591-020-0752-4
+   Rodriguez MR, 2021, INT J LAB HEMATOL, V43, pE152, DOI 10.1111/ijlh.13476
+   Roncati L, 2020, PLATELETS, V31, P1085, DOI 10.1080/09537104.2020.1810224
+   Rovas A, 2021, ANGIOGENESIS, V24, P145, DOI 10.1007/s10456-020-09753-7
+   Rovas A, 2019, CRIT CARE, V23, DOI 10.1186/s13054-019-2542-2
+   Sack KD, 2020, CRIT CARE CLIN, V36, P201, DOI 10.1016/j.ccc.2019.12.003
+   Sadeghipour P, 2021, JAMA-J AM MED ASSOC, V325, P1620, DOI 10.1001/jama.2021.4152
+   Salem S, 2020, GLOB MID EAST, P1, DOI [10.2214/AJR.20.23034, 10.1017/9781108868969, 10.2214/AJR.20.23034S.]
+   Sander LE, 2010, J EXP MED, V207, P1453, DOI 10.1084/jem.20091474
+   Schneider RK, 2016, NAT MED, V22, P288, DOI 10.1038/nm.4047
+   Schurch CM, 2014, CELL STEM CELL, V14, P460, DOI 10.1016/j.stem.2014.01.002
+   Schulte-Schrepping J, 2020, CELL, V182, P1419, DOI 10.1016/j.cell.2020.08.001
+   Sela S, 2011, CIRC RES, V108, P1063, DOI 10.1161/CIRCRESAHA.110.239665
+   Sella N, 2020, CRIT CARE, V24, DOI 10.1186/s13054-020-03242-5
+   Shah A, 2020, CRIT CARE, V24, DOI 10.1186/s13054-020-03260-3
+   Shen CG, 2020, JAMA-J AM MED ASSOC, V323, P1582, DOI 10.1001/jama.2020.4783
+   Shen QC, 2018, NATURE, V554, P123, DOI 10.1038/nature25434
+   Shi H, 2021, J LEUKOCYTE BIOL, V109, P67, DOI [10.1002/JLB.3COVCRA0720-359R, 10.1101/2020.05.06.20093070]
+   Si-Mohamed S, 2020, EUR RESPIR J, V56, DOI 10.1183/13993003.02608-2020
+   Silvin A, 2020, CELL, V182, P1401, DOI 10.1016/j.cell.2020.08.002
+   Simonovich VA, 2021, NEW ENGL J MED, V384, P619, DOI 10.1056/NEJMoa2031304
+   Sinha P, 2013, CRIT CARE, V17, DOI 10.1186/cc12541
+   Slessarev M, 2020, CAN J ANESTH, V67, P1288, DOI 10.1007/s12630-020-01661-0
+   Smadja DM, 2021, EUR RESPIR J, V58, DOI 10.1183/13993003.00956-2021
+   Smadja DM, 2021, J THROMB HAEMOST, V19, P1823, DOI 10.1111/jth.15339
+   Smadja DM, 2020, ANGIOGENESIS, V23, P611, DOI 10.1007/s10456-020-09730-0
+   Smadja DM, 2009, CIRCULATION, V119, P374, DOI 10.1161/CIRCULATIONAHA.108.808246
+   Song JW, 2017, J PHARMACOL EXP THER, V361, P115, DOI 10.1124/jpet.116.239509
+   Spiezia L, 2020, THROMB HAEMOSTASIS, V120, P998, DOI 10.1055/s-0040-1710018
+   Sreejit G, 2020, CIRCULATION, V141, P1080, DOI 10.1161/CIRCULATIONAHA.119.043833
+   Stahl K, 2020, AM J RESP CRIT CARE, V202, P1178, DOI 10.1164/rccm.202007-2676LE
+   Sun JL, 2014, NATURE, V514, P322, DOI 10.1038/nature13824
+   Susen S, 2020, CRIT CARE, V24, DOI 10.1186/s13054-020-03000-7
+   Sylvester JT, 2012, PHYSIOL REV, V92, P367, DOI 10.1152/physrev.00041.2010
+   Szwebel TA, 2021, STEM CELL REV REP, V17, P296, DOI 10.1007/s12015-020-10107-5
+   Takizawa H, 2017, CELL STEM CELL, V21, P225, DOI 10.1016/j.stem.2017.06.013
+   Tan L, 2020, SIGNAL TRANSDUCT TAR, V5, DOI 10.1038/s41392-020-0148-4
+   Tandon R, 2021, J VIROL, V95, DOI [10.1128/JVI.01987-20, 10.1101/2020.06.08.140236]
+   Taylor FB, 2001, THROMB HAEMOSTASIS, V86, P1327, DOI 10.1055/s-0037-1616068
+   Teuwen LA, 2020, NAT REV IMMUNOL, V20, P389, DOI 10.1038/s41577-020-0343-0
+   Thachil J, 2020, J THROMB HAEMOST, V18, P2138, DOI 10.1111/jth.15004
+   Thurston G, 2000, NAT MED, V6, P460, DOI 10.1038/74725
+   Tobin MJ, 2020, AM J RESP CRIT CARE, V202, P356, DOI 10.1164/rccm.202006-2157CP
+   TOMASHEFSKI JF, 1983, AM J PATHOL, V112, P112
+   Trumpp A, 2010, NAT REV IMMUNOL, V10, P201, DOI 10.1038/nri2726
+   Turecek PL, 2021, THROMB RES, V201, P100, DOI 10.1016/j.thromres.2021.02.012
+   Uchimido R, 2019, CRIT CARE, V23, DOI 10.1186/s13054-018-2292-6
+   Ulas T, 2017, NAT IMMUNOL, V18, P622, DOI 10.1038/ni.3745
+   Undas A, 2019, EXPERT REV HEMATOL, V12, P597, DOI 10.1080/17474086.2019.1627193
+   Vabret N, 2020, IMMUNITY, V52, P910, DOI 10.1016/j.immuni.2020.05.002
+   Valdivia-Mazeyra MF, 2021, VIRCHOWS ARCH, V478, P487, DOI 10.1007/s00428-020-02926-1
+   van der Bijl I, 2020, MATRIX BIOL, V93, P60, DOI 10.1016/j.matbio.2020.05.005
+   Vardhana SA, 2020, J EXP MED, V217, DOI 10.1084/jem.20200678
+   Varga Z, 2020, LANCET, V395, P1417, DOI 10.1016/S0140-6736(20)30937-5
+   Vassiliou AG, 2021, CELLS-BASEL, V10, DOI 10.3390/cells10010186
+   Vincent JL, 2013, CRIT CARE MED, V41, P2069, DOI 10.1097/CCM.0b013e31828e9b03
+   von Meijenfeldt FA, 2021, RES PRACT THROMB HAE, V5, P132, DOI 10.1002/rth2.12462
+   Wang LM, 2012, J CLIN INVEST, V122, P4218, DOI 10.1172/JCI59176
+   Wang SW, 2018, FRONT IMMUNOL, V9, DOI 10.3389/fimmu.2018.01298
+   Wang YQ, 2020, J CLIN INVEST, V130, P5235, DOI [10.1172/JCI138759, 10.1172/JCI138759.]
+   Weber GF, 2015, SCIENCE, V347, P1260, DOI 10.1126/science.aaa4268
+   Weinbaum S, 2021, CARDIOVASC ENG TECHN, V12, P37, DOI 10.1007/s13239-020-00485-9
+   Weiss E, 2020, THROMB HAEMOSTASIS, V120, P1343, DOI 10.1055/s-0040-1713637
+   Whyte CS, 2020, J THROMB HAEMOST, V18, P1548, DOI 10.1111/jth.14872
+   Wichmann D, 2020, ANN INTERN MED, V173, P268, DOI 10.7326/M20-2003
+   WRIGHT F, 2020, J AM COLL SURGEONS
+   Wu SC, 2021, BLOOD ADV, V5, P1305, DOI 10.1182/bloodadvances.2020003259
+   Wu Y, 2020, QJM-INT J MED, V113, P539, DOI 10.1093/qjmed/hcaa121
+   Wu ZY, 2020, JAMA-J AM MED ASSOC, V323, P1239, DOI 10.1001/jama.2020.2648
+   Yamamoto H, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms7429
+   Yamamoto K, 1998, BLOOD, V92, P2791, DOI 10.1182/blood.V92.8.2791.420k24_2791_2801
+   Yamamoto R, 2013, CELL, V154, P1112, DOI 10.1016/j.cell.2013.08.007
+   Yan SF, 1999, ARTERIOSCL THROM VAS, V19, P2029, DOI 10.1161/01.ATV.19.9.2029
+   Yang Lu-Lu, 2020, Chronic Dis Transl Med, V6, P79, DOI 10.1016/j.cdtm.2020.05.002
+   Yang WJ, 2020, J INFECTION, V80, P388, DOI 10.1016/j.jinf.2020.02.016
+   Yau JW, 2015, BMC CARDIOVASC DISOR, V15, DOI 10.1186/s12872-015-0124-z
+   Zhang HB, 2020, INTENS CARE MED, V46, P586, DOI 10.1007/s00134-020-05985-9
+   Zhang Q, 2015, NATURE, V525, P389, DOI 10.1038/nature15252
+   ZHANG R, 2020, J VASC SURG VENOUS L
+   Zhang Y, 2020, NEW ENGL J MED, V382, DOI 10.1056/NEJMc2007575
+   Zhao JL, 2014, CELL STEM CELL, V14, P445, DOI 10.1016/j.stem.2014.01.007
+   Zhao JW, 2020, ADV POLYM SCI, V285, P1, DOI 10.1007/12_2020_62
+   Zhao W, 2020, AM J ROENTGENOL, V214, P1072, DOI 10.2214/AJR.20.22976
+   Zheng L, 2016, BLOOD ADV, V1, P75, DOI 10.1182/bloodadvances.2016000711
+   Zheng MJ, 2020, CELL MOL IMMUNOL, V17, P533, DOI 10.1038/s41423-020-0402-2
+   Zou LR, 2020, NEW ENGL J MED, V382, P1177, DOI [10.1148/radiol.2020200463, 10.1056/NEJMc2001737]
+   Zuo Yu, 2020, medRxiv, DOI 10.1101/2020.08.29.20184358
+NR 313
+TC 75
+Z9 79
+U1 3
+U2 16
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0969-6970
+EI 1573-7209
+J9 ANGIOGENESIS
+JI Angiogenesis
+PD NOV
+PY 2021
+VL 24
+IS 4
+BP 755
+EP 788
+DI 10.1007/s10456-021-09805-6
+EA JUN 2021
+PG 34
+WC Peripheral Vascular Disease
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Cardiovascular System & Cardiology
+GA WA6NV
+UT WOS:000667636900001
+PM 34184164
+OA Bronze, Green Published
+DA 2023-08-21
+ER
+
+PT J
+AU Biancatelli, RMLC
+   Solopov, PA
+   Sharlow, ER
+   Lazo, JS
+   Marik, PE
+   Catravas, JD
+AF Biancatelli, Ruben M. L. Colunga
+   Solopov, Pavel A.
+   Sharlow, Elizabeth R.
+   Lazo, John S.
+   Marik, Paul E.
+   Catravas, John D.
+TI The SARS-CoV-2 spike protein subunit S1 induces COVID-19-like acute lung
+   injury in K18-hACE2 transgenic mice and barrier dysfunction in human
+   endothelial cells
+SO AMERICAN JOURNAL OF PHYSIOLOGY-LUNG CELLULAR AND MOLECULAR PHYSIOLOGY
+LA English
+DT Article
+DE Acute kidney injury; COVID-19/SARS-CoV-2/Coronavirus; permeability; spike protein 
+ID RESPIRATORY SYNDROME CORONAVIRUS; CONVERTING ENZYME; ENTRY;
+   IDENTIFICATION; ACTIVATION; RECEPTOR; TMPRSS2; ACE2
+AB Acute lung injury (ALI) leading to acute respiratory distress syndrome is the major cause of COVID-19 lethality. Cell entry of SARS-CoV-2 occurs via the interaction between its surface spike protein (SP) and angiotensin-converting enzyme-2 (ACE2). It is unknown if the viral spike protein alone is capable of altering lung vascular permeability in the lungs or producing lung injury in vivo. To that end, we intratracheally instilled the S1 subunit of SARS-CoV-2 spike protein (S1SP) in K18-hACE2 transgenic mice that overexpress human ACE2 and examined signs of COVID-19-associated lung injury 72 h later. Controls included K18-hACE2 mice that received saline or the intact SP and wild-type (WT) mice that received S1SP. K18-hACE2 mice instilled with S1SP exhibited a decline in body weight, dramatically increased white blood cells and protein concentrations in bronchoalveolar lavage fluid (BALF), upregulation of multiple inflammatory cytokines in BALF and serum, histological evidence of lung injury, and activation of signal transducer and activator of transcription 3 (STAT3) and nuclear factor kappa-light-chain-enhancer of activated B cells (NF-kappa B) pathways in the lung. K18-hACE2 mice that received either saline or SP exhibited little or no evidence of lung injury. WT mice that received S1SP exhibited a milder form of COVID-19 symptoms, compared with the K18-hACE2 mice. Furthermore, S1SP, but not SP, decreased cultured human pulmonary microvascular transendothelial resistance (TER) and barrier function. This is the first demonstration of a COVID-19-like response by an essential virus-encoded protein by SARS-CoV-2 in vivo. This model of COVID-19-induced ALI may assist in the investigation of new therapeutic approaches for the management of COVID-19 and other corona-viruses.
+C1 [Biancatelli, Ruben M. L. Colunga; Solopov, Pavel A.; Catravas, John D.] Old Dominion Univ, Frank Reidy Res Ctr Bioelect, Norfolk, VA 23508, United States.
+   [Sharlow, Elizabeth R.; Lazo, John S.] Univ Virginia, Sch Med, Dept Pharmacol, Charlottesville, VA 22908, United States.
+   [Marik, Paul E.; Catravas, John D.] Eastern Virginia Med Sch, Div Pulm Dis & Crit Care Med, Norfolk, VA 23501, United States.
+   [Catravas, John D.] Old Dominion Univ, Coll Hlth Sci, Sch Med Diagnost & Translat Sci, Norfolk, VA 23508, United States.
+C3 Old Dominion University; University of Virginia; Eastern Virginia
+   Medical School; Old Dominion University
+RP Catravas, JD (corresponding author), Old Dominion Univ, Frank Reidy Res Ctr Bioelect, Norfolk, VA 23508 USA.; Catravas, JD (corresponding author), Eastern Virginia Med Sch, Div Pulm Dis & Crit Care Med, Norfolk, VA 23501 USA.; Catravas, JD (corresponding author), Old Dominion Univ, Coll Hlth Sci, Sch Med Diagnost & Translat Sci, Norfolk, VA 23508 USA.
+EM jcatrava@odu.edu
+RI Marik, Paul E/U-9733-2019
+OI Solopov, Pavel/0000-0002-1705-027X; Catravas, John/0000-0002-5098-295X;
+   Colunga Biancatelli, Ruben Manuel Luciano/0000-0002-1174-3876
+FU Old Dominion Research Foundation; Fiske Drug Discovery Laboratory at the
+   University of Virginia
+FX This work was supported by the Old Dominion Research Foundation and the
+   Fiske Drug Discovery Laboratory at the University of Virginia.
+CR Asandei A, 2020, ACS APPL MATER INTER, V12, P55649, DOI 10.1021/acsami.0c17044
+   Bao LN, 2020, NATURE, V583, P830, DOI 10.1038/s41586-020-2312-y
+   Barabutis N, 2018, J CELL MOL MED, V22, P1792, DOI 10.1111/jcmm.13460
+   Bertram S, 2013, J VIROL, V87, P6150, DOI 10.1128/JVI.03372-12
+   Bertram S, 2011, J VIROL, V85, P13363, DOI 10.1128/JVI.05300-11
+   Catravas JD, 2010, VASC PHARMACOL, V52, P175, DOI 10.1016/j.vph.2009.12.009
+   Dosch SF, 2009, VIRUS RES, V142, P19, DOI 10.1016/j.virusres.2009.01.005
+   Gaddam Ravinder Reddy, 2014, Inflammation & Allergy Drug Targets, V13, P224
+   Gierer S, 2013, J VIROL, V87, P5502, DOI 10.1128/JVI.00128-13
+   Haga S, 2008, P NATL ACAD SCI USA, V105, P7809, DOI 10.1073/pnas.0711241105
+   Horby P., 2020, NEW ENGL J MED, DOI [DOI 10.1056/NEJMOA2021436, 10.1056/NEJMoa2021436]
+   Hsu AC-Y, 2020, SARS COV 2 SPIKE PRO, DOI [10.1101/2020.09.30.317818, DOI 10.1101/2020.09.30.317818]
+   Imai Y, 2005, NATURE, V436, P112, DOI 10.1038/nature03712
+   Karki Rajendra, 2020, bioRxiv, DOI [10.1016/j.cell.2020.11.025, 10.1101/2020.10.29.361048]
+   Kuba K, 2005, NAT MED, V11, P875, DOI 10.1038/nm1267
+   Lei YY, 2021, CIRC RES, V128, P1323, DOI 10.1161/CIRCRESAHA.121.318902
+   Li F, 2005, SCIENCE, V309, P1864, DOI 10.1126/science.1116480
+   Marinova M, 2019, INHAL TOXICOL, V31, P147, DOI 10.1080/08958378.2019.1624895
+   Matute-Bello G, 2011, AM J RESP CELL MOL, V44, P725, DOI 10.1165/rcmb.2009-0210ST
+   Millet JK, 2014, P NATL ACAD SCI USA, V111, P15214, DOI 10.1073/pnas.1407087111
+   Munster VJ, 2020, NATURE, V585, P268, DOI [10.1038/s41586-020-2324-7, 10.1101/2020.03.21.001628]
+   Oladunni FS, 2020, NAT COMMUN, V11, DOI 10.1038/s41467-020-19891-7
+   Ou XY, 2016, J VIROL, V90, P5586, DOI 10.1128/JVI.00015-16
+   Rumende CM, 2020, ACTA MED INDONES, V52, P306
+   Shirato K, 2021, HELIYON, V7, DOI 10.1016/j.heliyon.2021.e06187
+   Sia SF, 2020, NATURE, V583, P834, DOI 10.1038/s41586-020-2342-5
+   Soldatov VO, 2020, RES RESULTS PHARM, V6, P1, DOI [10.3897/rrpharmacology. 6.53633, 10.3897/rrpharmacology.6.53633]
+   Walls AC, 2020, CELL, V181, P281, DOI [10.1016/j.cell.2020.02.058, 10.1016/j.cell.2020.11.032]
+   Winkler ES, 2020, NAT IMMUNOL, V21, P1327, DOI 10.1038/s41590-020-0778-2
+   Yinda CK, 2021, PLOS PATHOG, V17, DOI 10.1371/journal.ppat.1009195
+   Zafer MM, 2021, MICROORGANISMS, V9, DOI 10.3390/microorganisms9010159
+   Zhou P, 2020, NATURE, V579, P270, DOI [10.1038/s41586-020-2012-7, 10.1038/s41586-020-2951-z]
+NR 32
+TC 60
+Z9 60
+U1 2
+U2 13
+PU AMER PHYSIOLOGICAL SOC
+PI Rockville
+PA 6120 Executive Blvd, Suite 600, Rockville, MD, UNITED STATES
+SN 1040-0605
+EI 1522-1504
+J9 AM J PHYSIOL-LUNG C
+JI Am. J. Physiol.-Lung Cell. Mol. Physiol.
+PD AUG
+PY 2021
+VL 321
+IS 2
+BP L477
+EP L484
+DI 10.1152/ajplung.00223.2021
+PG 8
+WC Physiology; Respiratory System
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physiology; Respiratory System
+GA UM2DV
+UT WOS:000693148000015
+PM 34156871
+OA Green Published
+DA 2023-08-21
+ER
+
+PT J
+AU Matthay, MA
+   McAuley, DF
+   Ware, LB
+AF Matthay, Michael A.
+   McAuley, Daniel Francis
+   Ware, Lorraine B.
+TI Clinical trials in acute respiratory distress syndrome: challenges and
+   opportunities
+SO LANCET RESPIRATORY MEDICINE
+LA English
+DT Review
+ID ACUTE LUNG INJURY; END-EXPIRATORY PRESSURE; INTENSIVE-CARE UNITS;
+   CELL-FREE HEMOGLOBIN; DEAD-SPACE FRACTION; STEM STROMAL CELLS;
+   FLUID-MANAGEMENT; DOUBLE-BLIND; NEUROMUSCULAR BLOCKERS; RANDOMIZED-TRIAL
+AB This year is the 50th anniversary of the first description of acute respiratory distress syndrome (ARDS). Since then, much has been learned about the pathogenesis of lung injury in ARDS, with an emphasis on the mechanisms of injury to the lung endothelium and the alveolar epithelium. In terms of treatment, major progress has been made in reducing mortality from ARDS with lung-protective ventilation, using a tidal volume of 6 mL per kg of predicted bodyweight and a plateau airway pressure of less than 30 cm H2O. In more severely hypoxaemic patients with ARDS, neuromuscular blockade and prone positioning have further reduced mortality, probably by extending the therapeutic effects of lung protective ventilation. Fluid-conservative therapy has also increased ventilator-free days in patients with ARDS. The lack of success of pharmacological therapies for ARDS, however, presents a continued challenge in the field. In addition to presenting a brief summary of previous experience with clinical trials in ARDS, we focus in this Review on future opportunities to improve clinical trial design to maximise the likelihood of identifying beneficial pharmacological therapies. In view of the heterogeneity in ARDS, both prognostic and predictive enrichment strategies are needed that target therapies toward specific subgroups of patients with ARDS on the basis of both severity and biology. Approaches to reducing heterogeneity in ARDS clinical trials include using physiological, radiographic, and biological criteria to select patients for both phase 2 and 3 trials. Additionally, interest is growing in the design of preventive clinical trials in ARDS and to initiate early treatment of patients with acute lung injury before the need for endotracheal intubation. We also present promising new approaches to treating ARDS, including combination therapies, cell-based therapies, and generic pharmacological compounds with low-risk profiles that are already in routine clinical use for other clinical indications.
+C1 [Matthay, Michael A.] Univ Calif San Francisco, Dept Med, San Francisco, CA, United States.
+   [Matthay, Michael A.] Univ Calif San Francisco, Dept Anesthesia, San Francisco, CA, United States.
+   [Matthay, Michael A.] Univ Calif San Francisco, Cardiovasc Res Inst, San Francisco, CA, United States.
+   [McAuley, Daniel F.] Queens Univ Belfast, Ctr Expt Med, Belfast, Antrim, North Ireland, United Kingdom.
+   [McAuley, Daniel F.] Belfast Hlth & Social Care Trust, Reg Intens Care Unit, Belfast, Antrim, North Ireland, United Kingdom.
+   [Ware, Lorraine B.] Vanderbilt Univ, Sch Med, Dept Med, Nashville, TN 37212, United States.
+   [Ware, Lorraine B.] Vanderbilt Univ, Sch Med, Dept Pathol Microbiol & Immunol, Nashville, TN 37212, United States.
+C3 University of California System; University of California San Francisco;
+   University of California System; University of California San Francisco;
+   University of California System; University of California San Francisco;
+   Queens University Belfast; Vanderbilt University; Vanderbilt University
+RP Matthay, MA (corresponding author), Univ Calif San Francisco, San Francisco, CA 94143 USA.
+EM michael.matthay@ucsf.edu
+RI Ware, Lorraine/AAJ-9307-2021
+OI Ware, Lorraine/0000-0002-9429-4702; McAuley, Daniel/0000-0002-3283-1947
+FU NHBLI [R37 HL51856, U01 HL108713]; Courtney's Race for the Cure;
+   Courtney Charneco Family; NIH [HL103836, HL126176]
+FX This Review was supported by NHBLI R37 HL51856 and U01 HL108713 (MAM),
+   as well as Courtney's Race for the Cure, The Courtney Charneco Family,
+   NIH HL103836, and NIH HL126176 (LBW). We thank Andrew Manies for
+   assistance with preparation of the manuscript and Diana Lim for her work
+   on the figure.
+CR Abraham E, 1999, CRIT CARE MED, V27, P1478, DOI 10.1097/00003246-199908000-00013
+   Adhikari NKJ, 2007, BMJ-BRIT MED J, V334, P779, DOI 10.1136/bmj.39139.716794.55
+   Antonelli M, 2007, CRIT CARE MED, V35, P18, DOI 10.1097/01.CCM.0000251821.44259.F3
+   ASHBAUGH DG, 1967, LANCET, V2, P319
+   Beitler JR, 2016, CRIT CARE MED, V44, P91, DOI 10.1097/CCM.0000000000001355
+   Bellani G, 2016, JAMA-J AM MED ASSOC, V315, P788, DOI 10.1001/jama.2016.0291
+   Bernard GR, 1997, CHEST, V112, P164, DOI 10.1378/chest.112.1.164
+   BERNARD GR, 1987, NEW ENGL J MED, V317, P1565, DOI 10.1056/NEJM198712173172504
+   BERNARD GR, 1994, AM J RESP CRIT CARE, V149, P818, DOI 10.1164/ajrccm.149.3.7509706
+   Berry DA, 2006, NAT REV DRUG DISCOV, V5, P27, DOI 10.1038/nrd1927
+   Blackwood B, 2014, AM J RESP CRIT CARE, V189, P886, DOI 10.1164/rccm.201309-1645PP
+   Boutaud O, 2010, P NATL ACAD SCI USA, V107, P2699, DOI 10.1073/pnas.0910174107
+   Boyle AJ, 2015, CRIT CARE, V19, DOI 10.1186/s13054-015-0846-4
+   Boyle AJ, 2013, BMC MED, V11, DOI 10.1186/1741-7015-11-166
+   Brower RG, 1999, CRIT CARE MED, V27, P1492, DOI 10.1097/00003246-199908000-00015
+   Brower RG, 2004, NEW ENGL J MED, V351, P327
+   Brower RG, 2000, NEW ENGL J MED, V342, P1301, DOI 10.1056/nejm200005043421801
+   Calfee CS, 2007, CRIT CARE MED, V35, P2243, DOI 10.1097/01.CCM.0000280434.33451.87
+   Calfee CS, 2015, CHEST, V147, P1539, DOI 10.1378/chest.14-2454
+   Calfee CS, 2014, LANCET RESP MED, V2, P611, DOI 10.1016/S2213-2600(14)70097-9
+   Chen W, 2015, CRIT CARE MED, V43, P801, DOI 10.1097/CCM.0000000000000789
+   Famous KR, 2017, AM J RESP CRIT CARE, V195, P331, DOI 10.1164/rccm.201603-0645OC
+   Festic E, 2017, CRIT CARE MED, V45, P798, DOI 10.1097/CCM.0000000000002284
+   Flori HR, 2005, AM J RESP CRIT CARE, V171, P995, DOI 10.1164/rccm.200404-544OC
+   Frat JP, 2015, NEW ENGL J MED, V372, P2185, DOI 10.1056/NEJMoa1503326
+   Gainnier M, 2004, CRIT CARE MED, V32, P113, DOI 10.1097/01.CCM.0000104114.72614.BC
+   Gajic O, 2011, AM J RESP CRIT CARE, V183, P462, DOI 10.1164/rccm.201004-0549OC
+   Gattinoni L, 2001, NEW ENGL J MED, V345, P568, DOI 10.1056/NEJMoa010043
+   Gattinoni L, 2006, NEW ENGL J MED, V354, P1775, DOI 10.1056/NEJMoa052052
+   Gattinoni L, 2010, MINERVA ANESTESIOL, V76, P448
+   Gattinoni L, 2013, AM J RESP CRIT CARE, V188, P1286, DOI 10.1164/rccm.201308-1532CI
+   Gotts JE, 2016, BMJ-BRIT MED J, V353, DOI 10.1136/bmj.i1585
+   Guerin C, 2004, JAMA-J AM MED ASSOC, V292, P2379, DOI 10.1001/jama.292.19.2379
+   Guerin C, 2013, NEW ENGL J MED, V368, P2159, DOI 10.1056/NEJMoa1214103
+   Guervilly C, 2017, INTENS CARE MED, V43, P408, DOI 10.1007/s00134-016-4653-4
+   HALLMAN M, 1985, J PEDIATR-US, V106, P963, DOI 10.1016/S0022-3476(85)80253-5
+   Herridge MS, 2016, INTENS CARE MED, V42, P725, DOI 10.1007/s00134-016-4321-8
+   Hough CL, 2014, CLIN CHEST MED, V35, P781, DOI 10.1016/j.ccm.2014.08.014
+   Huang DT, 2017, ANN AM THORAC SOC, V14, P124, DOI 10.1513/AnnalsATS.201608-629OT
+   Iwashyna TJ, 2015, AM J RESP CRIT CARE, V192, P1045, DOI 10.1164/rccm.201411-2125CP
+   Janz DR, 2015, CRIT CARE MED, V43, P534, DOI 10.1097/CCM.0000000000000718
+   Janz DR, 2013, CRIT CARE MED, V41, P784, DOI 10.1097/CCM.0b013e3182741a54
+   Kallet RH, 2014, RESP CARE, V59, P1611, DOI 10.4187/respcare.02593
+   Kangelaris KN, 2016, CRIT CARE MED, V44, P120, DOI 10.1097/CCM.0000000000001359
+   Kor DJ, 2016, JAMA-J AM MED ASSOC, V315, P2406, DOI 10.1001/jama.2016.6330
+   Levitt JE, 2013, CRIT CARE MED, V41, P1929, DOI 10.1097/CCM.0b013e31828a3d99
+   Levitt JE, 2009, CHEST, V135, P936, DOI 10.1378/chest.08-2346
+   Lipsky AM, 2013, STAT MED, V32, P3752, DOI 10.1002/sim.5807
+   Liu KD, 2008, AM J RESP CRIT CARE, V178, P618, DOI 10.1164/rccm.200803-419OC
+   Liu KD, 2014, ANN INTENSIVE CARE, V4, DOI 10.1186/s13613-014-0022-z
+   Luo L, 2017, CHEST, V151, P755, DOI 10.1016/j.chest.2016.09.004
+   Mancebo J, 2006, AM J RESP CRIT CARE, V173, P1233, DOI 10.1164/rccm.200503-353OC
+   Matthay MA, 2017, STEM CELLS, V35, P316, DOI 10.1002/stem.2551
+   Matthay MA, 2016, CHEST, V150, P989, DOI 10.1016/j.chest.2016.05.013
+   Matthay MA, 2012, J CLIN INVEST, V122, P2731, DOI 10.1172/JCI60331
+   Matthay MA, 2011, AM J RESP CRIT CARE, V184, P561, DOI 10.1164/rccm.201012-2090OC
+   McAuley DF, 2014, NEW ENGL J MED, V371, P1695, DOI 10.1056/NEJMoa1403285
+   Meade MO, 2008, JAMA-J AM MED ASSOC, V299, P637, DOI 10.1001/jama.299.6.637
+   Meduri GU, 1998, JAMA-J AM MED ASSOC, V280, P159, DOI 10.1001/jama.280.2.159
+   Mercat A, 2008, JAMA-J AM MED ASSOC, V299, P646, DOI 10.1001/jama.299.6.646
+   Meyer NJ, 2017, LANCET RESP MED, V5, P512, DOI 10.1016/S2213-2600(17)30187-X
+   Mrozek S, 2016, CHEST, V150, P998, DOI 10.1016/j.chest.2016.03.016
+   MURRAY JF, 1988, AM REV RESPIR DIS, V138, P720, DOI 10.1164/ajrccm/138.3.720
+   Nuckton TJ, 2002, NEW ENGL J MED, V346, P1281, DOI 10.1056/NEJMoa012835
+   Paine R, 2012, CRIT CARE MED, V40, P90, DOI 10.1097/CCM.0b013e31822d7bf0
+   Papazian L, 2010, NEW ENGL J MED, V363, P1107, DOI 10.1056/NEJMoa1005372
+   Pelosi P, 2001, SEM RESP CRIT CARE M, V22, P259, DOI 10.1055/s-2001-15783
+   Prescott HC, 2016, AM J RESP CRIT CARE, V194, P147, DOI 10.1164/rccm.201512-2544CP
+   Ranieri VM, 2012, JAMA-J AM MED ASSOC, V307, P2526, DOI 10.1001/jama.2012.5669
+   Rice TW, 2011, JAMA-J AM MED ASSOC, V306, P1574, DOI 10.1001/jama.2011.1435
+   Rouby JJ, 2000, INTENS CARE MED, V26, P1046, DOI 10.1007/s001340051317
+   Rubenfeld GD, 2015, AM J RESP CRIT CARE, V191, P255, DOI 10.1164/rccm.201408-1574CP
+   Neto AS, 2016, LANCET RESP MED, V4, P882, DOI 10.1016/S2213-2600(16)30305-8
+   SHAPIRO DL, 1985, PEDIATRICS, V76, P593
+   Shaver CM, 2016, AM J PHYSIOL-LUNG C, V310, pL532, DOI 10.1152/ajplung.00155.2015
+   Shaver CM, 2014, CLIN CHEST MED, V35, P639, DOI 10.1016/j.ccm.2014.08.004
+   Silversides JA, 2017, INTENS CARE MED, V43, P155, DOI 10.1007/s00134-016-4573-3
+   Smith FG, 2012, LANCET, V379, P229, DOI 10.1016/S0140-6736(11)61623-1
+   Spragg RG, 2004, NEW ENGL J MED, V351, P884, DOI 10.1056/NEJMoa033181
+   Steinberg KP, 2006, NEW ENGL J MED, V354, P1671
+   Taccone P, 2009, JAMA-J AM MED ASSOC, V302, P1977, DOI 10.1001/jama.2009.1614
+   Taylor RW, 2004, JAMA-J AM MED ASSOC, V291, P1603, DOI 10.1001/jama.291.13.1603
+   Truwit JD, 2014, NEW ENGL J MED, V370, P2191, DOI 10.1056/NEJMoa1401520
+   Vieillard-Baron A, 2000, AM J RESP CRIT CARE, V161, P1597
+   Vincent JL, 2009, CRIT CARE MED, V37, P1874, DOI 10.1097/CCM.0b013e31819fff2c
+   Walter J, 2014, LANCET RESP MED, V2, P1016, DOI 10.1016/S2213-2600(14)70217-6
+   Wang CY, 2014, INTENS CARE MED, V40, P388, DOI 10.1007/s00134-013-3186-3
+   Ware LB, 2000, NEW ENGL J MED, V342, P1334, DOI 10.1056/NEJM200005043421806
+   Ware LB, 2010, CHEST, V137, P288, DOI 10.1378/chest.09-1484
+   Warren MA, 2017, AM J RESP C IN PRESS
+   Wheeler AP, 2006, NEW ENGL J MED, V354, P2213
+   Wiedemann HP, 2006, NEW ENGL J MED, V354, P2564
+   Wiedemann HP, 2000, JAMA-J AM MED ASSOC, V283, P1995
+   Wiedemann HP, 2002, CRIT CARE MED, V30, P1
+   Willson DF, 2015, CHEST, V148, P356, DOI 10.1378/chest.14-1139
+   Wilson JG, 2015, LANCET RESP MED, V3, P24, DOI [10.1016/s2213-2600(14)70291-7, 10.1016/S2213-2600(14)70291-7]
+   Yadav H, 2015, AM J PHYSIOL-LUNG C, V309, pL915, DOI 10.1152/ajplung.00266.2015
+   Zeiher BG, 2004, CRIT CARE MED, V32, P1695, DOI 10.1097/01.CCM.0000133332.48386.85
+   Zeyed YF, 2012, AM J PHYSIOL-LUNG C, V303, pL550, DOI 10.1152/ajplung.00190.2012
+NR 99
+TC 180
+Z9 193
+U1 4
+U2 46
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 2213-2600
+J9 LANCET RESP MED
+JI Lancet Resp. Med.
+PD JUN
+PY 2017
+VL 5
+IS 6
+BP 524
+EP 534
+DI 10.1016/S2213-2600(17)30188-1
+PG 11
+WC Critical Care Medicine; Respiratory System
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine; Respiratory System
+GA EV9FR
+UT WOS:000402091700023
+PM 28664851
+DA 2023-08-21
+ER
+
+PT J
+AU Lamers, MM
+   Haagmans, BL
+AF Lamers, Mart M.
+   Haagmans, Bart L.
+TI SARS-CoV-2 pathogenesis
+SO NATURE REVIEWS MICROBIOLOGY
+LA English
+DT Review
+ID RESPIRATORY-DISTRESS-SYNDROME; CORONAVIRUS DISEASE 2019; PLASMACYTOID
+   DENDRITIC CELLS; DIPEPTIDYL PEPTIDASE 4; ACUTE LUNG INJURY;
+   TISSUE-FACTOR; COVID-19 INFECTIONS; FUNCTIONAL RECEPTOR;
+   VIRAL-INFECTIONS; I INTERFERON
+AB The emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused a devastating pandemic. Although most people infected with SARS-CoV-2 develop a mild to moderate disease with virus replication restricted mainly to the upper airways, some progress to having a life-threatening pneumonia. In this Review, we explore recent clinical and experimental advances regarding SARS-CoV-2 pathophysiology and discuss potential mechanisms behind SARS-CoV-2-associated acute respiratory distress syndrome (ARDS), specifically focusing on new insights obtained using novel technologies such as single-cell omics, organoid infection models and CRISPR screens. We describe how SARS-CoV-2 may infect the lower respiratory tract and cause alveolar damage as a result of dysfunctional immune responses. We discuss how this may lead to the induction of a 'leaky state' of both the epithelium and the endothelium, promoting inflammation and coagulation, while an influx of immune cells leads to overexuberant inflammatory responses and immunopathology. Finally, we highlight how these findings may aid the development of new therapeutic interventions against COVID-19.
+   In this Review, Lamers and Haagmans explore recent clinical and experimental advances in understanding severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pathogenesis, interactions with host cells and the involvement of the immune system in the development of severe disease. Specifically, they focus on mechanisms underlying the development of COVID-19-associated acute respiratory distress syndrome.
+C1 [Lamers, Mart M.; Haagmans, Bart L.] Erasmus MC, Virosci Dept, Rotterdam, Netherlands.
+C3 Erasmus University Rotterdam; Erasmus MC
+RP Haagmans, BL (corresponding author), Erasmus MC, Virosci Dept, Rotterdam, Netherlands.
+EM b.haagmans@erasmusmc.nl
+RI Haagmans, Bart L/E-9791-2015
+OI Haagmans, Bart L/0000-0001-6221-2015
+CR ACTIV-3 TICO LY-CoV555 Study Grp, 2021, NEW ENGL J MED, V384, P905, DOI 10.1056/NEJMoa2033130
+   Ader F, 2022, LANCET INFECT DIS, V22, P209, DOI 10.1016/S1473-3099(21)00485-0
+   Agrawal A, 2013, GERONTOLOGY, V59, P421, DOI 10.1159/000350536
+   Ahn JH, 2021, J CLIN INVEST, V131, DOI 10.1172/JCI148517
+   Al-Samkari H, 2020, BLOOD, V136, P489, DOI 10.1182/blood.2020006520
+   Arribas, 2021, NEJM EVID, DOI 10.1056/EVIDoa2100044
+   Arunachalam PS, 2020, SCIENCE, V369, P1210, DOI 10.1126/science.abc6261
+   Asano T, 2021, SCI IMMUNOL, V6, DOI 10.1126/sciimmunol.abl4348
+   Bailey AL, 2021, CELL, V184, P15, DOI 10.1016/j.cell.2020.12.003
+   Bange Erin M, 2021, Res Sq, DOI 10.21203/rs.3.rs-162289/v1
+   Barkauskas CE, 2013, J CLIN INVEST, V123, P3025, DOI 10.1172/JCI68782
+   Bastard P, 2021, SCI IMMUNOL, V6, DOI 10.1126/sciimmunol.abl4340
+   Bauernfried S, 2021, SCIENCE, V371, P482, DOI 10.1126/science.abd0811
+   Berlin DA, 2020, NEW ENGL J MED, V383, P2451, DOI 10.1056/NEJMcp2009575
+   Bernal AJ, 2022, NEW ENGL J MED, V386, P509, DOI 10.1056/NEJMoa2116044
+   Beumer J, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-021-25729-7
+   Bhatnagar J, 2021, J INFECT DIS, V223, P752, DOI 10.1093/infdis/jiab039
+   Blair RV, 2021, AM J PATHOL, V191, P274, DOI 10.1016/j.ajpath.2020.10.016
+   Blanco-Melo D, 2020, CELL, V181, P1036, DOI 10.1016/j.cell.2020.04.026
+   Bonaventura A, 2021, NAT REV IMMUNOL, V21, P319, DOI 10.1038/s41577-021-00536-9
+   Bove PF, 2014, AM J RESP CELL MOL, V50, P767, DOI 10.1165/rcmb.2013-0071OC
+   Bradley BT, 2020, LANCET, V396, P320, DOI 10.1016/S0140-6736(20)31305-2
+   Camprubi-Rimblas M, 2018, ANN TRANSL MED, V6, DOI 10.21037/atm.2018.01.08
+   Cantuti-Castelvetri L, 2020, SCIENCE, V370, P856, DOI 10.1126/science.abd2985
+   Cao WP, 2008, NAT IMMUNOL, V9, P1157, DOI 10.1038/ni.1645
+   Cardinal-Fernandez P, 2017, ANN AM THORAC SOC, V14, P844, DOI 10.1513/AnnalsATS.201609-728PS
+   Carroll T, 2022, PLOS PATHOG, V18, DOI 10.1371/journal.ppat.1009914
+   Carsana L, 2020, LANCET INFECT DIS, V20, P1135, DOI 10.1016/S1473-3099(20)30434-5
+   Cervantes-Barragan L, 2007, BLOOD, V109, P1131, DOI 10.1182/blood-2006-05-023770
+   Chan JFW, 2020, CLIN INFECT DIS, V71, P2428, DOI 10.1093/cid/ciaa325
+   Chandra A, 2020, BMJ CASE REP, V13, DOI 10.1136/bcr-2020-237207
+   Channappanavar R, 2019, J CLIN INVEST, V129, P3625, DOI 10.1172/JCI126363
+   Channappanavar R, 2016, CELL HOST MICROBE, V19, P181, DOI 10.1016/j.chom.2016.01.007
+   Chen JY, 2020, CELL RES, V30, P708, DOI 10.1038/s41422-020-0369-7
+   Chen NS, 2020, LANCET, V395, P507, DOI 10.1016/S0140-6736(20)30211-7
+   Chen YF, 2020, J MED VIROL, V92, P833, DOI 10.1002/jmv.25825
+   Choi J, 2020, CELL STEM CELL, V27, P366, DOI 10.1016/j.stem.2020.06.020
+   Chua RL, 2020, NAT BIOTECHNOL, V38, P970, DOI 10.1038/s41587-020-0602-4
+   Costa MFD, 2020, STEM CELL REP, V15, P1015, DOI 10.1016/j.stemcr.2020.09.006
+   Creech CB, 2021, JAMA-J AM MED ASSOC, V325, P1318, DOI 10.1001/jama.2021.3199
+   Daly James L, 2020, Science, V370, P861, DOI 10.1126/science.abd3072
+   Daniloski Z, 2021, CELL, V184, P92, DOI 10.1016/j.cell.2020.10.030
+   De Michele S, 2020, AM J CLIN PATHOL, V154, P748, DOI 10.1093/ajcp/aqaa156
+   del Conde I, 2005, BLOOD, V106, P1604, DOI 10.1182/blood-2004-03-1095
+   Del Valle DM, 2020, NAT MED, V26, P1636, DOI [10.1038/s41591-020-1051-9, 10.1101/2020.05.28.20115758]
+   Delorey TM, 2021, NATURE, V595, P107, DOI 10.1038/s41586-021-03570-8
+   Dinnon Kenneth H, 2020, bioRxiv, DOI 10.1101/2020.05.06.081497
+   Dittmann M, 2015, CELL, V160, P631, DOI 10.1016/j.cell.2015.01.040
+   Donaldson EF, 2010, J VIROL, V84, P13004, DOI 10.1128/JVI.01255-10
+   Doran AC, 2020, NAT REV IMMUNOL, V20, P254, DOI 10.1038/s41577-019-0240-6
+   Drosten C, 2003, NEW ENGL J MED, V348, P1967, DOI 10.1056/NEJMoa030747
+   Ellinghaus D, 2020, NEW ENGL J MED, V383, P1522, DOI 10.1056/NEJMoa2020283
+   Engelmann B, 2013, NAT REV IMMUNOL, V13, P34, DOI 10.1038/nri3345
+   Ettayebi K, 2016, SCIENCE, V353, P1387, DOI 10.1126/science.aaf5211
+   Feng E, 2021, CELLS-BASEL, V10, DOI 10.3390/cells10030708
+   Ferreira AC, 2021, CELL DEATH DISCOV, V7, DOI 10.1038/s41420-021-00428-w
+   Fielding BC, 2011, FUTURE MICROBIOL, V6, P153, DOI [10.2217/fmb.10.166, 10.2217/FMB.10.166]
+   Fingerlin TE, 2013, NAT GENET, V45, P613, DOI 10.1038/ng.2609
+   Galani IE, 2015, J LEUKOCYTE BIOL, V98, P557, DOI 10.1189/jlb.4VMR1114-555R
+   Georg P, 2022, CELL, V185, P493, DOI [10.1016/j.cel.2021.12.040, 10.1016/j.cell.2021.12.040]
+   Giamarellos-Bourboulis EJ, 2020, CELL HOST MICROBE, V27, P992, DOI 10.1016/j.chom.2020.04.009
+   Giannis D, 2020, J CLIN VIROL, V127, DOI 10.1016/j.jcv.2020.104362
+   Goh KJ, 2020, ANN ACAD MED SINGAP, V49, P108
+   Gorbalenya AE, 2020, NAT MICROBIOL, V5, P536, DOI 10.1038/s41564-020-0695-z
+   Gralinski LE, 2013, MBIO, V4, DOI 10.1128/mBio.00271-13
+   Grant RA, 2021, NATURE, V590, P635, DOI 10.1038/s41586-020-03148-w
+   Grasselli G, 2020, LANCET RESP MED, V8, P1201, DOI 10.1016/S2213-2600(20)30370-2
+   Grasselli G, 2020, JAMA-J AM MED ASSOC, V323, P1545, DOI 10.1001/jama.2020.4031
+   Gu HJ, 2020, SCIENCE, V369, P1603, DOI 10.1126/science.abc4730
+   Gu J, 2007, AM J PATHOL, V170, P1136, DOI 10.2353/ajpath.2007.061088
+   Guan W, 2020, NEW ENGL J MED, V382, P1708, DOI [10.1056/NEJMc2005203, 10.1056/NEJMoa2002032]
+   Haagmans BL, 2004, NAT MED, V10, P290, DOI 10.1038/nm1001
+   Hadjadj J, 2020, SCIENCE, V369, P718, DOI 10.1126/science.abc6027
+   Halfmann PJ, 2022, NATURE, V603, P687, DOI 10.1038/s41586-022-04441-6
+   Han LL, 2021, J MED VIROL, V93, P5376, DOI 10.1002/jmv.27050
+   Herold T, 2020, J ALLERGY CLIN IMMUN, V146, P128, DOI 10.1016/j.jaci.2020.05.008
+   Hewitson JP, 2020, J IMMUNOL, V204, P2949, DOI 10.4049/jimmunol.1900940
+   Hoffmann M, 2021, EBIOMEDICINE, V65, DOI 10.1016/j.ebiom.2021.103255
+   Hoffmann M, 2020, CELL, V181, P271, DOI 10.1016/j.cell.2020.02.052
+   Hoffmann M, 2020, NATURE, V585, P588, DOI 10.1038/s41586-020-2575-3
+   Horby P, 2021, NEW ENGL J MED, V384, P693, DOI [10.1056/NEJMoa2021436, 10.1056/NEJMoa2022926]
+   Horby PW, 2021, LANCET, V397, P2049, DOI 10.1016/S0140-6736(21)00897-7
+   Horby PW, 2021, LANCET, V397, P1637, DOI 10.1016/S0140-6736(21)00676-0
+   Hou YXJ, 2020, CELL, V182, P429, DOI 10.1016/j.cell.2020.05.042
+   Huang Jessie, 2020, Cell Stem Cell, V27, P962, DOI [10.1101/2020.06.30.175695, 10.1016/j.stem.2020.09.013]
+   Hui KPY, 2020, LANCET RESP MED, V8, P687, DOI 10.1016/S2213-2600(20)30193-4
+   Hulswit RJG, 2016, ADV VIRUS RES, V96, P29, DOI 10.1016/bs.aivir.2016.08.004
+   Huynh J, 2012, J VIROL, V86, P12816, DOI 10.1128/JVI.00906-12
+   Iba T, 2020, J THROMB HAEMOST, V18, P2103, DOI 10.1111/jth.14975
+   Imai M, 2020, P NATL ACAD SCI USA, V117, P16587, DOI 10.1073/pnas.2009799117
+   Jia HP, 2005, J VIROL, V79, P14614, DOI 10.1128/JVI.79.23.14614-14621.2005
+   JONES T, 2021, SCIENCE, V373
+   Kambas K, 2008, J IMMUNOL, V180, P7368, DOI 10.4049/jimmunol.180.11.7368
+   Kanegai CM, 2016, AM J RESP CELL MOL, V55, P613, DOI 10.1165/rcmb.2015-0387LE
+   Karagiannidis C, 2021, LANCET RESP MED, V9, pE47, DOI 10.1016/S2213-2600(21)00101-6
+   Karagiannidis C, 2020, LANCET RESP MED, V8, P853, DOI 10.1016/S2213-2600(20)30316-7
+   Karki Rajendra, 2020, bioRxiv, DOI [10.1016/j.cell.2020.11.025, 10.1101/2020.10.29.361048]
+   Katsura H, 2020, CELL STEM CELL, V27, P890, DOI 10.1016/j.stem.2020.10.005
+   Katzenstein A L, 1976, Am J Pathol, V85, P209
+   Kawase M, 2012, J VIROL, V86, P6537, DOI 10.1128/JVI.00094-12
+   Kayesh MEH, 2021, VIRUSES-BASEL, V13, DOI 10.3390/v13112302
+   Kenawy HI, 2015, FRONT IMMUNOL, V6, DOI 10.3389/fimmu.2015.00215
+   Khan M, 2021, CELL, V184, P5932, DOI 10.1016/j.cell.2021.10.027
+   Khanmohammadi S, 2021, J MED VIROL, V93, P2735, DOI 10.1002/jmv.26826
+   Kim YI, 2020, CELL HOST MICROBE, V27, P704, DOI 10.1016/j.chom.2020.03.023
+   Klimstra William B, 2020, bioRxiv, DOI 10.1101/2020.06.19.154930
+   Klok FA, 2020, THROMB RES, V191, P145, DOI [10.1016/j.thromres.2020.04.013, 10.1016/j.thromres.2020.04.041]
+   Kluge S, 2021, DTSCH ARZTEBL INT, V118, P1, DOI 10.3238/arztebl.m2021.0110
+   Knoops K, 2008, PLOS BIOL, V6, P1957, DOI 10.1371/journal.pbio.0060226
+   Kobayashi Y, 2020, NAT CELL BIOL, V22, P934, DOI 10.1038/s41556-020-0542-8
+   Koning R, 2021, INTENS CARE MED, V47, P704, DOI 10.1007/s00134-021-06392-4
+   Kuiken T, 2003, LANCET, V362, P263, DOI 10.1016/S0140-6736(03)13967-0
+   Lamers MM, 2021, ELIFE, V10, DOI 10.7554/eLife.66815
+   Lamers MM, 2021, EMBO J, V40, DOI 10.15252/embj.2020105912
+   Lamers MM, 2020, SCIENCE, V369, P50, DOI 10.1126/science.abc1669
+   Lamers MM., SARS COV 2 OMICRON E, DOI 10.1101/2022.01.19.476898
+   Lau SY, 2020, EMERG MICROBES INFEC, V9, P837, DOI 10.1080/22221751.2020.1756700
+   Lauer SA, 2020, ANN INTERN MED, V172, P577, DOI 10.7326/M20-0504
+   Leist SR, 2020, CELL, V183, P1070, DOI 10.1016/j.cell.2020.09.050
+   Li JY, 2020, VIRUS RES, V286, DOI 10.1016/j.virusres.2020.198074
+   Li Q, 2020, NEW ENGL J MED, V382, P1199, DOI 10.1056/NEJMoa2001316
+   Li WH, 2003, NATURE, V426, P450, DOI 10.1038/nature02145
+   Liao MF, 2020, NAT MED, V26, P842, DOI 10.1038/s41591-020-0901-9
+   Lindner D, 2020, JAMA CARDIOL, V5, P1281, DOI 10.1001/jamacardio.2020.3551
+   Lippi G, 2020, CLIN CHIM ACTA, V506, P145, DOI 10.1016/j.cca.2020.03.022
+   Little DR, 2019, P NATL ACAD SCI USA, V116, P20545, DOI 10.1073/pnas.1906663116
+   Lokugamage KG, 2020, J VIROL, V94, DOI 10.1128/JVI.01410-20
+   Loske J, 2022, NAT BIOTECHNOL, V40, P319, DOI 10.1038/s41587-021-01037-9
+   Lucas C, 2020, NATURE, V584, P463, DOI 10.1038/s41586-020-2588-y
+   Mackman N, 2020, ARTERIOSCL THROM VAS, V40, P2033, DOI 10.1161/ATVBAHA.120.314514
+   Mahajan S, 2021, AM J MED, V134, P812, DOI 10.1016/j.amjmed.2021.01.020
+   Major J, 2020, SCIENCE, V369, P712, DOI 10.1126/science.abc2061
+   Marconi VC, 2021, LANCET RESP MED, V9, P1407, DOI 10.1016/S2213-2600(21)00331-3
+   Galvan-Roman JM, 2021, J ALLERGY CLIN IMMUN, V147, P72, DOI 10.1016/j.jaci.2020.09.018
+   Maucourant C, 2020, SCI IMMUNOL, V5, DOI 10.1126/sciimmunol.abd6832
+   Meinhardt J, 2021, NAT NEUROSCI, V24, P168, DOI 10.1038/s41593-020-00758-5
+   Melms JC, 2021, NATURE, V595, P114, DOI 10.1038/s41586-021-03569-1
+   Menter T, 2020, HISTOPATHOLOGY, V77, P198, DOI 10.1111/his.14134
+   Meyer NJ, 2021, LANCET, V398, P622, DOI 10.1016/S0140-6736(21)00439-6
+   Meyerholz DK, 2016, AM J PATHOL, V186, P78, DOI 10.1016/j.ajpath.2015.09.014
+   Millar FR, 2016, THORAX, V71, P462, DOI 10.1136/thoraxjnl-2015-207461
+   Mulay A, 2021, CELL REP, V35, DOI 10.1016/j.celrep.2021.109055
+   Munoz-Fontela C, 2020, NATURE, V586, P509, DOI 10.1038/s41586-020-2787-6
+   Munster VJ, 2020, NATURE, V585, P268, DOI [10.1038/s41586-020-2324-7, 10.1101/2020.03.21.001628]
+   Muus C, 2021, NAT MED, V27, P546, DOI 10.1038/s41591-020-01227-z
+   Mykytyn AZ, 2021, ELIFE, V10, DOI 10.7554/eLife.64508
+   Netea MG, 2020, CELL, V181, P969, DOI 10.1016/j.cell.2020.04.042
+   Niemi MEK, 2021, NATURE, V600, P472, DOI 10.1038/s41586-021-03767-x
+   O'Driscoll M, 2020, NATURE, DOI 10.1038/s41586-020-2918-0
+   Ogando NS, 2020, J GEN VIROL, V101, P925, DOI 10.1099/jgv.0.001453
+   Osterrieder N, 2020, VIRUSES-BASEL, V12, DOI 10.3390/v12070779
+   Ouwendijk WJD, 2021, J INFECT DIS, V223, P1512, DOI 10.1093/infdis/jiab050
+   Owens AP, 2010, THROMB HAEMOSTASIS, V104, P432, DOI 10.1160/TH09-11-0771
+   Page G, 2013, INT IMMUNOPHARMACOL, V17, P1176, DOI 10.1016/j.intimp.2013.06.004
+   Pairo-Castineira E, 2021, NATURE, V591, P92, DOI 10.1038/s41586-020-03065-y
+   Parasa S, 2020, JAMA NETW OPEN, V3, DOI 10.1001/jamanetworkopen.2020.11335
+   Peiris JSM, 2003, LANCET, V361, P1319, DOI 10.1016/S0140-6736(03)13077-2
+   Petersen E, 2020, LANCET INFECT DIS, V20, pE238, DOI 10.1016/S1473-3099(20)30484-9
+   Pfizer, 2021, PFIZERS NOVEL
+   Puelles VG, 2020, NEW ENGL J MED, V383, P590, DOI [10.1056/NEJMc2013400, 10.1056/NEJMc2011400]
+   Qian XY, 2017, DEVELOPMENT, V144, P952, DOI 10.1242/dev.140707
+   Qin C, 2020, CLIN INFECT DIS, V71, P762, DOI 10.1093/cid/ciaa248
+   Raj VS, 2013, NATURE, V495, P251, DOI 10.1038/nature12005
+   Ramakrishnan S, 2021, LANCET RESP MED, V9, P763, DOI 10.1016/S2213-2600(21)00160-0
+   RANE CK, 2019, AM J PHYSIOL-LUNG C, V316
+   Ranieri VM, 2012, JAMA-J AM MED ASSOC, V307, P2526, DOI 10.1001/jama.2012.5669
+   Rebendenne A., 2021, BIDIRECTIONAL GENOME, DOI 10.1101/2021.05.19.444823
+   Redondo N, 2021, FRONT IMMUNOL, V12, DOI 10.3389/fimmu.2021.708264
+   Rendeiro AF, 2021, NATURE, V593, P564, DOI 10.1038/s41586-021-03475-6
+   Rentsch CT, 2021, BMJ-BRIT MED J, V372, DOI 10.1136/bmj.n311
+   Richard M, 2020, NAT COMMUN, V11, DOI 10.1038/s41467-020-17367-2
+   Robinot R, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-021-24521-x
+   Rockx B, 2020, SCIENCE, V368, P1012, DOI 10.1126/science.abb7314
+   Sachs N, 2019, EMBO J, V38, DOI 10.15252/embj.2018100300
+   Salahudeen AA, 2020, NATURE, V588, P670, DOI 10.1038/s41586-020-3014-1
+   Sampaio NG, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-92940-3
+   Sang YQ, 2021, BLOOD REV, V46, DOI 10.1016/j.blre.2020.100733
+   Sariol A, 2021, NAT IMMUNOL, V22, P801, DOI 10.1038/s41590-021-00962-w
+   Schulte-Schrepping J, 2020, CELL, V182, P1419, DOI 10.1016/j.cell.2020.08.001
+   Sebag SC, 2011, CURR PHARM BIOTECHNO, V12, P1481
+   Sims AC, 2005, J VIROL, V79, P15511, DOI 10.1128/JVI.79.24.15511-15524.2005
+   Skendros P, 2020, J CLIN INVEST, V130, P6151, DOI 10.1172/JCI141374
+   Smits SL, 2010, PLOS PATHOG, V6, DOI 10.1371/journal.ppat.1000756
+   Sterne JAC, 2020, JAMA-J AM MED ASSOC, V324, P1330, DOI 10.1001/jama.2020.17023
+   Strunz M, 2020, NAT COMMUN, V11, DOI 10.1038/s41467-020-17358-3
+   Swiecki M, 2010, IMMUNOL REV, V234, P142, DOI 10.1111/j.0105-2896.2009.00881.x
+   Swieringa F, 2018, RES PRACT THROMB HAE, V2, P450, DOI 10.1002/rth2.12107
+   Tang N, 2020, J THROMB HAEMOST, V18, P844, DOI 10.1111/jth.14768
+   Totura AL, 2012, CURR OPIN VIROL, V2, P264, DOI 10.1016/j.coviro.2012.04.004
+   Trimpert J, 2020, CELL REP, V33, DOI 10.1016/j.celrep.2020.108488
+   Tsang TK, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-021-26709-7
+   Tsukui T, 2020, NAT COMMUN, V11, DOI 10.1038/s41467-020-15647-5
+   V'kovski P, 2021, NAT REV MICROBIOL, V19, P155, DOI 10.1038/s41579-020-00468-6
+   van den Brand JMA, 2015, J PATHOL, V235, P175, DOI 10.1002/path.4458
+   van der Vaart J, 2021, DIS MODEL MECH, V14, DOI 10.1242/dmm.049060
+   Vanderheiden A, 2021, MBIO, V12, DOI 10.1128/mBio.02749-21
+   Varga Z, 2020, LANCET, V395, P1417, DOI 10.1016/S0140-6736(20)30937-5
+   Vaughan AE, 2015, NATURE, V517, P621, DOI 10.1038/nature14112
+   Venet F, 2021, ANN NY ACAD SCI, V1499, P3, DOI 10.1111/nyas.14333
+   Venet M., 2021, SARS COV 2 INFECT CE, DOI 10.1101/2021.09.01.21262969
+   Vora SM, 2021, NAT REV IMMUNOL, V21, P694, DOI 10.1038/s41577-021-00588-x
+   Wan YS, 2020, J VIROL, V94, DOI 10.1128/JVI.02015-19
+   Wang DW, 2020, J COASTAL RES, P1, DOI 10.2112/JCR-SI109-001.1
+   Wang R, 2021, CELL, V184, P106, DOI 10.1016/j.cell.2020.12.004
+   Wang WL, 2020, JAMA-J AM MED ASSOC, V323, P1843, DOI 10.1001/jama.2020.3786
+   Wei J, 2021, CELL, V184, P76, DOI 10.1016/j.cell.2020.10.028
+   Weinreich DM, 2021, NEW ENGL J MED, V385, DOI 10.1056/NEJMoa2108163
+   Wendisch D, 2021, CELL, V184, P6243, DOI 10.1016/j.cell.2021.11.033
+   Wiersinga WJ, 2020, JAMA-J AM MED ASSOC, V324, P782, DOI 10.1001/jama.2020.12839
+   Wilk AJ, 2020, NAT MED, V26, P1070, DOI [10.1038/s41591-020-0944-y, 10.1101/2020.04.17.20069930]
+   Williamson EJ., 2020, NATURE, V584, P430, DOI [10.1101/2020.05.06.20092999, DOI 10.1101/2020.05.06.20092999]
+   Wong LYR, 2022, NAT REV IMMUNOL, V22, P47, DOI 10.1038/s41577-021-00656-2
+   Woolsey C, 2021, NAT IMMUNOL, V22, P86, DOI 10.1038/s41590-020-00835-8
+   World Health Organization, 2003, CONS DOC EP SEV AC R
+   Wu J, 2021, CELL REP, V34, DOI 10.1016/j.celrep.2021.108761
+   Wu P, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-021-24482-1
+   Xie XP, 2021, NAT MED, V27, DOI [10.1038/s41591-021-01270-4, 10.1101/2021.01.27.427998]
+   Yin X, 2021, CELL REP, V34, DOI 10.1016/j.celrep.2020.108628
+   Youk J, 2020, CELL STEM CELL, V27, P905, DOI 10.1016/j.stem.2020.10.004
+   Zaki AM, 2012, NEW ENGL J MED, V367, P1814, DOI 10.1056/NEJMoa1211721
+   Zhang JH, 2021, CELL MOL IMMUNOL, V18, P1305, DOI 10.1038/s41423-021-00665-0
+   Zhang Q, 2020, SCIENCE, V370, DOI 10.1126/science.abd4570
+   Zhang Z, 2017, P NATL ACAD SCI USA, V114, P3903, DOI 10.1073/pnas.1621177114
+   Zheng J, 2021, J INFECT DIS, V223, P785, DOI 10.1093/infdis/jiaa753
+   Zhou F, 2020, LANCET, V395, P1054, DOI 10.1016/S0140-6736(20)30566-3
+   Zhou J, 2020, NAT MED, V26, P1077, DOI 10.1038/s41591-020-0912-6
+   Zhou J, 2018, P NATL ACAD SCI USA, V115, P6822, DOI 10.1073/pnas.1806308115
+   Zhou P, 2020, NATURE, V579, P270, DOI [10.1038/s41586-020-2012-7, 10.1038/s41586-020-2951-z]
+   Zhu N, 2020, NEW ENGL J MED, V382, P727, DOI 10.1056/NEJMoa2001017
+   Ziegler Carly G K, 2021, bioRxiv, DOI [10.1016/j.cell.2021.07.023, 10.1101/2021.02.20.431155]
+   Zuo Yu, 2020, medRxiv, DOI 10.1101/2020.08.29.20184358
+NR 231
+TC 161
+Z9 163
+U1 40
+U2 114
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 1740-1526
+EI 1740-1534
+J9 NAT REV MICROBIOL
+JI Nat. Rev. Microbiol.
+PD MAY
+PY 2022
+VL 20
+IS 5
+BP 270
+EP 284
+DI 10.1038/s41579-022-00713-0
+EA MAR 2022
+PG 15
+WC Microbiology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Microbiology
+GA 0N1LD
+UT WOS:000775742300001
+PM 35354968
+OA Bronze
+DA 2023-08-21
+ER
+
+PT J
+AU Herold, S
+   Becker, C
+   Ridge, KM
+   Budinger, GRS
+AF Herold, Susanne
+   Becker, Christin
+   Ridge, Karen M.
+   Budinger, G. R. Scott
+TI Influenza virus-induced lung injury: pathogenesis and implications for
+   treatment
+SO EUROPEAN RESPIRATORY JOURNAL
+LA English
+DT Article
+ID N-LINKED GLYCOSYLATION; RECEPTOR-BINDING SPECIFICITY; ALVEOLAR
+   EPITHELIAL-CELLS; COLONY-STIMULATING FACTOR; AIRWAY STEM-CELLS; A VIRUS;
+   PANDEMIC INFLUENZA; DENDRITIC CELLS; T-CELLS; NEURAMINIDASE INHIBITORS
+AB The influenza viruses are some of the Most important human pathogens, causing substantial seasonal and pandemic morbidity and mortality. In humans, infection of the lower respiratory tract of can result in flooding of the alveolar compartment, development of acute respiratory distress syndrome and death from respiratory failure. Influenza-mediated damage of the airway, alveolar epithelium and alveolar endothelium results from a combination of: 1) intrinsic viral pathogenicity, attributable to its tropism for host airway and alveolar epithelial cells; and 2) a robust host innate immune response, which, while contributing to viral clearance, can worsen the severity of lung injury. In this review, we summarise the molecular events at the virus host interface during influenza virus infection, highlighting some of the important cellular responses. We discuss immune-mediated viral clearance, the mechanisms promoting or perpetuating lung injury, lung regeneration after influenza-induced injury, and recent advances in influenza prevention and therapy.
+C1 [Herold, Susanne; Becker, Christin] Univ Giessen, Univ Giessen & Marburg Lung Ctr, Dept Internal Med 2, D-35390 Giessen, Germany.
+   [Ridge, Karen M.; Budinger, G. R. Scott] Northwestern Univ, Pulm & Crit Care Med, Chicago, IL 60611, United States.
+C3 Justus Liebig University Giessen; Northwestern University
+RP Herold, S (corresponding author), Univ Giessen & Marburg Lung Ctr, Dept Internal Med 2, Klin Str 33, D-35392 Giessen, Germany.
+EM susanne.herold@innere.med.uni-giessen.de
+OI Peteranderl, Christin/0000-0003-3799-8268; Herold,
+   Susanne/0000-0001-6343-0911
+FU NHLBI NIH HHS [R01 HL124664, P01 HL071643] Funding Source: Medline
+CR Abe Y, 2004, J VIROL, V78, P9605, DOI 10.1128/JVI.78.18.9605-9611.2004
+   Aldridge JR, 2009, P NATL ACAD SCI USA, V106, P5306, DOI 10.1073/pnas.0900655106
+   Anikina AG, 2014, B EXP BIOL MED+, V156, P833, DOI 10.1007/s10517-014-2463-7
+   [Anonymous], 2014, Wkly Epidemiol Rec, V89, P93
+   Antunes I, 2010, J VIROL, V84, P12564, DOI 10.1128/JVI.01559-10
+   Aujla SJ, 2008, NAT MED, V14, P275, DOI 10.1038/nm1710
+   Bautista E, 2010, NEW ENGL J MED, V362, P1708, DOI 10.1056/NEJMra1000449
+   Bedford T, 2010, PLOS PATHOG, V6, DOI 10.1371/journal.ppat.1000918
+   Belser JA, 2007, J INFECT DIS, V196, P1493, DOI 10.1086/522609
+   Belshe RB, 2009, NEW ENGL J MED, V360, P2667, DOI 10.1056/NEJMe0903995
+   Bergmann M, 2000, J VIROL, V74, P6203, DOI 10.1128/JVI.74.13.6203-6206.2000
+   Berri F, 2013, PLOS PATHOG, V9, DOI 10.1371/journal.ppat.1003229
+   Beyleveld G, 2013, ANTIVIR RES, V100, P120, DOI 10.1016/j.antiviral.2013.07.018
+   Blackburne BP, 2008, PLOS PATHOG, V4, DOI 10.1371/journal.ppat.1000058
+   Bottcher E, 2006, J VIROL, V80, P9896, DOI 10.1128/JVI.01118-06
+   Braciale TJ, 2012, NAT REV IMMUNOL, V12, P295, DOI 10.1038/nri3166
+   Bradel-Tretheway BG, 2011, J VIROL, V85, P8569, DOI 10.1128/JVI.00496-11
+   Brandes M, 2013, CELL, V154, P197, DOI 10.1016/j.cell.2013.06.013
+   Bright RA, 2006, JAMA-J AM MED ASSOC, V295, P891, DOI 10.1001/jama.295.8.joc60020
+   Brincks EL, 2008, J IMMUNOL, V181, P4918, DOI 10.4049/jimmunol.181.7.4918
+   Cakarova L, 2009, AM J RESP CRIT CARE, V180, P521, DOI 10.1164/rccm.200812-1837OC
+   Cameron CM, 2008, J VIROL, V82, P11308, DOI 10.1128/JVI.00691-08
+   Cao B, 2009, NEW ENGL J MED, V361, P2507, DOI 10.1056/NEJMoa0906612
+   Capelozzi VL, 2010, CLINICS, V65, P1229, DOI 10.1590/S1807-59322010001200003
+   Carlson CM, 2010, PLOS PATHOG, V6, DOI 10.1371/journal.ppat.1001136
+   Childs RA, 2009, NAT BIOTECHNOL, V27, P797, DOI 10.1038/nbt0909-797
+   Chutinimitkul S, 2010, J VIROL, V84, P11802, DOI 10.1128/JVI.01136-10
+   Monsalvo AC, 2011, NAT MED, V17, P195, DOI 10.1038/nm.2262
+   Cortes Garcia M, 2012, J INFECTION, V64, P218
+   Cox NJ, 2000, ANNU REV MED, V51, P407, DOI 10.1146/annurev.med.51.1.407
+   Croft M, 2009, NAT REV IMMUNOL, V9, P271, DOI 10.1038/nri2526
+   Davidson S, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms4864
+   Dawson TC, 2000, AM J PATHOL, V156, P1951, DOI 10.1016/S0002-9440(10)65068-7
+   De Clercq E, 2007, BIOCHEM PHARMACOL, V73, P911, DOI 10.1016/j.bcp.2006.09.014
+   Desai TJ, 2014, NATURE, V507, P190, DOI 10.1038/nature12930
+   Desch AN, 2011, J EXP MED, V208, P1789, DOI 10.1084/jem.20110538
+   Droebner K, 2011, ANTIVIR RES, V92, P195, DOI 10.1016/j.antiviral.2011.08.002
+   Durbin RK, 2013, IMMUNOL REV, V255, P25, DOI 10.1111/imr.12101
+   Enserink M, 2005, SCIENCE, V309, P1976
+   Estenssoro E, 2010, AM J RESP CRIT CARE, V182, P41, DOI [10.1164/201001-0037OC, 10.1164/rccm.201001-0037OC]
+   Everitt AR, 2012, NATURE, V484, P519, DOI 10.1038/nature10921
+   Fiore Anthony E., 2011, Morbidity and Mortality Weekly Report, V60, P1
+   Furuta Y, 2013, ANTIVIR RES, V100, P446, DOI 10.1016/j.antiviral.2013.09.015
+   Gack MU, 2009, CELL HOST MICROBE, V5, P439, DOI 10.1016/j.chom.2009.04.006
+   Gannage M, 2009, CELL HOST MICROBE, V6, P367, DOI 10.1016/j.chom.2009.09.005
+   Gao RB, 2013, NEW ENGL J MED, V368, P1888, DOI 10.1056/NEJMoa1304459
+   GeurtsvanKessel CH, 2008, J EXP MED, V205, P1621, DOI 10.1084/jem.20071365
+   Ghoneim HE, 2013, J IMMUNOL, V191, P1250, DOI 10.4049/jimmunol.1300014
+   Ghosh S, 2011, AM J RESP CELL MOL, V45, P1036, DOI 10.1165/rcmb.2010-0349OC
+   Glezen WP, 2013, AM J PUBLIC HEALTH, V103, pE43, DOI 10.2105/AJPH.2012.301137
+   Grohskopf LA, 2014, MMWR-MORBID MORTAL W, V63, P691
+   Guo HL, 2010, J VIROL, V84, P7750, DOI 10.1128/JVI.00187-10
+   Hashimoto Y, 2007, J IMMUNOL, V178, P2448, DOI 10.4049/jimmunol.178.4.2448
+   Hatesuer B, 2013, PLOS PATHOG, V9, DOI 10.1371/journal.ppat.1003774
+   Helft J, 2012, J CLIN INVEST, V122, P4037, DOI 10.1172/JCI60659
+   Herold S, 2014, AM J RESP CRIT CARE, V189, P609, DOI 10.1164/rccm.201311-2041LE
+   Herold S, 2011, FRONT IMMUNOL, V2, DOI 10.3389/fimmu.2011.00065
+   Herold S, 2011, AM J RESP CRIT CARE, V183, P1380, DOI 10.1164/rccm.201009-1431OC
+   Herold S, 2008, J EXP MED, V205, P3065, DOI 10.1084/jem.20080201
+   Hillaire MLB, 2013, J INNATE IMMUN, V5, P197, DOI 10.1159/000346374
+   Hogner K, 2013, PLOS PATHOG, V9, DOI 10.1371/journal.ppat.1003188
+   Hogan BLM, 2014, CELL STEM CELL, V15, P123, DOI 10.1016/j.stem.2014.07.012
+   Huang FM, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms4595
+   Hufford MM, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0046581
+   Hufford MM, 2011, J EXP MED, V208, P167, DOI 10.1084/jem.20101850
+   Hui DSC, 2013, INFLUENZA OTHER RESP, V7, P52, DOI 10.1111/irv.12171
+   Ichikawa A, 2013, AM J RESP CRIT CARE, V187, P65, DOI 10.1164/rccm.201203-0508OC
+   Ichinohe T, 2013, P NATL ACAD SCI USA, V110, P17963, DOI 10.1073/pnas.1312571110
+   Ichinohe T, 2011, P NATL ACAD SCI USA, V108, P5354, DOI 10.1073/pnas.1019378108
+   Igarashi M, 2008, VIROLOGY, V376, P323, DOI 10.1016/j.virol.2008.03.036
+   Imai Y, 2005, NATURE, V436, P112, DOI 10.1038/nature03712
+   Imai Y, 2008, CELL, V133, P235, DOI 10.1016/j.cell.2008.02.043
+   Ivanov S, 2013, J VIROL, V87, P6911, DOI 10.1128/JVI.02943-12
+   Iwasaki A, 2014, NAT REV IMMUNOL, V14, P315, DOI 10.1038/nri3665
+   Jain S, 2009, NEW ENGL J MED, V361, P1935, DOI 10.1056/NEJMoa0906695
+   Jamieson AM, 2013, SCIENCE, V340, P1230, DOI 10.1126/science.1233632
+   Janssen WJ, 2011, AM J RESP CRIT CARE, V184, P547, DOI 10.1164/rccm.201011-1891OC
+   Jefferson T, 2012, COCHRANE DB SYST REV, DOI [10.1002/14651858.CD008965.pub4, 10.1002/14651858.CD008965.pub3]
+   Jefferson T, 2009, BMJ-BRIT MED J, V339, DOI 10.1136/bmj.b5106
+   Jia DL, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0013927
+   Karlstrom A, 2009, J INFECT DIS, V199, P311, DOI 10.1086/596051
+   Karupiah G, 1998, J EXP MED, V188, P1541, DOI 10.1084/jem.188.8.1541
+   KAWAOKA Y, 1989, J VIROL, V63, P4603, DOI 10.1128/JVI.63.11.4603-4608.1989
+   Khoufache K, 2013, J CLIN INVEST, V123, P206, DOI 10.1172/JCI61667
+   Kim HM, 2008, J VIROL, V82, P4265, DOI 10.1128/JVI.02602-07
+   Kim TS, 2014, IMMUNITY, V40, P400, DOI 10.1016/j.immuni.2014.02.004
+   Kim TS, 2011, TRENDS IMMUNOL, V32, P225, DOI 10.1016/j.it.2011.02.006
+   Kim TS, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0004204
+   Kobasa D, 2004, NATURE, V431, P703, DOI 10.1038/nature02951
+   Kohlmeier JE, 2010, IMMUNITY, V33, P96, DOI 10.1016/j.immuni.2010.06.016
+   Korteweg C, 2008, AM J PATHOL, V172, P1155, DOI 10.2353/ajpath.2008.070791
+   Kourtis AP, 2014, NEW ENGL J MED, V371, P1077, DOI [10.1056/NEJMra1213566, 10.1056/NEJMc1408436]
+   Kuiken T, 2008, VACCINE, V26, pD59, DOI 10.1016/j.vaccine.2008.07.025
+   Kumagai Y, 2007, IMMUNITY, V27, P240, DOI 10.1016/j.immuni.2007.07.013
+   Kumar PA, 2011, CELL, V147, P525, DOI 10.1016/j.cell.2011.10.001
+   Lackenby A, 2008, CURR OPIN INFECT DIS, V21, P626, DOI 10.1097/QCO.0b013e3283199797
+   Lazrak A, 2009, FASEB J, V23, P3829, DOI 10.1096/fj.09-135590
+   Leeman KT, 2014, CURR TOP DEV BIOL, V107, P207, DOI 10.1016/B978-0-12-416022-4.00008-1
+   Li Q, 2014, NEW ENGL J MED, V370, P520, DOI 10.1056/NEJMoa1304617
+   Li SD, 2006, VIROLOGY, V349, P13, DOI 10.1016/j.virol.2006.01.005
+   Libster R, 2010, NEW ENGL J MED, V362, P45, DOI 10.1056/NEJMoa0907673
+   Lin KL, 2008, J IMMUNOL, V180, P2562, DOI 10.4049/jimmunol.180.4.2562
+   Lin KL, 2011, J IMMUNOL, V186, P508, DOI 10.4049/jimmunol.1001002
+   Liu Y, 2010, J VIROL, V84, P12069, DOI 10.1128/JVI.01639-10
+   Ljungman P, 2011, HAEMATOL-HEMATOL J, V96, P1231, DOI 10.3324/haematol.2011.041913
+   Londino JD, 2013, AM J PHYSIOL-LUNG C, V304, pL582, DOI 10.1152/ajplung.00314.2012
+   Louie JK, 2012, CLIN INFECT DIS, V55, P1198, DOI 10.1093/cid/cis636
+   Ludwig S, 2014, INT J MED MICROBIOL, V304, P894, DOI 10.1016/j.ijmm.2014.08.016
+   Ludwig S, 2009, J ANTIMICROB CHEMOTH, V64, P1, DOI 10.1093/jac/dkp161
+   Madhi SA, 2014, NEW ENGL J MED, V371, P918, DOI [10.1056/NEJMoa1401480, 10.1056/NEJMc1412050]
+   Maelfait J, 2012, PLOS PATHOG, V8, DOI 10.1371/journal.ppat.1002570
+   Maines TR, 2009, SCIENCE, V325, P484, DOI 10.1126/science.1177238
+   Martin Thomas R, 2005, Proc Am Thorac Soc, V2, P214, DOI 10.1513/pats.200504-031AC
+   MASON RJ, 1994, AM J RESP CELL MOL, V11, P561, DOI 10.1165/ajrcmb.11.5.7524567
+   Mazur I, 2007, CELL MICROBIOL, V9, P1683, DOI 10.1111/j.1462-5822.2007.00902.x
+   McAuley JL, 2010, PLOS PATHOG, V6, DOI 10.1371/journal.ppat.1001014
+   McGill J, 2008, J EXP MED, V205, P1635, DOI 10.1084/jem.20080314
+   McGill J, 2010, J EXP MED, V207, P521, DOI 10.1084/jem.20091711
+   Miller MA, 2009, NEW ENGL J MED, V360, P2595, DOI 10.1056/NEJMp0903906
+   Mock JR, 2014, MUCOSAL IMMUNOL, V7, P1440, DOI 10.1038/mi.2014.33
+   Monticelli LA, 2011, NAT IMMUNOL, V12, P1045, DOI [10.1038/ni.2131, 10.1031/ni.2131]
+   Morens DM, 2008, J INFECT DIS, V198, P962, DOI 10.1086/591708
+   Morens DM, 2012, NATURE, V486, P335, DOI 10.1038/nature11170
+   Morgan OW, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009694
+   Morita M, 2013, CELL, V153, P112, DOI 10.1016/j.cell.2013.02.027
+   Moscona A, 2005, NEW ENGL J MED, V353, P1363, DOI 10.1056/NEJMra050740
+   Moser EK, 2014, PLOS PATHOG, V10, DOI 10.1371/journal.ppat.1004315
+   Moss RB, 2012, J INFECT DIS, V206, P1844, DOI 10.1093/infdis/jis622
+   Narasaraju T, 2010, AM J RESP CELL MOL, V42, P732, DOI 10.1165/rcmb.2008-0423OC
+   Ortiz JR, 2013, AM J RESP CRIT CARE, V188, P710, DOI 10.1164/rccm.201212-2341OC
+   Pauli EK, 2008, PLOS PATHOG, V4, DOI 10.1371/journal.ppat.1000196
+   Pinto LH, 2007, MOL BIOSYST, V3, P18, DOI 10.1039/b611613m
+   Pinto LH, 2006, J BIOL CHEM, V281, P8997, DOI 10.1074/jbc.R500020200
+   Pociask DA, 2013, AM J PATHOL, V182, P1286, DOI 10.1016/j.ajpath.2012.12.007
+   Pothlichet J, 2013, PLOS PATHOG, V9, DOI 10.1371/journal.ppat.1003256
+   Radigan KA, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0035788
+   Rajsbaum R, 2012, PLOS PATHOG, V8, DOI 10.1371/journal.ppat.1003059
+   Rambaut A, 2008, NATURE, V453, P615, DOI 10.1038/nature06945
+   Reading PC, 2007, ADV EXP MED BIOL, V598, P279
+   Riscili BP, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018166
+   Rodrigue-Gervais IG, 2014, CELL HOST MICROBE, V15, P23, DOI 10.1016/j.chom.2013.12.003
+   Rossman JS, 2011, VIROLOGY, V411, P229, DOI 10.1016/j.virol.2010.12.003
+   ROTA PA, 1990, VIROLOGY, V175, P59, DOI 10.1016/0042-6822(90)90186-U
+   Russell CA, 2008, SCIENCE, V320, P340, DOI 10.1126/science.1154137
+   Rust MJ, 2004, NAT STRUCT MOL BIOL, V11, P567, DOI 10.1038/nsmb769
+   Sakai S, 2000, J VIROL, V74, P2472, DOI 10.1128/JVI.74.5.2472-2476.2000
+   Santesso N, 2013, INFLUENZA OTHER RESP, V7, P76, DOI 10.1111/irv.12085
+   Scannell JW, 2012, NAT REV DRUG DISCOV, V11, P191, DOI 10.1038/nrd3681
+   SCHOLTISSEK C, 1978, VIROLOGY, V87, P13, DOI 10.1016/0042-6822(78)90153-8
+   Shahangian A, 2009, J CLIN INVEST, V119, P1910, DOI 10.1172/JCI35412
+   Shinya K, 2006, NATURE, V440, P435, DOI 10.1038/440435a
+   Shirey KA, 2013, NATURE, V497, P498, DOI 10.1038/nature12118
+   Short KR, 2014, LANCET INFECT DIS, V14, P57, DOI 10.1016/S1473-3099(13)70286-X
+   Shrestha SS, 2011, CLIN INFECT DIS, V52, pS75, DOI 10.1093/cid/ciq012
+   Shultz LD, 2012, NAT REV IMMUNOL, V12, P786, DOI 10.1038/nri3311
+   Sica A, 2012, J CLIN INVEST, V122, P787, DOI 10.1172/JCI59643
+   Snelgrove RJ, 2008, NAT IMMUNOL, V9, P1074, DOI 10.1038/ni.1637
+   Sonnenberg GF, 2011, NAT IMMUNOL, V12, P383, DOI 10.1038/ni.2025
+   Sonnenberg GF, 2010, J EXP MED, V207, P1293, DOI 10.1084/jem.20092054
+   Sridhar S, 2013, NAT MED, V19, P1305, DOI 10.1038/nm.3350
+   Sturrock A, 2012, AM J PHYSIOL-LUNG C, V302, pL343, DOI 10.1152/ajplung.00276.2011
+   Sun J, 2013, CURR OPIN VIROL, V3, P425, DOI 10.1016/j.coviro.2013.05.001
+   Sun J, 2009, NAT MED, V15, P277, DOI 10.1038/nm.1929
+   Sun K, 2008, NAT MED, V14, P558, DOI 10.1038/nm1765
+   Sun SS, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0022844
+   Szretter KJ, 2007, J VIROL, V81, P2736, DOI 10.1128/JVI.02336-06
+   Tarnow C, 2014, J VIROL, V88, P4744, DOI 10.1128/JVI.03799-13
+   Tate MD, 2014, VIRUSES-BASEL, V6, P1294, DOI 10.3390/v6031294
+   Tate MD, 2011, J IMMUNOL, V187, P1884, DOI 10.4049/jimmunol.1100295
+   Tate MD, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0017618
+   Taubenberger J, 2006, P AM PHILOS SOC, V150, P1
+   Taubenberger JK, 2005, NATURE, V437, P889, DOI 10.1038/nature04230
+   Teijaro JR, 2014, P NATL ACAD SCI USA, V111, P3799, DOI 10.1073/pnas.1400593111
+   Teijaro JR, 2011, CELL, V146, P980, DOI 10.1016/j.cell.2011.08.015
+   Thomas PG, 2009, IMMUNITY, V30, P566, DOI 10.1016/j.immuni.2009.02.006
+   Thompson M. G., 2010, Morbidity and Mortality Weekly Report, V59, P1057
+   Thorlund K, 2011, BMC INFECT DIS, V11, DOI 10.1186/1471-2334-11-134
+   Topham DJ, 1997, J IMMUNOL, V159, P5197
+   Truwit JD, 2014, NEW ENGL J MED, V370, P2191, DOI 10.1056/NEJMoa1401520
+   Tsai SY, 2014, PLOS PATHOG, V10, DOI 10.1371/journal.ppat.1003848
+   Tumpey TM, 2007, SCIENCE, V315, P655, DOI 10.1126/science.1136212
+   Tumpey TM, 2005, J VIROL, V79, P14933, DOI 10.1128/JVI.79.23.14933-14944.2005
+   Uhlendorff J, 2009, ARCH VIROL, V154, P945, DOI 10.1007/s00705-009-0393-x
+   Unkel B, 2012, J CLIN INVEST, V122, P3652, DOI 10.1172/JCI62139
+   Uyeki TM, 2014, NEW ENGL J MED, V370, P789, DOI 10.1056/NEJMp1400034
+   van Riel D, 2007, AM J PATHOL, V171, P1215, DOI 10.2353/ajpath.2007.070248
+   van Riel D, 2010, AM J PATHOL, V176, P1614, DOI 10.2353/ajpath.2010.090949
+   Ventetuolo CE, 2014, AM J RESP CRIT CARE, V190, P497, DOI 10.1164/rccm.201404-0736CI
+   Vigerust DJ, 2007, J VIROL, V81, P8593, DOI 10.1128/JVI.00769-07
+   Waffarn EE, 2011, J IMMUNOL, V186, P3823, DOI 10.4049/jimmunol.1002090
+   Wang J, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms3106
+   Wang JR, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0029879
+   Wang XY, 2000, J VIROL, V74, P11566, DOI 10.1128/JVI.74.24.11566-11573.2000
+   Worobey M, 2014, NATURE, V508, P254, DOI 10.1038/nature13016
+   Yang ZY, 2007, SCIENCE, V317, P825, DOI 10.1126/science.1135165
+   Yoshizumi T, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms5713
+   Zamarin Dmitriy, 2005, PLoS Pathogens, V1, P40
+   Zhang W, 2013, J VIROL, V87, P5949, DOI 10.1128/JVI.00545-13
+   Zou Z, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms4594
+   Zuo W, 2015, NATURE, V517, P616, DOI 10.1038/nature13903
+NR 200
+TC 262
+Z9 271
+U1 9
+U2 61
+PU EUROPEAN RESPIRATORY SOC JOURNALS LTD
+PI SHEFFIELD
+PA 442 GLOSSOP RD, SHEFFIELD S10 2PX, ENGLAND
+SN 0903-1936
+EI 1399-3003
+J9 EUR RESPIR J
+JI Eur. Resp. J.
+PD MAY
+PY 2015
+VL 45
+IS 5
+BP 1463
+EP 1478
+DI 10.1183/09031936.00186214
+PG 16
+WC Respiratory System
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Respiratory System
+GA CH6KI
+UT WOS:000354145100030
+PM 25792631
+OA Bronze
+DA 2023-08-21
+ER
+
+PT J
+AU Otifi, HM
+   Adiga, BK
+AF Otifi, Hassan M.
+   Adiga, Balkur K.
+TI Endothelial Dysfunction in Covid-19 Infection
+SO AMERICAN JOURNAL OF THE MEDICAL SCIENCES
+LA English
+DT Review
+DE COVID-19/SARS-CoV-2/Coronavirus; endothelial dysfunction; ACE/ACE2; NO; endotheliitis; Hypercoagulopathy 
+ID CORONAVIRUS DISEASE 2019; BARRIER DYSFUNCTION; PNEUMONIA; SYSTEM; CELLS
+AB COVID-19 is an evolving systemic inflammatory pandemic disease, predominantly affecting the respiratory system. Associated cardiovascular comorbid conditions result in severe to critical illness with mortality up to 14.8 % in octogenarians. The role of endothelial dysfunction in its pathogenesis has been proposed with laboratory and autopsy data, though initially it was thought of as only acute respiratory distress syndrome (ARDS). The current study on endothelial dysfunction in SARS CoV-2 infection highlights its pathophysiology through the effects of direct viral-induced endothelial injury, uncontrolled immune & inflammatory response, imbalanced coagulation homeostasis, and their interactions resulting in a vicious cycle aggravating the disease process. This review may provide further light on proper laboratory tests and therapeutic implications needed for better management of patients. The main objective of the study is to understand the pathophysiology of COVID-19 with respect to the role of endothelium so that more additional relevant treatment may be incorporated in the management protocol.
+C1 [Otifi, Hassan M.; Adiga, Balkur K.] King Khalid Univ, Coll Med, Dept Pathol, POB 641, Abha, Saudi Arabia.
+C3 King Khalid University
+RP Otifi, HM (corresponding author), King Khalid Univ, Coll Med, Dept Pathol, POB 641, Abha, Saudi Arabia.
+EM hotifi@kku.edu.sa
+RI Otifi, Hassan M/GOV-7065-2022
+OI Otifi, Hassan M/0000-0002-1735-6041
+FU King Khalid University, Abha, Saudi Arabia [GRP-218-40]
+FX This work was supported by the Deanship of Scientific Research at King
+   Khalid University, Abha, Saudi Arabia, through the General Research
+   Project under grant number (GRP-218-40).
+CR Ackermann M, 2020, NEW ENGL J MED, V383, P120, DOI 10.1056/NEJMoa2015432
+   Aimes RT, 2003, THROMB HAEMOSTASIS, V89, P561, DOI 10.1055/s-0037-1613388
+   Bansal M, 2020, DIABETES METAB SYND, V14, P247, DOI 10.1016/j.dsx.2020.03.013
+   Bonaventura A, 2021, NAT REV IMMUNOL, V21, P319, DOI 10.1038/s41577-021-00536-9
+   Boudhabhay I, 2021, FRONT IMMUNOL, V12, DOI 10.3389/fimmu.2021.680567
+   Buja LM, 2020, CARDIOVASC PATHOL, V48, DOI 10.1016/j.carpath.2020.107233
+   Calabretta E, 2021, BRIT J HAEMATOL, V193, P43, DOI 10.1111/bjh.17240
+   Carsana L, 2020, LANCET INFECT DIS, V20, P1135, DOI 10.1016/S1473-3099(20)30434-5
+   Chakrabarti S., 2016, FOOD SCI HUM WELL, V5, P1, DOI [10.1016/j.fshw.2015.11.004, DOI 10.1016/J.FSHW.2015.11.004]
+   Chen G, 2020, J CLIN INVEST, V130, P2620, DOI 10.1172/JCI137244
+   Chen NS, 2020, LANCET, V395, P507, DOI 10.1016/S0140-6736(20)30211-7
+   Cheng H, 2020, J MED VIROL, V92, P726, DOI 10.1002/jmv.25785
+   Clerkin KJ, 2020, CIRCULATION, V141, P1648, DOI 10.1161/CIRCULATIONAHA.120.046941
+   Copin MC, 2020, INTENS CARE MED, V46, P1124, DOI 10.1007/s00134-020-06057-8
+   Deanfield JE, 2007, CIRCULATION, V115, P1285, DOI 10.1161/CIRCULATIONAHA.106.652859
+   Desai TR, 2002, J SURG RES, V104, P118, DOI 10.1006/jsre.2002.6415
+   Escher R, 2020, THROMB RES, V190, P62, DOI 10.1016/j.thromres.2020.04.014
+   Esper RJ, 2006, CARDIOVASC DIABETOL, V5, DOI 10.1186/1475-2840-5-4
+   Fogarty H, 2020, BRIT J HAEMATOL, V189, P1044, DOI [10.1111/bjh.16749, 10.1111/bjh.16791]
+   Fu YJ, 2020, VIROL SIN, V35, P266, DOI 10.1007/s12250-020-00207-4
+   Gavriilaki E, 2020, CURR HYPERTENS REP, V22, DOI 10.1007/s11906-020-01078-6
+   Gupta MD, 2020, INDIAN HEART J, V72, P1, DOI 10.1016/j.ihj.2020.03.006
+   He HH, 2012, BLOOD, V120, P3152, DOI 10.1182/blood-2012-04-422758
+   Henry BM, 2020, CLIN CHIM ACTA, V507, P167, DOI 10.1016/j.cca.2020.04.027
+   Hu HD, 2021, EUR HEART J, V42, P206, DOI 10.1093/eurheartj/ehaa190
+   Hunter CA, 2015, NAT IMMUNOL, V16, P448, DOI 10.1038/ni.3153
+   Jin YF, 2020, VIRUSES-BASEL, V12, DOI 10.3390/v12040372
+   Keller TT, 2003, CARDIOVASC RES, V60, P40, DOI 10.1016/S0008-6363(03)00354-7
+   Klok FA, 2020, THROMB RES, V191, P145, DOI [10.1016/j.thromres.2020.04.013, 10.1016/j.thromres.2020.04.041]
+   Krieg C, 2010, P NATL ACAD SCI USA, V107, P11906, DOI 10.1073/pnas.1002569107
+   Loomans CJM, 2006, ARTERIOSCL THROM VAS, V26, P1760, DOI 10.1161/01.ATV.0000229243.49320.c9
+   Magro C, 2020, TRANSL RES, V220, P1, DOI 10.1016/j.trsl.2020.04.007
+   Mastaglio S, 2020, CLIN IMMUNOL, V215, DOI 10.1016/j.clim.2020.108450
+   Mastellos DC, 2020, CLIN IMMUNOL, V220, DOI 10.1016/j.clim.2020.108598
+   McGonagle D, 2020, LANCET RHEUMATOL, V2, pE437, DOI 10.1016/S2665-9913(20)30121-1
+   Miranda M, 2016, AM J PHYSIOL-HEART C, V311, pH24, DOI 10.1152/ajpheart.00034.2016
+   N_agele MP, 2020, ATHEROSCLEROSIS
+   Ng N, 2021, J CLIN MED, V10, DOI 10.3390/jcm10102188
+   Onder G, 2020, JAMA-J AM MED ASSOC, V323, P1775, DOI 10.1001/jama.2020.4683
+   Opal SM, 2015, J INTERN MED, V277, P277, DOI 10.1111/joim.12331
+   Organization WH, 2020, COR DIS COVID 19
+   Pober JS, 2017, FRONT IMMUNOL, V8, DOI 10.3389/fimmu.2017.01907
+   Pons S, 2020, CRIT CARE, V24, DOI 10.1186/s13054-020-03062-7
+   Risitano AM, 2020, NAT REV IMMUNOL, V20, P343, DOI 10.1038/s41577-020-0320-7
+   Sardu C, 2020, J CLIN MED, V9, DOI 10.3390/jcm9051417
+   Schaller T, 2020, JAMA-J AM MED ASSOC, V323, P2518, DOI 10.1001/jama.2020.8907
+   SMITH KA, 1988, SCIENCE, V240, P1169, DOI 10.1126/science.3131876
+   Spiezia L, 2020, THROMB HAEMOSTASIS, V120, P998, DOI 10.1055/s-0040-1710018
+   Su H, 2020, KIDNEY INT, V98, P219, DOI 10.1016/j.kint.2020.04.003
+   Tale S, 2020, QJM-INT J MED, V113, P837, DOI 10.1093/qjmed/hcaa255
+   Tang DL, 2020, PLOS PATHOG, V16, DOI 10.1371/journal.ppat.1008536
+   Tang N, 2020, J THROMB HAEMOST, V18, P1094, DOI 10.1111/jth.14817
+   Thompson BT, 2017, NEW ENGL J MED, V377, P562, DOI [10.1056/NEJMra1608077, 10.1056/NEJMc1711824]
+   Valen G, 2001, J AM COLL CARDIOL, V38, P307, DOI 10.1016/S0735-1097(01)01377-8
+   Varga Z, 2020, LANCET, V395, P1417, DOI 10.1016/S0140-6736(20)30937-5
+   Verdecchia P, 2020, EUR J INTERN MED, V76, P14, DOI 10.1016/j.ejim.2020.04.037
+   Wang DW, 2020, JAMA-J AM MED ASSOC, V323, P1061, DOI 10.1001/jama.2020.1585
+   Wang L, 2020, J INFECTION, V80, P639, DOI 10.1016/j.jinf.2020.03.019
+   Wong SW, 2021, ANN ACAD MED SINGAP, V50, P425, DOI 10.47102/annals-acadmedsg.202175
+   World Health Organization, 2022, TRACK SARS COV 2 VAR
+   Xu Z, 2020, LANCET RESP MED, V8, P420, DOI 10.1016/S2213-2600(20)30076-X
+   Zheng YY, 2020, NAT REV CARDIOL, V17, P259, DOI 10.1038/s41569-020-0360-5
+   Zhou BY, 2020, PATHOG DIS, V78, DOI 10.1093/femspd/ftaa026
+NR 63
+TC 36
+Z9 37
+U1 1
+U2 4
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0002-9629
+EI 1538-2990
+J9 AM J MED SCI
+JI Am. J. Med. Sci.
+PD APR
+PY 2022
+VL 363
+IS 4
+BP 281
+EP 287
+PG 7
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC General & Internal Medicine
+GA 2R5IU
+UT WOS:000821146500006
+PM 35093394
+OA Green Published, Bronze
+DA 2023-08-21
+ER
+
+EF
