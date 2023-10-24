@@ -3,7 +3,7 @@ This repository houses the Python code utilized in our recent bibliometric analy
 
 Description of each file:
 1. ``WOS_bibliometric analysis.ipynb`` is the Python file for performing bibliometric analysis. It provides a detailed explanation of the code's usage and process using markdown syntax.
-2. ``WOS_1.txt`` and ``WOS_1.txt`` are the original literature information files exported from the WOS database.
+2. ``WOS_1.txt`` and ``WOS_2.txt`` are the original literature information files exported from the WOS database.
 3. ``replacefile_authorkeywords.csv`` is a synonym replacement table for author keywords.
 4. ``replacefile_authornames.csv`` is a replacement table for author names.
 5. ``replacefile_countrynames.csv`` is a replacement table for country names.
