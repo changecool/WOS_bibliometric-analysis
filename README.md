@@ -1,5 +1,5 @@
 # WOS_bibliometric-analysis
-This repository houses the Python code utilized in our recent bibliometric analysis on the literature of Acute Lung Injury (ALI) and Acute Respiratory Distress Syndrome (ARDS) with a specific focus on endothelial cells (ECs). Our code was designed to efficiently extract pivotal attributes from scientific literature, encompassing data like publication years, authors, affiliated institutions, originating countries, specified research domains, journals, references, and distinct author keywords.
+This repository houses the Python code utilized in our recent bibliometric analysis on the literature of Acute Lung Injury (ALI) and Acute Respiratory Distress Syndrome (ARDS) with a specific focus on endothelial cells (ECs). Our code was designed to efficiently extract pivotal attributes from scientific literature, encompassing data like publication years, authors, affiliated institutions, originating countries, specified research areas, journals, references, and distinct author keywords.
 
 Description of each file:
 1. ``WOS_bibliometric analysis.ipynb`` is the Python file for performing bibliometric analysis. It provides a detailed explanation of the code's usage and process using markdown syntax.
