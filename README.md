@@ -11,6 +11,8 @@ Description of each file:
 7. ``Bubble_fields_data.csv``, ``Bubble_journals_data.csv``, and ``Bubble_keywords_data.csv`` are the raw data tables for creating bubble charts of research areas, journals, and author keywords.
 8. Files like ``Data_Author.csv``, ``Data_Country.csv``, up to ``Data_Research_Area.csv`` are the final result tables from Python's bibliometric data analysis of information such as countries, institutions, authors, research areas, and journals.
 
+**NOTE:** GitHub often experiences issues loading ipynb files. To resolve this, open the link for ``WOS_bibliometric analysis.ipynb`` (e.g., https://github.com/changecool/WOS_bibliometric-analysis/blob/main/WOS_bibliometric%20analysis.ipynb), copy it into the search box of [nbviewer](https://nbviewer.org/), and click the GO button. This will allow online viewing of ``WOS_bibliometric analysis.ipynb``.
+
 Primary analytical functionalities incorporated:
 
 Calculation of cumulative publications.
