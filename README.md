@@ -19,5 +19,5 @@ Description of each file:
 4. ``replacefile_authornames.csv`` is a replacement table for author names.
 5. ``replacefile_countrynames.csv`` is a replacement table for country names.
 6. Files such as ``01_updated_WOS_1.txt``, ``02_updated_WOS_2.txt``, up to ``05_final_WOS_2.txt`` are txt files generated during the data preprocessing of the original literature information in Python.
-7. ``Bubble_fields_data.csv``, ``Bubble_journals_data.csv``, and ``Bubble_keywords_data.csv`` are the raw data tables for creating bubble charts of research fields, journals, and author keywords.
+7. ``Bubble_fields_data.csv``, ``Bubble_journals_data.csv``, and ``Bubble_keywords_data.csv`` are the raw data tables for creating bubble charts of research areas, journals, and author keywords.
 8. Files like ``Data_Author.csv``, ``Data_Country.csv``, up to ``Data_Research_Area.csv`` are the final result tables from Python's bibliometric data analysis of information such as countries, institutions, authors, research areas, and journals.
