@@ -3,7 +3,7 @@ This repository houses the Python code utilized in our recent bibliometric analy
 
 This work has now been published in Frontiers in Physiology: Zhou T, Long K, Chen J, Zhi L, Zhou X and Gao P (2024) Global research progress of endothelial cells and ALI/ARDS: a bibliometric analysis. Front. Physiol. 15:1326392.
 
-Available at: [https://doi.org/10.7554/eLife.82674IF](https://doi.org/10.3389/fphys.2024.1326392)
+Available at: https://doi.org/10.3389/fphys.2024.1326392.
 
 Description of each file:
 1. ``WOS_bibliometric analysis.ipynb`` is the Python file for performing bibliometric analysis. It provides a detailed explanation of the code's usage and process using markdown syntax.
